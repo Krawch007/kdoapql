@@ -1,0 +1,91 @@
+{
+    "selected" : {
+
+        "banner" : "" ,
+        "interstitial" : "",
+        "native" : "",
+        "rewarded" : "",
+        "replace" : ""
+
+    },
+
+    "mopub" : {
+  
+        "banner" : "" ,
+        "native" : "",
+        "interstitial" : "",
+        "rewarded" : ""
+
+    },
+
+    "admob" : {
+  		
+    	"app_id" : "ca-app-pub-3940256099942544~3347511713" ,
+        "banner" : "",
+        "native" : "",
+        "interstitial" : "",
+        "rewarded" : ""
+        
+    },
+
+    "unity" : {
+  		"game_id" : "",
+        "banner" : "" ,
+        "interstitial" : "",
+        "rewarded" : ""
+        
+    },
+
+    "tapjoy" : {
+  		"app_key" : "",
+        "interstitial" : "",
+        "rewarded" : ""
+        
+    },
+
+    "vungle" : {
+  		
+  		"account_id" : "",
+        "banner" : "" ,
+        "native" : "",
+        "interstitial" : "",
+        "rewarded" : ""
+        
+    },
+
+    "ironsource" : {
+  		
+  		"app_key" : "",
+        "banner" : "" ,
+        "interstitial" : "",
+        "rewarded" : ""
+        
+    },
+
+    "inmobi" : {
+  		
+  		"account_id" : "",
+        "banner" : "" ,
+        "native" : "",
+        "interstitial" : "",
+        "rewarded" : ""
+        
+    },
+
+    "appodeal" : {
+        "app_key" : "",
+        "banner" : "" ,
+        "native" : "",
+        "interstitial" : "",
+        "rewarded" : ""
+        
+    },
+    
+    "applovin" : {
+        "sdk_key" : "" ,
+        "banner" : "" ,
+        "native" : "",
+        "interstitial" : "",
+        "rewarded" : ""   
+    }
+}
