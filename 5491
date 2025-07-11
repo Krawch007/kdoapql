@@ -1,91 +1,18 @@
 {
-    "selected" : {
+  "onboarding1": {
+    "image": "https://upload.orotv.shop/uploads/1750278326265-668852307.png",
+    "text": "See your cartoon character"
 
-        "banner" : "" ,
-        "interstitial" : "",
-        "native" : "",
-        "rewarded" : "",
-        "replace" : ""
-
-    },
-
-    "mopub" : {
-  
-        "banner" : "" ,
-        "native" : "",
-        "interstitial" : "",
-        "rewarded" : ""
-
-    },
-
-    "admob" : {
-  		
-    	"app_id" : "ca-app-pub-3940256099942544~3347511713" ,
-        "banner" : "",
-        "native" : "",
-        "interstitial" : "",
-        "rewarded" : ""
-        
-    },
-
-    "unity" : {
-  		"game_id" : "",
-        "banner" : "" ,
-        "interstitial" : "",
-        "rewarded" : ""
-        
-    },
-
-    "tapjoy" : {
-  		"app_key" : "",
-        "interstitial" : "",
-        "rewarded" : ""
-        
-    },
-
-    "vungle" : {
-  		
-  		"account_id" : "",
-        "banner" : "" ,
-        "native" : "",
-        "interstitial" : "",
-        "rewarded" : ""
-        
-    },
-
-    "ironsource" : {
-  		
-  		"app_key" : "",
-        "banner" : "" ,
-        "interstitial" : "",
-        "rewarded" : ""
-        
-    },
-
-    "inmobi" : {
-  		
-  		"account_id" : "",
-        "banner" : "" ,
-        "native" : "",
-        "interstitial" : "",
-        "rewarded" : ""
-        
-    },
-
-    "appodeal" : {
-        "app_key" : "",
-        "banner" : "" ,
-        "native" : "",
-        "interstitial" : "",
-        "rewarded" : ""
-        
-    },
-    
-    "applovin" : {
-        "sdk_key" : "" ,
-        "banner" : "" ,
-        "native" : "",
-        "interstitial" : "",
-        "rewarded" : ""   
-    }
+  },
+  "onboarding2": {
+    "video": "https://upload.orotv.shop/videos/1751470441009-85002492.mp4",
+    "text": "Doll Style"
+  },
+  "onboarding3": {
+    "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F49e21efa-6880-4afd-84ae-001b3a0925d1_seed264934742.mp4",
+    "text": "Animate your Memories"
+  },
+  "onboarding4": {
+    "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/effect-lab-n-e-w-u-i-6cul1o/assets/afv01bwzd4v2/cont1.png"
+  }
 }
