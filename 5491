@@ -1,14 +1,6 @@
 {
-  "cards": [
-    "https://relentlessdragon.com/wp-content/uploads/2019/10/Charizard-Legendary-Collection3.jpg",
-    "https://relentlessdragon.com/wp-content/uploads/2019/10/Charizard-Legendary-Collection3.jpg",
-    "https://relentlessdragon.com/wp-content/uploads/2019/10/Charizard-Legendary-Collection3.jpg",
-    "https://relentlessdragon.com/wp-content/uploads/2019/10/Charizard-Legendary-Collection3.jpg",
-    "https://relentlessdragon.com/wp-content/uploads/2019/10/Charizard-Legendary-Collection3.jpg",
-    "https://relentlessdragon.com/wp-content/uploads/2019/10/Charizard-Legendary-Collection3.jpg",
-    "https://relentlessdragon.com/wp-content/uploads/2019/10/Charizard-Legendary-Collection3.jpg",
-    "https://relentlessdragon.com/wp-content/uploads/2019/10/Charizard-Legendary-Collection3.jpg"
-  ],
+  "lottieEnabled": true,
+  "image": "https://relentlessdragon.com/wp-content/uploads/2019/10/Charizard-Legendary-Collection3.jpg",
   "content": [
     {
       "title": "🧠 Scan. Identify. Know Instantly.",
