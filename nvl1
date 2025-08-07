@@ -1,17 +1,16 @@
 {
+  "lottieEnabled": true,
+  "image": "https://relentlessdragon.com/wp-content/uploads/2019/10/Charizard-Legendary-Collection3.jpg",
   "content": [
-    {  
-      "image": "https://relentlessdragon.com/wp-content/uploads/2019/10/Charizard-Legendary-Collection3.jpg",
+    {
       "title": "🧠 Scan. Identify. Know Instantly.",
       "description": "Get real-time prices and listings from eBay & TCGplayer with a single scan. Never guess a card’s value again — just point and scan."
     },
     {
-      "image": "https://relentlessdragon.com/wp-content/uploads/2019/10/Charizard-Legendary-Collection3.jpg",
       "title": "📊 Build Your Pokémon Portfolio",
       "description": "Generate stunning videos with advanced AI technology."
     },
     {
-      "image": "https://relentlessdragon.com/wp-content/uploads/2019/10/Charizard-Legendary-Collection3.jpg",
       "title": "🤖 Your AI Agent Awaits",
       "description": "Chat with your personal TCG expert. Get instant insights, tips, and market trends from your smart card assistant."
     }
