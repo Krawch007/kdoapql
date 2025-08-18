@@ -1,13 +1,1 @@
-[
-  {
-    "id": "revAnimated",
-    "title": "RevAnimated",
-    "model": "someone/rev-animated",
-    "version": "a1b2c3d4",
-    "image": "https://.../rev-animated.jpg",
-    "defaultGuidance": 6,
-    "maxW": 1024,
-    "maxH": 1024,
-    "acceptsImage": true
-  }
-]
+
