@@ -1,6 +1,4 @@
 
 {
-  "showProTokens": false,
-  "updatedAt": "2025-09-15T00:00:00Z",
-  "note": "Flip showProTokens to true/false to control visibility. If fetch fails, app defaults to showing the box."
+  "showProTokens": true
 }
