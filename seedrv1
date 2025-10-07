@@ -21,6 +21,7 @@
         "id": "3d-figurine",
         "name": "3D Figurine",
         "image": "https://your.cdn.com/styles/3d-figurine.jpg",
+        "model": "nano-banana",
         "tag": "hot",
         "prompt": "turn this subject into a highly-detailed 3D figurine on a small plinth, studio light, soft shadows"
       },
@@ -28,6 +29,7 @@
         "id": "area-restyle",
         "name": "Area Restyle",
         "image": "https://your.cdn.com/styles/area-restyle.jpg",
+        "model": "nano-banana",
         "tag": "new",
         "prompt": "redesign the selected area with a modern aesthetic; keep proportions and perspective"
       },
@@ -35,6 +37,7 @@
         "id": "bag-charm-maker",
         "name": "Bag Charm Maker",
         "image": "https://your.cdn.com/styles/bag-charm-maker.jpg",
+        "model": "nano-banana",
         "tag": "new",
         "prompt": "create a cute acrylic keychain charm from the subject, flat color, white outline, drop shadow"
       }
