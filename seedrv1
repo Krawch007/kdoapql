@@ -1,18 +1,18 @@
 {
   "models": {
     "images": [
-      { "id": "sd3", "name": "Stable Diffusion 3", "subtitle": "For detailed, complex scenes", "etaSec": 30, "icon": "" },
-      { "id": "dalle3", "name": "DALL·E 3", "subtitle": "Strong ability to visualize abstract concepts", "etaSec": 30 },
-      { "id": "flux-schnell", "name": "Flux Schnell", "subtitle": "Cost-effective modeling", "etaSec": 15 },
-      { "id": "flux-1-1-pro", "name": "Flux 1.1 Pro", "subtitle": "For professional-grade images", "etaSec": 30 },
-      { "id": "flux-1-1-ultra", "name": "Flux 1.1 Pro Ultra", "subtitle": "For detailed, complex scenes", "etaSec": 30 }
+      { "id": "sd3", "name": "Stable Diffusion 3", "subtitle": "For detailed, complex scenes", "etaSec": 30, acceptsImage: true },
+      { "id": "dalle3", "name": "DALL·E 3", "subtitle": "Strong ability to visualize abstract concepts", "etaSec": 30, acceptsImage: true },
+      { "id": "flux-schnell", "name": "Flux Schnell", "subtitle": "Cost-effective modeling", "etaSec": 15, acceptsImage: true },
+      { "id": "flux-1-1-pro", "name": "Flux 1.1 Pro", "subtitle": "For professional-grade images", "etaSec": 30, acceptsImage: true },
+      { "id": "flux-1-1-ultra", "name": "Flux 1.1 Pro Ultra", "subtitle": "For detailed, complex scenes", "etaSec": 30, acceptsImage: true }
     ],
     "videos": [
-      { "id": "hailuo-2d", "name": "Hailuo Live2D", "subtitle": "Good for 2D animation", "etaSec": 180 },
-      { "id": "pika-2-1",  "name": "Pika 2.1", "subtitle": "Crystal-clear and immersive outputs", "etaSec": 100 },
-      { "id": "kling-1-5", "name": "Kling 1.5", "subtitle": "Suitable for complex scenes", "etaSec": 360 },
-      { "id": "kling-1-0", "name": "Kling 1.0", "subtitle": "Suitable for short videos", "etaSec": 360 },
-      { "id": "pollo-1-5", "name": "Pollo 1.5", "subtitle": "Versatile model", "etaSec": 300 }
+      { "id": "hailuo-2d", "name": "Hailuo Live2D", "subtitle": "Good for 2D animation", "etaSec": 180, acceptsImage: true },
+      { "id": "pika-2-1",  "name": "Pika 2.1", "subtitle": "Crystal-clear and immersive outputs", "etaSec": 100, acceptsImage: true },
+      { "id": "kling-1-5", "name": "Kling 1.5", "subtitle": "Suitable for complex scenes", "etaSec": 360, acceptsImage: true },
+      { "id": "kling-1-0", "name": "Kling 1.0", "subtitle": "Suitable for short videos", "etaSec": 360, acceptsImage: true },
+      { "id": "pollo-1-5", "name": "Pollo 1.5", "subtitle": "Versatile model", "etaSec": 300, acceptsImage: true }
     ]
   },
   "styles": {
