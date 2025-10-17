@@ -10,7 +10,7 @@
         "icon": "https://www.transcript.club/dream/models/images/gemini.png",
         "allowedRatioKeys": ["match_input_image","1:1","16:9","9:16","3:4","4:3"],
         "defaultRatioKey": "match_input_image",
-        "costTokens": 3
+        "costTokens": 67
       },
       {
         "id": "seedream-4",
@@ -21,7 +21,7 @@
         "icon": "https://www.transcript.club/dream/models/images/seedream.png",
         "allowedRatioKeys": ["1:1","3:2","2:3","4:3","3:4"],
         "defaultRatioKey": "1:1",
-        "costTokens": 6
+        "costTokens": 200
       },
       {
         "id": "imagen-4",
@@ -32,7 +32,7 @@
         "icon": "https://www.transcript.club/dream/models/images/imagen-4.png",
         "allowedRatioKeys": ["1:1","16:9","9:16","3:4","4:3"],
         "defaultRatioKey": "16:9",
-        "costTokens": 3
+        "costTokens": 67
       },
       {
         "id": "stable-diffusion-3",
@@ -43,7 +43,7 @@
         "icon": "https://www.transcript.club/dream/models/images/stable-diffusion-3.png",
         "allowedRatioKeys": ["1:1","16:9","9:16","3:2","2:3"],
         "defaultRatioKey": "16:9",
-        "costTokens": 3
+        "costTokens": 67
       },
       {
         "id": "flux-1.1-pro",
@@ -54,7 +54,7 @@
         "icon": "https://www.transcript.club/dream/models/images/black-forest-labs.png",
         "allowedRatioKeys": ["1:1","16:9","9:16","4:3","3:4","3:2","2:3"],
         "defaultRatioKey": "16:9",
-        "costTokens": 3
+        "costTokens": 67
       },
       {
         "id": "flux-1.1-pro-ultra",
@@ -65,7 +65,7 @@
         "icon": "https://www.transcript.club/dream/models/images/black-forest-labs.png",
         "allowedRatioKeys": ["1:1","16:9","9:16","4:3","3:4","3:2","2:3"],
         "defaultRatioKey": "16:9",
-        "costTokens": 3
+        "costTokens": 67
       },
       {
         "id": "flux-schnell",
@@ -76,7 +76,7 @@
         "icon": "https://www.transcript.club/dream/models/images/black-forest-labs.png",
         "allowedRatioKeys": ["1:1","16:9","9:16","4:3","3:4","3:2","2:3"],
         "defaultRatioKey": "16:9",
-        "costTokens": 3
+        "costTokens": 67
       },
       {
         "id": "flux-dev",
@@ -87,7 +87,7 @@
         "icon": "https://www.transcript.club/dream/models/images/black-forest-labs.png",
         "allowedRatioKeys": ["1:1","16:9","9:16","4:3","3:4","3:2","2:3"],
         "defaultRatioKey": "16:9",
-        "costTokens": 3
+        "costTokens": 67
       },
       {
         "id": "flux-dev-lora",
@@ -98,7 +98,7 @@
         "icon": "https://www.transcript.club/dream/models/images/black-forest-labs.png",
         "allowedRatioKeys": ["1:1","16:9","9:16","4:3","3:4","3:2","2:3"],
         "defaultRatioKey": "16:9",
-        "costTokens": 3
+        "costTokens": 67
       },
       {
         "id": "flux-kontext-max",
@@ -109,7 +109,7 @@
         "icon": "https://www.transcript.club/dream/models/images/black-forest-labs.png",
         "allowedRatioKeys": ["match_input_image","1:1","16:9","9:16","4:3","3:4","3:2","2:3"],
         "defaultRatioKey": "match_input_image",
-        "costTokens": 3
+        "costTokens": 67
       },
       {
         "id": "ideogram-v2a-turbo",
@@ -120,7 +120,7 @@
         "icon": "https://www.transcript.club/dream/models/images/ideogram-v2a-turbo.png",
         "allowedRatioKeys": ["1:1","16:9","9:16","16:10","3:2","2:3","4:3","3:4"],
         "defaultRatioKey": "16:9",
-        "costTokens": 3
+        "costTokens": 67
       },
       {
         "id": "qwen-image",
@@ -131,7 +131,7 @@
         "icon": "https://www.transcript.club/dream/models/images/qwen-image.png",
         "allowedRatioKeys": ["1:1","16:9","9:16","3:4","4:3","2:3","3:2"],
         "defaultRatioKey": "16:9",
-        "costTokens": 3
+        "costTokens": 67
       },
       {
         "id": "qwen-midjourney-v3",
@@ -142,7 +142,7 @@
         "icon": "https://www.transcript.club/dream/models/images/midjourney.png",
         "allowedRatioKeys": ["1:1","16:9","9:16","3:4","4:3","3:2","2:3"],
         "defaultRatioKey": "match_input_image",
-        "costTokens": 3
+        "costTokens": 67
       }
     ],
     "videos": [
