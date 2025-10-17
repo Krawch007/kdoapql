@@ -155,7 +155,7 @@
             "icon": "https://www.transcript.club/dream/models/videos/pixverse-v5.png?v=2",
             "allowedRatioKeys": ["16:9","9:16","1:1"],
             "defaultRatioKey": "16:9",
-            "costTokens": 3
+            "costTokens": 167
           },
           {
             "id": "kling-v2.5-turbo-pro",
@@ -166,7 +166,7 @@
             "icon": "https://www.transcript.club/dream/models/videos/kling-v2.5-turbo-pro.png?v=2",
             "allowedRatioKeys": ["16:9","9:16","1:1"],
             "defaultRatioKey": "16:9",
-            "costTokens": 3
+            "costTokens": 200
           },
           {
             "id": "google-veo-3",
@@ -177,7 +177,7 @@
             "icon": "https://www.transcript.club/dream/models/videos/google-veo-3.png?v=2",
             "allowedRatioKeys": ["16:9","9:16"],
             "defaultRatioKey": "16:9",
-            "costTokens": 3
+            "costTokens": 750
           },
           {
             "id": "gen4-turbo",
@@ -188,7 +188,7 @@
             "icon": "https://www.transcript.club/dream/models/videos/gen4-turbo.png?v=2",
             "allowedRatioKeys": ["16:9","9:16","4:3","3:4","1:1"],
             "defaultRatioKey": "16:9",
-            "costTokens": 3
+            "costTokens": 250
           },
           {
             "id": "ray-flash-2-720p",
@@ -199,7 +199,7 @@
             "icon": "https://www.transcript.club/dream/models/videos/ray-flash-2.png?v=2",
             "allowedRatioKeys": ["1:1","16:9","9:16","3:4","4:3"],
             "defaultRatioKey": "16:9",
-            "costTokens": 3
+            "costTokens": 167
           },
           {
             "id": "seedance-1-pro",
@@ -210,7 +210,7 @@
             "icon": "https://www.transcript.club/dream/models/videos/seedance-1-pro.png?v=2",
             "allowedRatioKeys": ["1:1","16:9","9:16","3:4","4:3"],
             "defaultRatioKey": "16:9",
-            "costTokens": 3
+            "costTokens": 167
           }
     ]
   },
