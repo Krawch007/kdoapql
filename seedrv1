@@ -216,29 +216,181 @@
   },
   "styles": {
     "images": [
-      {
-        "id": "neo-portrait",
-        "name": "Neo Portrait",
-        "image": "https://cdn.example.com/styles/neo-portrait.jpg",
-        "prompt": "highly detailed portrait, soft rim light, shallow depth of field",
-        "tag": "hot",
-        "model": "nano-banana"
-      },
-      {
-        "id": "film-still-80s",
-        "name": "80s Film Still",
-        "image": "https://cdn.example.com/styles/film-still-80s.jpg",
-        "prompt": "80s film still, grain, Kodak color palette, anamorphic bokeh",
-        "tag": "new",
-        "model": "seedream-4"
-      },
-      {
-        "id": "minimal-product",
-        "name": "Minimal Product",
-        "image": "https://cdn.example.com/styles/minimal-product.jpg",
-        "prompt": "studio product shot, seamless white backdrop, soft shadows, crisp edges",
-        "model": "seedream-4"
-      }
+        {
+          id: "3d-figurine",
+          name: "3D Figurine",
+          image: "https://www.transcript.club/dream/styles/3d-figurine.jpg",
+          model: "nano-banana",
+          prompt: "turn this subject into a highly-detailed 3D figurine on a small plinth, studio light, soft shadows"
+        },
+        {
+          id: "area-restyle",
+          name: "Area Restyle",
+          image: "https://www.transcript.club/dream/styles/area-restyle.jpg",
+          model: "nano-banana",
+          prompt: "redesign the selected area with a modern aesthetic; keep proportions and perspective"
+        },
+        {
+          id: "bag-charm-maker",
+          name: "Bag Charm Maker",
+          image: "https://www.transcript.club/dream/styles/bag-charm-maker.jpg",
+          model: "nano-banana",
+          prompt: "create a cute acrylic keychain charm from the subject, flat color, white outline, drop shadow"
+        },
+        {
+          id: "boardroom-id",
+          name: "Boardroom ID",
+          image: "https://www.transcript.club/dream/styles/boardroom-id.jpg",
+          model: "nano-banana",
+          prompt: "professional corporate headshot, neutral backdrop, soft key light, realistic skin"
+        },
+        {
+          id: "buzz-cut",
+          name: "Buzz Cut",
+          image: "https://www.transcript.club/dream/styles/buzz-cut.jpg",
+          model: "nano-banana",
+          prompt: "apply a clean buzz cut hairstyle, realistic hairline, natural texture, consistent lighting"
+        },
+        {
+          id: "car-color",
+          name: "Car Color",
+          image: "https://www.transcript.club/dream/styles/car-color.jpg",
+          model: "nano-banana",
+          prompt: "repaint the car to a glossy finish in the chosen color, keep reflections and environment"
+        },
+        {
+          id: "celebrity",
+          name: "Selfie With Celebrity",
+          image: "https://www.transcript.club/dream/styles/celebrity.jpg",
+          model: "nano-banana",
+          prompt: "Take a close selfie with Celebrity “Girl with a Pearl Earring”"
+        },
+        {
+          id: "change-bg",
+          name: "Change BG",
+          image: "https://www.transcript.club/dream/styles/change-bg.jpg",
+          model: "nano-banana",
+          prompt: "isolate subject and replace background with a clean studio gradient"
+        },
+        {
+          id: "change-facial-expression",
+          name: "Change Facial Expression",
+          image: "https://www.transcript.club/dream/styles/change-facial-expression.jpg",
+          model: "nano-banana",
+          prompt: "subtle smile, relaxed eyes, keep identity and skin texture natural"
+        },
+        {
+          id: "change-outfit",
+          name: "Change Outfit",
+          image: "https://www.transcript.club/dream/styles/change-outfit.jpg",
+          model: "nano-banana",
+          prompt: "swap outfit to fashionable casual streetwear, realistic folds and fabric texture"
+        },
+        {
+          id: "change-tone",
+          name: "Change Tone",
+          image: "https://www.transcript.club/dream/styles/change-tone.jpg",
+          model: "nano-banana",
+          prompt: "color grade to cinematic teal & orange, soft contrast, filmic look"
+        },
+        {
+          id: "comic-expression",
+          name: "Comic Expression",
+          image: "https://www.transcript.club/dream/styles/comic-expression.jpg",
+          model: "nano-banana",
+          prompt: "comic-book ink lines, halftone shading, vibrant colors, dynamic expression"
+        },
+        {
+          id: "cover-style",
+          name: "Cover Style",
+          image: "https://www.transcript.club/dream/styles/cover-style.jpg",
+          model: "nano-banana",
+          prompt: "magazine cover aesthetic, minimal typography area, high-end retouching"
+        },
+        {
+          id: "crocket-me",
+          name: "Crocket Me",
+          image: "https://www.transcript.club/dream/styles/crocket-me.jpg",
+          model: "nano-banana",
+          prompt: "turn the subject into a crochet plush doll, yarn texture, button eyes"
+        },
+        {
+          id: "erase-anything",
+          name: "Erase Anything",
+          image: "https://www.transcript.club/dream/styles/erase-anything.jpg",
+          model: "nano-banana",
+          prompt: "Erase the person on the right side of the photo"
+        },
+        {
+          id: "face-swap",
+          name: "Face Swap",
+          image: "https://www.transcript.club/dream/styles/face-swap.jpg",
+          model: "nano-banana",
+          prompt: "transfer facial identity while preserving pose, lighting and hair"
+        },
+        {
+          id: "hair-color",
+          name: "Hair Color",
+          image: "https://www.transcript.club/dream/styles/hair-color.jpg",
+          model: "nano-banana",
+          prompt: "change hair color to the selected shade; keep natural highlights"
+        },
+        {
+          id: "logo-changer",
+          name: "Logo Changer",
+          image: "https://www.transcript.club/dream/styles/logo-changer.jpg",
+          model: "nano-banana",
+          prompt: "replace the visible logo with the provided mark; match lighting & perspective"
+        },
+        {
+          id: "modify-text",
+          name: "Modify Text",
+          image: "https://www.transcript.club/dream/styles/modify-text.jpg",
+          model: "nano-banana",
+          prompt: "edit on-image text to the provided wording; preserve font style if possible"
+        },
+        {
+          id: "muscle",
+          name: "Muscle",
+          image: "https://www.transcript.club/dream/styles/muscle.jpg",
+          model: "nano-banana",
+          prompt: "subtle athletic enhancement, natural proportions and realistic skin"
+        },
+        {
+          id: "old-photo-restore",
+          name: "Old Photo Restore",
+          image: "https://www.transcript.club/dream/styles/old-photo-restore.jpg",
+          model: "nano-banana",
+          prompt: "restore damaged photo, fix scratches, enhance clarity, keep vintage tone"
+        },
+        {
+          id: "outfit-profession-switch",
+          name: "Outfit Switch",
+          image: "https://www.transcript.club/dream/styles/outfit-profession-switch.jpg",
+          model: "nano-banana",
+          prompt: "change outfit to the selected profession uniform; accurate details and textures"
+        },
+        {
+          id: "past-forward",
+          name: "Past Forward",
+          image: "https://www.transcript.club/dream/styles/past-forward.jpg",
+          model: "nano-banana",
+          prompt: "change outfit to the selected profession uniform; accurate details and textures"
+        },
+        {
+          id: "whiteen-the-teeth",
+          name: "Whiteen The Teeth",
+          image: "https://www.transcript.club/dream/styles/whiteen-the-teeth.jpg",
+          model: "nano-banana",
+          prompt: "change outfit to the selected profession uniform; accurate details and textures"
+        },
+        {
+          id: "word-trip",
+          name: "Word Trip",
+          image: "https://www.transcript.club/dream/styles/word-trip.jpg",
+          model: "nano-banana",
+          prompt: "change outfit to the selected profession uniform; accurate details and textures"
+        }
     ]
   }
 } 
