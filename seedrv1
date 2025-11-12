@@ -199,7 +199,7 @@
             "icon": "https://www.transcript.club/dream/models/videos/google-veo-3.png?v=2",
             "allowedRatioKeys": ["16:9","9:16"],
             "defaultRatioKey": "16:9",
-            "costTokens": 750
+            "costTokens": 1000
           },
           {
             "id": "gen4-turbo",
