@@ -8,7 +8,7 @@
         "etaSec": 90,
         "imageRequirement": "optional",
         "icon": "https://www.transcript.club/dream/models/images/banana.jpg",
-        "allowedRatioKeys": ["match_input_image","1:1","16:9","9:16","3:4","4:3"],
+        "allowedRatioKeys": ["match_input_image","1:1","16:9","9:16","4:3","3:4","3:2","2:3"],
         "defaultRatioKey": "match_input_image",
         "costTokens": 100
       },
