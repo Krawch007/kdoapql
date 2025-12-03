@@ -1,5 +1,5 @@
 {
-  "enableInstrumental": true,
+  "enableInstrumental": false,
   "songCost": 10,
   "videoCost": 400
 }
