@@ -13,5 +13,14 @@
     "buttonText": "Close",
     "buttonType": "text",
     "buttonUrl": "https://www.socraticai.one/"
+  },
+
+  "updateNotice": {
+    "enabled": true,
+    "minVersion": "1.0.7",
+    "title": "Update required",
+    "body": "Please update Socapi to the latest version to continue using all features.",
+    "ctaLabel": "Update now",
+    "storeUrl": "https://apps.apple.com/app/your-app-id"
   }
 }
