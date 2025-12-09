@@ -1,4 +1,5 @@
 
 {
-  "showProTokens": false
+  "showProTokens": false,
+  "showRewardBadge": false
 }
