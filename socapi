@@ -5,11 +5,11 @@
   "note": "Temporarily disabled scanning due to an issue.",
 
   "announcement": {
-    "enabled": true,
-    "skippable": true,
+    "enabled": false,
+    "skippable": false,
     "title": "Announcement",
-    "description": "We are currently experiencing an issue with scanning. Please use text questions for now. We will fix it as soon as possible.",
-    "buttonEnabled": true,
+    "description": "We are currently experiencing an issue. We will fix it as soon as possible.",
+    "buttonEnabled": false,
     "buttonText": "Close",
     "buttonType": "text",
     "buttonUrl": "https://your-status-page-or-twitter.com"
