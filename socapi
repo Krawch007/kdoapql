@@ -6,12 +6,12 @@
 
   "announcement": {
     "enabled": true,
-    "skippable": false,
-    "title": "Socratic AI Announcement",
+    "skippable": true,
+    "title": "Announcement",
     "description": "We are currently experiencing an issue with scanning. Please use text questions for now. We will fix it as soon as possible.",
     "buttonEnabled": true,
-    "buttonText": "More info",
-    "buttonType": "url",
+    "buttonText": "Close",
+    "buttonType": "text",
     "buttonUrl": "https://your-status-page-or-twitter.com"
   }
 }
