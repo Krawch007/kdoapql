@@ -5,7 +5,7 @@
   "note": "Temporarily disabled scanning due to an issue.",
 
   "announcement": {
-    "enabled": true,
+    "enabled": false,
     "skippable": false,
     "title": "Announcement",
     "description": "We are currently experiencing an issue. We will fix it as soon as possible.",
