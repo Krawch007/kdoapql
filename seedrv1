@@ -424,6 +424,30 @@
           "model": "nano-banana",
           "prompt": "change outfit to the selected profession uniform; accurate details and textures"
         }
+    ],
+    "videos": [
+      {
+        "id": "pixverse_treedoll_251204",
+        "name": "Tree doll",
+        "tag": "new",
+        "model": "pixverse-v5",
+        "prompt": "In a flash of light, you appear atop the tree, glowing softly.",
+        "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_treedoll1_251204.jpg",
+        "preview_video_url": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_treedoll1_251204.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_treedoll1_251204.gif",
+        "duration_sec": 5
+      },
+      {
+        "id": "pixverse_372272620777642",
+        "name": "Santa",
+        "tag": "hot",
+        "model": "pixverse-v5",
+        "prompt": "Transform yourself into Santa Claus.",
+        "image": "https://media.pixverse.ai/studio%2Fimg%2F769bc70e-43bc-4044-a165-d9a9727447d2.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2F3f05a8ba-f6b7-4da7-b40b-1d9d33a4606f.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Fsanta.gif",
+        "duration_sec": 5
+      }
     ]
   }
 } 
