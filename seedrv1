@@ -432,9 +432,9 @@
         "tag": "new",
         "model": "pixverse-v5",
         "prompt": "Where lights meet festive energy, the spotlight officially begins.",
-        "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_spotlightmoment_251218.jpg",
-        "preview_video_url": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_spotlightmoment_251218.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_spotlightmoment_251218.gif",
+        "image": "https://media.pixverse.ai/asset/template/app_spotlightmoment_251218.jpg",
+        "preview_video_url": "https://media.pixverse.ai/asset/template/app_spotlightmoment_251218.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/asset/template/app_spotlightmoment_251218.gif",
         "duration_sec": 5
       },
       {
@@ -443,9 +443,9 @@
         "tag": "default",
         "model": "pixverse-v5",
         "prompt": "One click to send your kiss",
-        "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_kisskiss_250610.png",
-        "preview_video_url": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_kisskiss_250610.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_kisskiss_250610.gif",
+        "image": "https://media.pixverse.ai/asset/template/app_kisskiss_250610.png",
+        "preview_video_url": "https://media.pixverse.ai/asset/template/app_kisskiss_250610.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/asset/template/app_kisskiss_250610.gif",
         "duration_sec": 5
       },
       {
@@ -454,9 +454,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "The ice dragon is my loyal companion.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F513a812f-4f71-4c5b-b16e-4d6fd4689a07.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fcb938548-d2bc-4186-a6a2-4ece4c998152.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F1e9b8456-f214-471b-8d6e-1adbbf005472.gif",
+        "image": "https://media.pixverse.ai/studio/img/513a812f-4f71-4c5b-b16e-4d6fd4689a07.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/cb938548-d2bc-4186-a6a2-4ece4c998152.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/1e9b8456-f214-471b-8d6e-1adbbf005472.gif",
         "duration_sec": 5
       },
       {
@@ -465,9 +465,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Savor the warmth of hot chocolate from the mug.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F5f546fd0-4046-468c-b79c-5ef625fffe4e.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F2b8f3a95-65a0-4a98-8a9e-5bd4e4cd7893.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F2b8f3a95-65a0-4a98-8a9e-5bd4e4cd7893.gif",
+        "image": "https://media.pixverse.ai/studio/img/5f546fd0-4046-468c-b79c-5ef625fffe4e.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/2b8f3a95-65a0-4a98-8a9e-5bd4e4cd7893.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/2b8f3a95-65a0-4a98-8a9e-5bd4e4cd7893.gif",
         "duration_sec": 5
       },
       {
@@ -476,9 +476,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Become a Christmas tree",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2Fd35f37bd-b0ce-45c8-96dc-5adda990aea4.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2F8afba7a9-daf6-4588-9a55-ec534e45be81.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2Ff6a0b3b9-ed23-4890-884a-b36db76cd4a3.gif",
+        "image": "https://media.pixverse.ai/studio/img/d35f37bd-b0ce-45c8-96dc-5adda990aea4.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/8afba7a9-daf6-4588-9a55-ec534e45be81.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/f6a0b3b9-ed23-4890-884a-b36db76cd4a3.gif",
         "duration_sec": 8
       },
       {
@@ -487,9 +487,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Transform yourself into a sexy elf this Holiday season.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F32abc209-2d62-4f2e-981b-3bf816afc399.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F9b493849-350d-458e-a84f-e285eff7a710.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F9b493849-350d-458e-a84f-e285eff7a710.gif",
+        "image": "https://media.pixverse.ai/studio/img/32abc209-2d62-4f2e-981b-3bf816afc399.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/9b493849-350d-458e-a84f-e285eff7a710.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/9b493849-350d-458e-a84f-e285eff7a710.gif",
         "duration_sec": 5
       },
       {
@@ -498,9 +498,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Large Christmas Ball",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F9da98bac-f865-4def-a3b7-25321fe7f027.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F02582818-c716-45b5-b7a2-6bec100b4809.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F02582818-c716-45b5-b7a2-6bec100b4809.gif",
+        "image": "https://media.pixverse.ai/studio/img/9da98bac-f865-4def-a3b7-25321fe7f027.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/02582818-c716-45b5-b7a2-6bec100b4809.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/02582818-c716-45b5-b7a2-6bec100b4809.gif",
         "duration_sec": 5
       },
       {
@@ -509,9 +509,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Winter magic transforms the subject into a fluffy sailor-style magical girl.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F0e4c558c-6319-4b0b-a625-e967f5602c44.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2Fb5ce02b4-91ea-44e1-9081-45af1b111478.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2Fb5ce02b4-91ea-44e1-9081-45af1b111478.gif",
+        "image": "https://media.pixverse.ai/studio/img/0e4c558c-6319-4b0b-a625-e967f5602c44.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/b5ce02b4-91ea-44e1-9081-45af1b111478.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/b5ce02b4-91ea-44e1-9081-45af1b111478.gif",
         "duration_sec": 8
       },
       {
@@ -520,9 +520,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Bake cookies with a little gnome.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2Fe5014a64-d5ba-420e-b8f0-347e699ed48c.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2F8e4a774a-80c8-41b1-9b86-cc03b07b2412.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F8d4c0301-4806-43f6-b62b-fa1671b2a669.gif",
+        "image": "https://media.pixverse.ai/studio/img/e5014a64-d5ba-420e-b8f0-347e699ed48c.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/8e4a774a-80c8-41b1-9b86-cc03b07b2412.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/8d4c0301-4806-43f6-b62b-fa1671b2a669.gif",
         "duration_sec": 8
       },
       {
@@ -531,9 +531,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Capture a selfie with Santa! Ideal for this Holiday Season.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F4500dde5-1e72-4e31-9c3f-cb075dd4e72a.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F152e33de-e3f2-45b7-811b-fe3f83917091.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F152e33de-e3f2-45b7-811b-fe3f83917091.gif",
+        "image": "https://media.pixverse.ai/studio/img/4500dde5-1e72-4e31-9c3f-cb075dd4e72a.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/152e33de-e3f2-45b7-811b-fe3f83917091.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/152e33de-e3f2-45b7-811b-fe3f83917091.gif",
         "duration_sec": 5
       },
       {
@@ -542,9 +542,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Group selfie with friends this Christmas season",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F01ceeb98-40b0-472c-ada8-581fbf5c0f5f.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F9860668a-a19e-4267-9532-0027cc649210.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F9860668a-a19e-4267-9532-0027cc649210.gif",
+        "image": "https://media.pixverse.ai/studio/img/01ceeb98-40b0-472c-ada8-581fbf5c0f5f.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/9860668a-a19e-4267-9532-0027cc649210.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/9860668a-a19e-4267-9532-0027cc649210.gif",
         "duration_sec": 5
       },
       {
@@ -553,9 +553,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Meet the mechanical reindeer under the big snowflakes.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2Ff8ee22f8-57ca-4c25-938c-c5e0f95293bd.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F964bd812-1467-4987-808f-9ac61dc18b37.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F964bd812-1467-4987-808f-9ac61dc18b37.gif",
+        "image": "https://media.pixverse.ai/studio/img/f8ee22f8-57ca-4c25-938c-c5e0f95293bd.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/964bd812-1467-4987-808f-9ac61dc18b37.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/964bd812-1467-4987-808f-9ac61dc18b37.gif",
         "duration_sec": 5
       },
       {
@@ -564,9 +564,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Allow yourself to be enveloped by the melting snow.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F1fc69a31-5e69-402a-825c-8f6c6d05dec1.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F6018df89-0276-4c53-bb05-2302aefbd276.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F6018df89-0276-4c53-bb05-2302aefbd276.gif",
+        "image": "https://media.pixverse.ai/studio/img/1fc69a31-5e69-402a-825c-8f6c6d05dec1.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/6018df89-0276-4c53-bb05-2302aefbd276.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/6018df89-0276-4c53-bb05-2302aefbd276.gif",
         "duration_sec": 5
       },
       {
@@ -575,9 +575,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Knit hat and tiny gingerbread man",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F59b62125-9619-445a-8d66-c5a0080faee3.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2Fbe04b4f3-aa9c-4b17-a244-322ba7c2bddb.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2Fbe04b4f3-aa9c-4b17-a244-322ba7c2bddb.gif",
+        "image": "https://media.pixverse.ai/studio/img/59b62125-9619-445a-8d66-c5a0080faee3.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/be04b4f3-aa9c-4b17-a244-322ba7c2bddb.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/be04b4f3-aa9c-4b17-a244-322ba7c2bddb.gif",
         "duration_sec": 5
       },
       {
@@ -586,9 +586,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Let's change before we run afoul of the dress code!",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2Fa9739f25-6792-4c5f-929c-339c671288ce.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fa1da03f9-e67d-4b58-8781-2d8d26345786.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F99414964-b99c-4a0d-bbb5-309134b7381c.gif",
+        "image": "https://media.pixverse.ai/studio/img/a9739f25-6792-4c5f-929c-339c671288ce.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/a1da03f9-e67d-4b58-8781-2d8d26345786.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/99414964-b99c-4a0d-bbb5-309134b7381c.gif",
         "duration_sec": 8
       },
       {
@@ -597,9 +597,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Add Santa hats and a festive gift exchange scene to your favorite couple photo now.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2Ff44cf842-ca32-4cd8-a31c-bd2a00d6dd31.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F99eaa339-d0e3-46e9-833f-9e24bb70484d.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F99eaa339-d0e3-46e9-833f-9e24bb70484d.gif",
+        "image": "https://media.pixverse.ai/studio/img/f44cf842-ca32-4cd8-a31c-bd2a00d6dd31.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/99eaa339-d0e3-46e9-833f-9e24bb70484d.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/99eaa339-d0e3-46e9-833f-9e24bb70484d.gif",
         "duration_sec": 5
       },
       {
@@ -608,9 +608,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Ride Santa's sleigh.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2Ff25c4ded-1866-4545-9b5c-72c57a1f4cb2.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Ff31ae98c-d850-4a58-aea1-84f457d56cd7.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2Ffe7985df-4387-49f8-86f6-5297fd742295.gif",
+        "image": "https://media.pixverse.ai/studio/img/f25c4ded-1866-4545-9b5c-72c57a1f4cb2.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/f31ae98c-d850-4a58-aea1-84f457d56cd7.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/fe7985df-4387-49f8-86f6-5297fd742295.gif",
         "duration_sec": 8
       },
       {
@@ -619,9 +619,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Savor a delightful Filipino Christmas treat.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2Fb1503843-0e29-407d-afb6-3b4a432a3ad9.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Faacc47c3-805f-4cbd-b534-136d28cbc6e8.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F75b9c942-0af2-41af-a676-cec27f64f4a2.gif",
+        "image": "https://media.pixverse.ai/studio/img/b1503843-0e29-407d-afb6-3b4a432a3ad9.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/aacc47c3-805f-4cbd-b534-136d28cbc6e8.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/75b9c942-0af2-41af-a676-cec27f64f4a2.gif",
         "duration_sec": 8
       },
       {
@@ -630,9 +630,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Blow ice crystals.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F5d57149e-efe4-430e-9dd1-5ea7eacf66ce.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2Fb18c7b06-e5d1-4dae-8b5d-dd4d9d7de458.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2Fb18c7b06-e5d1-4dae-8b5d-dd4d9d7de458.gif",
+        "image": "https://media.pixverse.ai/studio/img/5d57149e-efe4-430e-9dd1-5ea7eacf66ce.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/b18c7b06-e5d1-4dae-8b5d-dd4d9d7de458.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/b18c7b06-e5d1-4dae-8b5d-dd4d9d7de458.gif",
         "duration_sec": 5
       },
       {
@@ -641,9 +641,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "A mirror reflecting the holiday outfit.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F4583529a-2b69-412e-a0d4-bd841b03b85c.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2Ffcb39c35-f0cc-4465-a11c-5648dce77cc0.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2Ffcb39c35-f0cc-4465-a11c-5648dce77cc0.gif",
+        "image": "https://media.pixverse.ai/studio/img/4583529a-2b69-412e-a0d4-bd841b03b85c.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/fcb39c35-f0cc-4465-a11c-5648dce77cc0.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/fcb39c35-f0cc-4465-a11c-5648dce77cc0.gif",
         "duration_sec": 5
       },
       {
@@ -652,9 +652,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Bioluminescent tentacles erupt!",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F9785704a-0d16-4c04-86f3-aaf3ce8a987a.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2Fc1bc0b64-d4f8-42aa-a41f-dde3f14b27be.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2Fc1bc0b64-d4f8-42aa-a41f-dde3f14b27be.gif",
+        "image": "https://media.pixverse.ai/studio/img/9785704a-0d16-4c04-86f3-aaf3ce8a987a.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/c1bc0b64-d4f8-42aa-a41f-dde3f14b27be.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/c1bc0b64-d4f8-42aa-a41f-dde3f14b27be.gif",
         "duration_sec": 5
       },
       {
@@ -663,9 +663,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Poster style winter wolf king",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2Fe4b4577a-0c59-42ff-bbdf-537105afa53e.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2F0cd46e53-5ce9-4243-9bd5-cdb370f7444b.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F2076696c-86c6-4b83-af7d-20f5ffb03902.gif",
+        "image": "https://media.pixverse.ai/studio/img/e4b4577a-0c59-42ff-bbdf-537105afa53e.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/0cd46e53-5ce9-4243-9bd5-cdb370f7444b.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/2076696c-86c6-4b83-af7d-20f5ffb03902.gif",
         "duration_sec": 8
       },
       {
@@ -674,9 +674,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Singing caroler silhouettes",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F6c4e9da3-4856-4adb-8ef6-ade08332061c.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F83254a0f-45b7-4936-a66c-96b3d37ea47e.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F83254a0f-45b7-4936-a66c-96b3d37ea47e.gif",
+        "image": "https://media.pixverse.ai/studio/img/6c4e9da3-4856-4adb-8ef6-ade08332061c.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/83254a0f-45b7-4936-a66c-96b3d37ea47e.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/83254a0f-45b7-4936-a66c-96b3d37ea47e.gif",
         "duration_sec": 5
       },
       {
@@ -685,9 +685,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Adorn yourself with your eskimo coat in a poster style.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F338e2bb3-b169-4717-8032-5e905814e16b.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2F250cefdb-cb8d-492b-95d1-71d8370d45dd.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F92ab9c2a-2c7a-4abe-930d-c38109a2c3ab.gif",
+        "image": "https://media.pixverse.ai/studio/img/338e2bb3-b169-4717-8032-5e905814e16b.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/250cefdb-cb8d-492b-95d1-71d8370d45dd.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/92ab9c2a-2c7a-4abe-930d-c38109a2c3ab.gif",
         "duration_sec": 8
       },
       {
@@ -696,9 +696,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Lead your husky team! Become a rugged Arctic explorer across the frozen frontier.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F25c7b541-6bc7-41e0-803b-33c68e3a9e87.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fd99fe8a5-bda8-42ba-bcdb-ade7afe32337.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2Fa426e9b6-5242-493f-8390-55fa3b2eb7b6.gif",
+        "image": "https://media.pixverse.ai/studio/img/25c7b541-6bc7-41e0-803b-33c68e3a9e87.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/d99fe8a5-bda8-42ba-bcdb-ade7afe32337.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/a426e9b6-5242-493f-8390-55fa3b2eb7b6.gif",
         "duration_sec": 5
       },
       {
@@ -707,9 +707,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Hit the slopes! Instantly get a chic, snowy ski vacation makeover.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2Fe497fe95-0ab3-4f3e-9e82-c539dbb17199.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2Fc7e6c967-9671-41d1-b2b1-788ce686aff4.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2Fc7e6c967-9671-41d1-b2b1-788ce686aff4.gif",
+        "image": "https://media.pixverse.ai/studio/img/e497fe95-0ab3-4f3e-9e82-c539dbb17199.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/c7e6c967-9671-41d1-b2b1-788ce686aff4.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/c7e6c967-9671-41d1-b2b1-788ce686aff4.gif",
         "duration_sec": 5
       },
       {
@@ -718,9 +718,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "On a winter night, you become a wizard.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2Ff339f441-67cc-4924-9baa-24bb4db92a6c.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Ff273e0aa-939f-4c12-94db-8b23761e275a.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F511a9bd6-265e-4280-9031-b18d34f7d7f7.gif",
+        "image": "https://media.pixverse.ai/studio/img/f339f441-67cc-4924-9baa-24bb4db92a6c.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/f273e0aa-939f-4c12-94db-8b23761e275a.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/511a9bd6-265e-4280-9031-b18d34f7d7f7.gif",
         "duration_sec": 6
       },
       {
@@ -729,9 +729,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Become the Winter Phoenix Queen",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2Ffd7a3f26-c56e-4e6e-bd1c-dd6081b8b6e1.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2F647f014d-9d57-4d3c-bcb4-1d8f69b2436a.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F1dce3a4a-3b46-457a-bfad-4194f459ac65.gif",
+        "image": "https://media.pixverse.ai/studio/img/fd7a3f26-c56e-4e6e-bd1c-dd6081b8b6e1.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/647f014d-9d57-4d3c-bcb4-1d8f69b2436a.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/1dce3a4a-3b46-457a-bfad-4194f459ac65.gif",
         "duration_sec": 8
       },
       {
@@ -740,9 +740,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Get picked up in Christmas style!",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2Fd0e5d27e-93a4-4ab6-b843-fd748824d998.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fe7a08e45-e897-48ad-8dd9-20241cb8b0cc.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F84e9364e-4005-49fe-8128-14a7e85a09a1.gif",
+        "image": "https://media.pixverse.ai/studio/img/d0e5d27e-93a4-4ab6-b843-fd748824d998.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/e7a08e45-e897-48ad-8dd9-20241cb8b0cc.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/84e9364e-4005-49fe-8128-14a7e85a09a1.gif",
         "duration_sec": 5
       },
       {
@@ -751,9 +751,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Transform yourself into a charming elf, download now!",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F2edbb738-f5d6-4b53-bfa6-1c8051a4a69e.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2Fe03eacbf-fc52-47c4-9ce3-081988cb1ede.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2Fe03eacbf-fc52-47c4-9ce3-081988cb1ede.gif",
+        "image": "https://media.pixverse.ai/studio/img/2edbb738-f5d6-4b53-bfa6-1c8051a4a69e.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/e03eacbf-fc52-47c4-9ce3-081988cb1ede.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/e03eacbf-fc52-47c4-9ce3-081988cb1ede.gif",
         "duration_sec": 5
       },
       {
@@ -762,9 +762,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "This template spreads pure Christmas love - a red hat, a sweet heart-shaped cookie, and a smile.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F357d592e-2df5-4d7f-9537-abaff42ce9a9.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2F5782af82-d871-4bc4-87a0-7ef7d0529ce9.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F4b768344-aa5a-4a32-b686-7f5f4bc14d0c.gif",
+        "image": "https://media.pixverse.ai/studio/img/357d592e-2df5-4d7f-9537-abaff42ce9a9.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/5782af82-d871-4bc4-87a0-7ef7d0529ce9.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/4b768344-aa5a-4a32-b686-7f5f4bc14d0c.gif",
         "duration_sec": 5
       },
       {
@@ -773,9 +773,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Instant Mustache for all!",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F826f3ee2-9fda-4b9a-8886-cd978eef5e52.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F18779f6e-cbea-4c5d-ac2a-de3190119195.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F18779f6e-cbea-4c5d-ac2a-de3190119195.gif",
+        "image": "https://media.pixverse.ai/studio/img/826f3ee2-9fda-4b9a-8886-cd978eef5e52.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/18779f6e-cbea-4c5d-ac2a-de3190119195.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/18779f6e-cbea-4c5d-ac2a-de3190119195.gif",
         "duration_sec": 5
       },
       {
@@ -784,9 +784,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Demon wings burst.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F04a8774d-8017-45ce-a82e-157488fd83c3.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2Fba83c018-bc6f-4cd6-abeb-251fe70b4023.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2Fba83c018-bc6f-4cd6-abeb-251fe70b4023.gif",
+        "image": "https://media.pixverse.ai/studio/img/04a8774d-8017-45ce-a82e-157488fd83c3.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/ba83c018-bc6f-4cd6-abeb-251fe70b4023.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/ba83c018-bc6f-4cd6-abeb-251fe70b4023.gif",
         "duration_sec": 5
       },
       {
@@ -795,9 +795,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "A snowman chases the subject and concludes with a surprising winter hug.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F10862854-fe14-4994-b449-5fb47f003ab3.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2Fdede5205-d9e6-4103-bea4-067f53646891.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2Fdede5205-d9e6-4103-bea4-067f53646891.gif",
+        "image": "https://media.pixverse.ai/studio/img/10862854-fe14-4994-b449-5fb47f003ab3.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/dede5205-d9e6-4103-bea4-067f53646891.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/dede5205-d9e6-4103-bea4-067f53646891.gif",
         "duration_sec": 5
       },
       {
@@ -806,9 +806,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "A cat? No, it's a reindeer! They flood the town this season, don't they?",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F17cc5e62-5fb4-4f18-a73c-ecb0bc2b43ad.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2F2832a724-70d3-4d3d-947f-22079af18205.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F86c458a9-c761-4cc1-aee0-b8ccc918093d.gif",
+        "image": "https://media.pixverse.ai/studio/img/17cc5e62-5fb4-4f18-a73c-ecb0bc2b43ad.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/2832a724-70d3-4d3d-947f-22079af18205.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/86c458a9-c761-4cc1-aee0-b8ccc918093d.gif",
         "duration_sec": 5
       },
       {
@@ -817,9 +817,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Transform your couple photo into a cozy Christmas scene with instant Santa hats and steaming hot cocoa.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F4bbaa48d-c118-4f9e-8eb7-c01aa037ce36.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F3250c559-5495-4694-9395-792e2a2dbce1.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F3250c559-5495-4694-9395-792e2a2dbce1.gif",
+        "image": "https://media.pixverse.ai/studio/img/4bbaa48d-c118-4f9e-8eb7-c01aa037ce36.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/3250c559-5495-4694-9395-792e2a2dbce1.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/3250c559-5495-4694-9395-792e2a2dbce1.gif",
         "duration_sec": 5
       },
       {
@@ -828,9 +828,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Experience the digital deep freeze.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F6eac42d7-2c33-44dd-8aa3-58e3bbc48429.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2F8243ba48-2333-4015-ada2-a5996321e04b.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2Fc43a65e1-8799-4de6-ae3f-c1116061bdd9.gif",
+        "image": "https://media.pixverse.ai/studio/img/6eac42d7-2c33-44dd-8aa3-58e3bbc48429.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/8243ba48-2333-4015-ada2-a5996321e04b.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/c43a65e1-8799-4de6-ae3f-c1116061bdd9.gif",
         "duration_sec": 5
       },
       {
@@ -839,9 +839,9 @@
         "tag": "default",
         "model": "pixverse-v5",
         "prompt": "The penguins are coming!",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F5f44b343-bd50-4c71-aa73-42cd6faa65e1.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F2cc48c81-b691-4576-bc9c-037a83882514.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F2cc48c81-b691-4576-bc9c-037a83882514.gif",
+        "image": "https://media.pixverse.ai/studio/img/5f44b343-bd50-4c71-aa73-42cd6faa65e1.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/2cc48c81-b691-4576-bc9c-037a83882514.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/2cc48c81-b691-4576-bc9c-037a83882514.gif",
         "duration_sec": 5
       },
       {
@@ -850,9 +850,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Transform into a winter angel with beautiful wings and snowfall.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F240de286-38d4-4b81-a108-f6956782a3d6.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2F8361b4d6-e50b-450a-9c6b-9c44c1f075a2.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F3ab1d99c-2b65-4d97-a97a-f12f5db1d7fc.gif",
+        "image": "https://media.pixverse.ai/studio/img/240de286-38d4-4b81-a108-f6956782a3d6.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/8361b4d6-e50b-450a-9c6b-9c44c1f075a2.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/3ab1d99c-2b65-4d97-a97a-f12f5db1d7fc.gif",
         "duration_sec": 8
       },
       {
@@ -861,9 +861,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Let your digital twin pet the deer.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2Fb94ca602-b6e6-49ba-a010-6556b5b8bf3c.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2F41e6faa0-14bc-4c4c-91ed-d5af7e0b1d7f.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F0673c8b5-c43d-49de-a6e1-8b535469d794.gif",
+        "image": "https://media.pixverse.ai/studio/img/b94ca602-b6e6-49ba-a010-6556b5b8bf3c.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/41e6faa0-14bc-4c4c-91ed-d5af7e0b1d7f.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/0673c8b5-c43d-49de-a6e1-8b535469d794.gif",
         "duration_sec": 8
       },
       {
@@ -872,9 +872,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Put on your soft and warm gloves.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F38176642-b9d1-4f69-96d5-26769c55aa6e.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F977b2979-5a43-483c-9018-68401e131f21.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F977b2979-5a43-483c-9018-68401e131f21.gif",
+        "image": "https://media.pixverse.ai/studio/img/38176642-b9d1-4f69-96d5-26769c55aa6e.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/977b2979-5a43-483c-9018-68401e131f21.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/977b2979-5a43-483c-9018-68401e131f21.gif",
         "duration_sec": 5
       },
       {
@@ -883,9 +883,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "In an instant, it transforms everything into light.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F08a2c85f-bf08-4d56-9c9d-4a95c2444321.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2F9f0785ac-51f3-442f-846b-03c0da760676.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F156439bc-8151-432a-9814-5b7462653be6.gif",
+        "image": "https://media.pixverse.ai/studio/img/08a2c85f-bf08-4d56-9c9d-4a95c2444321.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/9f0785ac-51f3-442f-846b-03c0da760676.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/156439bc-8151-432a-9814-5b7462653be6.gif",
         "duration_sec": 5
       },
       {
@@ -894,9 +894,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Pom-pom snowmen multiply in a fluffy winter fantasy.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F78c671b3-a7bb-467a-9567-1c3a91af27fe.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2F811f17db-d72c-4ca3-8ebd-bda242906646.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2F89aeb3f7-1fd5-454d-ab7c-ac270aadeb48.gif",
+        "image": "https://media.pixverse.ai/studio/img/78c671b3-a7bb-467a-9567-1c3a91af27fe.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/811f17db-d72c-4ca3-8ebd-bda242906646.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/89aeb3f7-1fd5-454d-ab7c-ac270aadeb48.gif",
         "duration_sec": 5
       },
       {
@@ -905,9 +905,9 @@
         "tag": "",
         "model": "pixverse-v5",
         "prompt": "Transform yourself into a cherry blossom beauty.",
-        "image": "https://media.pixverse.ai/studio%2Fimg%2F33761518-c7d7-4d50-932e-fa6cd115538b.jpg",
-        "preview_video_url": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2Fc50e08bf-7b17-4103-8445-9a0a7647455d.mp4",
-        "preview_gif_url": "https://media.pixverse.ai/studio%2Fimg%2Fc50e08bf-7b17-4103-8445-9a0a7647455d.gif",
+        "image": "https://media.pixverse.ai/studio/img/33761518-c7d7-4d50-932e-fa6cd115538b.jpg",
+        "preview_video_url": "https://media.pixverse.ai/studio/video/prod/c50e08bf-7b17-4103-8445-9a0a7647455d.mp4",
+        "preview_gif_url": "https://media.pixverse.ai/studio/img/c50e08bf-7b17-4103-8445-9a0a7647455d.gif",
         "duration_sec": 5
       }
     ]
