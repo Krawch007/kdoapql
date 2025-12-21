@@ -1,5 +1,5 @@
 {
-  "showProTokens": false,
+  "showProTokens": true,
   "showRewardBadge": false,
   "forcePaywallOnLaunch": false,
   "updatedAt": "2025-12-09T19:55:00Z",
