@@ -432,6 +432,18 @@
         "i18n_json": "{\"zh-CN\":{\"channel_name\":\"热门\"},\"ko-KR\":{\"channel_name\":\"인기 급상승\"},\"ja-JP\":{\"channel_name\":\"トレンド\"},\"pt-BR\":{\"channel_name\":\"Em alta\"},\"es-ES\":{\"channel_name\":\"Tendencias\"},\"fr-FR\":{\"channel_name\":\"Tendance\"},\"de-DE\":{\"channel_name\":\"Angesagt\"},\"ru-RU\":{\"channel_name\":\"В тренде\"},\"it-IT\":{\"channel_name\":\"In tendenza\"},\"tr-TR\":{\"channel_name\":\"Trend\"},\"id-ID\":{\"channel_name\":\"Tren\"},\"th-TH\":{\"channel_name\":\"แนวโน้ม\"},\"vi-VN\":{\"channel_name\":\"Xu hướng\"}}",
         "effect_items": [
           {
+            "id": 381089861204928,
+            "tag": "new",
+            "model": "pixverse-v5",
+            "prompt": "Big muscles, bigger vibes!",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_381089861204928.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_381089861204928.mp4",
+            "duration_sec": 14,
+            "name": "Big Guy Flex",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"猛男律动\",\"display_prompt\":\"力量感拉满，自信心爆棚！大块头也要秀出范儿。\"},\"en-US\":{\"display_name\":\"Big Guy Flex\",\"display_prompt\":\"Big muscles, bigger vibes!\"},\"ko-KR\":{\"display_name\":\"빅 가이 플렉스\",\"display_prompt\":\"강한 근육, 더 강한 스웨그!\"},\"ja-JP\":{\"display_name\":\"ビッグガイ・フレックス\",\"display_prompt\":\"マッスル＆リズム、これが俺のスタイル。\"},\"pt-BR\":{\"display_name\":\"Big Guy Flex\",\"display_prompt\":\"Músculos grandes, vibe maior ainda!\"}}",
+            "display_prompt": "Big muscles, bigger vibes!"
+          },
+          {
             "id": 381090080287680,
             "tag": "new",
             "model": "pixverse-v5",
@@ -440,20 +452,8 @@
             "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_381090080287680.mp4",
             "duration_sec": 10,
             "name": "Classroom Show",
-            "i18n_json": "{\"zh-CN\":{\"title\":\"教室显眼包\",\"slogan\":\"只要我不尴尬，尴尬的就是别人！\"},\"en-US\":{\"title\":\"Classroom Show\",\"slogan\":\"No one can stop my rhythm in class!\"},\"ko-KR\":{\"title\":\"교실 핵인싸\",\"slogan\":\"내가 부끄럽지 않으면 그만이야!\"},\"ja-JP\":{\"title\":\"教室の主役\",\"slogan\":\"自分が恥ずかしくなければ、それでいい！\"},\"pt-BR\":{\"title\":\"Show de Sala de Aula\",\"slogan\":\"Se eu não passo vergonha, os outros que passem!\"},\"th-TH\":{\"title\":\"ตัวตึงหลังห้อง\",\"slogan\":\"ถ้าเราไม่เขิน คนอื่นก็เขินเอง!\"},\"vi-VN\":{\"title\":\"Chúa Hề Lớp Học\",\"slogan\":\"Chỉ cần tôi không ngại, người ngại sẽ là người khác!\"}}",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"教室显眼包\",\"display_prompt\":\"只要我不尴尬，尴尬的就是别人！\"},\"en-US\":{\"display_name\":\"Classroom Show\",\"display_prompt\":\"No one can stop my rhythm in class!\"},\"ko-KR\":{\"display_name\":\"교실 핵인싸\",\"display_prompt\":\"내가 부끄럽지 않으면 그만이야!\"},\"ja-JP\":{\"display_name\":\"教室の主役\",\"display_prompt\":\"自分が恥ずかしくなければ、それでいい！\"},\"pt-BR\":{\"display_name\":\"Show de Sala de Aula\",\"display_prompt\":\"Se eu não passo vergonha, os outros que passem!\"}}",
             "display_prompt": "No one can stop my rhythm in class!"
-          },
-          {
-            "id": 381059488039360,
-            "tag": "hot",
-            "model": "pixverse-v5",
-            "prompt": "Everything Chanel, on a different level.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_381059488039360.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_381059488039360.mp4",
-            "duration_sec": 12,
-            "name": "Chanel Vibe",
-            "i18n_json": "{\"zh-CN\":{\"title\":\"香奈儿律动\",\"slogan\":\"Everything Chanel, 顶级审美。\"},\"en-US\":{\"title\":\"Chanel Vibe\",\"slogan\":\"Everything Chanel, on a different level.\"},\"ko-KR\":{\"title\":\"샤넬 바이브\",\"slogan\":\"모든 것이 샤넬, 클래스가 다른 감각.\"},\"ja-JP\":{\"title\":\"シャネル・バイブ\",\"slogan\":\"すべてがシャネル、異次元の美学。\"},\"pt-BR\":{\"title\":\"Estilo Chanel\",\"slogan\":\"Tudo Chanel, em outro nível.\"},\"th-TH\":{\"title\":\"จังหวะชาแนล\",\"slogan\":\"ลุคแพงแบบชาแนล สวยสับระดับสิบ\"},\"vi-VN\":{\"title\":\"Vũ Điệu Chanel\",\"slogan\":\"Mọi thứ là Chanel, đẳng cấp khác biệt.\"}}",
-            "display_prompt": "Everything Chanel, on a different level."
           },
           {
             "id": 381058226971072,
@@ -468,16 +468,16 @@
             "display_prompt": "A veil of cinnabar mist reveals subtle loong motifs, awakening an aura of Eastern mystique."
           },
           {
-            "id": 381089861204928,
-            "tag": "new",
+            "id": 381059488039360,
+            "tag": "hot",
             "model": "pixverse-v5",
-            "prompt": "Big muscles, bigger vibes!",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_381089861204928.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_381089861204928.mp4",
-            "duration_sec": 14,
-            "name": "Big Guy Flex",
-            "i18n_json": "{\"zh-CN\":{\"title\":\"猛男律动\",\"slogan\":\"Big muscles, bigger vibes!\"},\"en-US\":{\"title\":\"Big Guy Flex\",\"slogan\":\"Big muscles, bigger vibes!\"},\"ko-KR\":{\"title\":\"빅 가이 플렉스\",\"slogan\":\"강한 근육, 더 강한 스웨그!\"},\"ja-JP\":{\"title\":\"ビッグガイ・フレックス\",\"slogan\":\"マッスル＆リズム、これが俺のスタイル。\"},\"pt-BR\":{\"title\":\"Big Guy Flex\",\"slogan\":\"Músculos grandes, vibe maior ainda!\"},\"es-ES\":{\"title\":\"Big Guy Flex\",\"slogan\":\"¡Músculos grandes, mejor actitud!\"},\"th-TH\":{\"title\":\"โชว์กล้ามสะบัด\",\"slogan\":\"กล้ามแน่นๆ จังหวะเน้นๆ\"},\"vi-VN\":{\"title\":\"Cơ Bắp Linh Hoạt\",\"slogan\":\"Cơ bắp cực khủng, nhịp điệu cực căng!\"}}",
-            "display_prompt": "Big muscles, bigger vibes!"
+            "prompt": "Everything Chanel, on a different level.",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_381059488039360.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_381059488039360.mp4",
+            "duration_sec": 12,
+            "name": "Chanel Vibe",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"香奈儿律动\",\"display_prompt\":\"顶级律动，稳站 C 位。\"},\"en-US\":{\"display_name\":\"Chanel Vibe\",\"display_prompt\":\"Everything Chanel, on a different level.\"},\"ko-KR\":{\"display_name\":\"샤넬 바이브\",\"display_prompt\":\"모든 것이 샤넬, 클래스가 다른 감각.\"},\"ja-JP\":{\"display_name\":\"シャネル・バイブ\",\"display_prompt\":\"すべてがシャネル、異次元の美学。\"},\"pt-BR\":{\"display_name\":\"Estilo Chanel\",\"display_prompt\":\"Tudo Chanel, em outro nível.\"}}",
+            "display_prompt": "Everything Chanel, on a different level."
           },
           {
             "id": 315446315336768,
@@ -514,18 +514,6 @@
             "name": "Muscle Surge",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"成为肌肉猛男\",\"display_prompt\":\"体验猛男快乐\"},\"es-ES\":{\"display_name\":\"Convertirse en un hombre musculoso\",\"display_prompt\":\"¡Experimenta la alegría de ser un fortachón!\"},\"ja-JP\":{\"display_name\":\"マッチョな男になる\",\"display_prompt\":\"マッチョマンの喜びを体験する\"},\"ko-KR\":{\"display_name\":\"근육질 남자 되기\",\"display_prompt\":\"근육맨의 즐거움을 경험해 보세요\"},\"pt-BR\":{\"display_name\":\"Torne-se um homem musculoso\",\"display_prompt\":\"Experimente a alegria de ser um homem forte\"},\"fr-FR\":{\"display_name\":\"Devenir un homme musclé\",\"display_prompt\":\"Expérimente le bonheur d'être un gaillard\"},\"de-DE\":{\"display_name\":\"Zum Muskelmann werden\",\"display_prompt\":\"Erlebe die Freude eines Kraftprotzes\"},\"ru-RU\":{\"display_name\":\"Стать мускулистым мужчиной\",\"display_prompt\":\"Испытай радость силача\"}}",
             "display_prompt": "Show off your strong muscles and have everyone hooked."
-          },
-          {
-            "id": 380351131464768,
-            "tag": "hot",
-            "model": "pixverse-v5",
-            "prompt": "One beat, endless body moves!",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_380351131464768.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_380351131464768.mp4",
-            "duration_sec": 15,
-            "name": "Music! Music!",
-            "i18n_json": "{\"zh-CN\":{\"title\":\"Music! Music!\",\"slogan\":\"One beat, endless body moves!\"},\"en-US\":{\"title\":\"Music! Music!\",\"slogan\":\"One beat, endless body moves!\"},\"ko-KR\":{\"title\":\"뮤직! 뮤직!\",\"slogan\":\"단 하나의 비트, 멈추지 않는 움직임!\"},\"ja-JP\":{\"title\":\"ミュージック！ミュージック！\",\"slogan\":\"ワンビートで、無限のステップ。\"},\"pt-BR\":{\"title\":\"Música! Música!\",\"slogan\":\"Uma batida, movimentos infinitos!\"},\"es-ES\":{\"title\":\"¡Música! ¡Música!\",\"slogan\":\"¡Un solo ritmo, movimientos infinitos!\"},\"fr-FR\":{\"title\":\"Musique ! Musique !\",\"slogan\":\"Un seul beat, des mouvements à l'infini !\"},\"de-DE\":{\"title\":\"Musik! Musik!\",\"slogan\":\"Ein Beat, endlose Moves!\"},\"th-TH\":{\"title\":\"มิวสิค! มิวสิค!\",\"slogan\":\"บีทเดียว เต้นเสียวสะท้านโลก\"},\"vi-VN\":{\"title\":\"Music! Music!\",\"slogan\":\"Một nhịp điệu, chuyển động không ngừng!\"},\"id-ID\":{\"title\":\"Musik! Musik!\",\"slogan\":\"Satu ketukan, gerakan tanpa henti!\"}}",
-            "display_prompt": "One beat, endless body moves!"
           },
           {
             "id": 327828816843648,
@@ -610,6 +598,18 @@
             "name": "I Believe I Can Fly",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"飞向花花世界\",\"display_prompt\":\"飞过云层，享受高空。\"},\"en-US\":{\"display_name\":\"I Believe I Can Fly\",\"display_prompt\":\"Fly beyond the clouds, to a world of dreams.\"},\"es-ES\":{\"display_name\":\"Creo que Puedo Volar\",\"display_prompt\":\"Vuela más allá de las nubes, hacia un mundo de sueños.\"},\"ja-JP\":{\"display_name\":\"私は飛べると信じてる\",\"display_prompt\":\"雲を越えて、夢の世界へ飛んで行こう\"},\"ko-KR\":{\"display_name\":\"나는 내가 날 수 있다고 믿어\",\"display_prompt\":\"구름 너머, 꿈의 세계로 날아가자\"},\"pt-BR\":{\"display_name\":\"Eu Acredito que Posso Voar\",\"display_prompt\":\"Voe além das nuvens, para um mundo de sonhos.\"},\"fr-FR\":{\"display_name\":\"Je Crois que Je Peux Voler\",\"display_prompt\":\"Volez au-delà des nuages, vers un monde de rêves.\"},\"de-DE\":{\"display_name\":\"Ich Glaube, Ich Kann Fliegen\",\"display_prompt\":\"Flieg über die Wolken, in eine Welt der Träume.\"},\"ru-RU\":{\"display_name\":\"Я Верю, что Могу Летать\",\"display_prompt\":\"Лети за облака, в мир мечт.\"},\"th-TH\":{\"display_name\":\"ฉันเชื่อว่าฉันสามารถบินได้\",\"display_prompt\":\"บินผ่านเมฆไปสู่โลกแห่งความฝัน\"},\"id-ID\":{\"display_name\":\"Saya Percaya Saya Bisa Terbang\",\"display_prompt\":\"Terbang melampaui awan, menuju dunia mimpi.\"},\"vi-VN\":{\"display_name\":\"Tôi Tin Mình Có Thể Bay\",\"display_prompt\":\"Bay vượt qua đám mây, đến với thế giới của những giấc mơ.\"},\"tr-TR\":{\"display_name\":\"Uçabileceğime İnanıyorum\",\"display_prompt\":\"Bulutların ötesine, hayallerin dünyasına uç.\"},\"it-IT\":{\"display_name\":\"Credo di Potere Volare\",\"display_prompt\":\"Vola oltre le nuvole, verso un mondo di sogni.\"}}",
             "display_prompt": "Fly beyond the clouds, to a world of dreams."
+          },
+          {
+            "id": 380351131464768,
+            "tag": "hot",
+            "model": "pixverse-v5",
+            "prompt": "One beat, endless body moves!",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_380351131464768.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_380351131464768.mp4",
+            "duration_sec": 15,
+            "name": "Music! Music!",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"Music! Music!\",\"display_prompt\":\"一拍到底，根本停不下来！\"},\"en-US\":{\"display_name\":\"Music! Music!\",\"display_prompt\":\"One beat, endless body moves!\"},\"ko-KR\":{\"display_name\":\"뮤직! 뮤직!\",\"display_prompt\":\"단 하나의 비트, 멈추지 않는 움직임!\"},\"ja-JP\":{\"display_name\":\"ミュージック！ミュージック！\",\"display_prompt\":\"ワンビートで、無限のステップ。\"},\"pt-BR\":{\"display_name\":\"Música! Música!\",\"display_prompt\":\"Uma batida, movimentos infinitos!\"}}",
+            "display_prompt": "One beat, endless body moves!"
           },
           {
             "id": 352981446212096,
@@ -972,18 +972,6 @@
             "display_prompt": "Summon your ethereal wings and reveal your inner magic."
           },
           {
-            "id": 337052664588608,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Let it out, let it out. Tears like a waterfall.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_337052664588608.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_337052664588608.mp4",
-            "duration_sec": 5,
-            "name": "Cry Me a River",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"泪流成河\",\"display_prompt\":\"哭吧，哭吧。让眼泪成河，让悲伤决堤。\"},\"es-ES\":{\"display_name\":\"Río de Lágrimas\",\"display_prompt\":\"¡Llora, llora. Deja que las lágrimas fluyan como un río, deja que la tristeza rompa el dique!\"},\"ja-JP\":{\"display_name\":\"涙の川\",\"display_prompt\":\"泣きなさい、泣きなさい。涙を川のように流し、悲しみを堤防から溢れさせる。\"},\"ko-KR\":{\"display_name\":\"눈물 강\",\"display_prompt\":\"울어요, 울어요. 눈물이 강처럼 흐르게 하고, 슬픔이 제방을 무너뜨리게 합니다.\"},\"pt-BR\":{\"display_name\":\"Rio de Lágrimas\",\"display_prompt\":\"Chore, chore. Deixe as lágrimas fluírem como um rio, deixe a tristeza romper as barragens.\"},\"fr-FR\":{\"display_name\":\"Rivière de Larmes\",\"display_prompt\":\"Pleurez, pleurez. Laissez les larmes couler comme une rivière, laissez la tristesse briser les digues.\"},\"de-DE\":{\"display_name\":\"Tränenfluss\",\"display_prompt\":\"Weinen Sie, weinen Sie. Lassen Sie Tränen wie einen Fluss fließen, lassen Sie die Trauer den Damm brechen.\"},\"ru-RU\":{\"display_name\":\"Река слёз\",\"display_prompt\":\"Плачьте, плачьте. Пусть слёзы текут рекой, пусть печаль прорвёт плотину.\"}}",
-            "display_prompt": "Let it out, let it out. Tears like a waterfall."
-          },
-          {
             "id": 351913231468160,
             "tag": "default",
             "model": "pixverse-v5",
@@ -994,6 +982,18 @@
             "name": "Emoji Check!",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"宝宝你是个Emoji\",\"display_prompt\":\"别玩手机了，你都变成emoji了\"},\"en-US\":{\"display_name\":\"Emoji Check!\",\"display_prompt\":\"Stop playing with your phone, you’ve turned into an emoji.\"},\"es-ES\":{\"display_name\":\"¡Emoji Check!\",\"display_prompt\":\"Deja de jugar con tu teléfono, te has convertido en un emoji.\"},\"ja-JP\":{\"display_name\":\"エモジチェック！\",\"display_prompt\":\"スマホを触るのやめて、あなたはもうエモジになっているよ\"},\"ko-KR\":{\"display_name\":\"이모지 체크!\",\"display_prompt\":\"핸드폰 놔둬, 너 이미 이모지 돼버렸잖아\"},\"pt-BR\":{\"display_name\":\"Emoji Check!\",\"display_prompt\":\"Para de mexer no celular, você já virou um emoji.\"},\"fr-FR\":{\"display_name\":\"Emoji Check!\",\"display_prompt\":\"Arrête de jouer avec ton téléphone, tu es devenu un emoji.\"},\"de-DE\":{\"display_name\":\"Emoji Check!\",\"display_prompt\":\"Hör auf, mit deinem Handy zu spielen, du bist schon ein Emoji.\"},\"ru-RU\":{\"display_name\":\"Emoji Check!\",\"display_prompt\":\"Хватит играть с телефоном, ты уже стал эмодзи.\"},\"th-TH\":{\"display_name\":\"Emoji Check!\",\"display_prompt\":\"เลิกเล่นมือถือแล้ว คุณกลายเป็นอีโมจิไปแล้ว\"},\"id-ID\":{\"display_name\":\"Emoji Check!\",\"display_prompt\":\"Jangan main handphone, kamu sudah berubah jadi emoji.\"},\"vi-VN\":{\"display_name\":\"Emoji Check!\",\"display_prompt\":\"Đừng chơi điện thoại nữa, bạn đã biến thành emoji rồi.\"},\"tr-TR\":{\"display_name\":\"Emoji Check!\",\"display_prompt\":\"Telefonla oynamayı bırak, sen zaten bir emoji oldun.\"},\"it-IT\":{\"display_name\":\"Emoji Check!\",\"display_prompt\":\"Smettila di giocare con il telefono, sei già diventato un emoji.\"}}",
             "display_prompt": "Stop playing with your phone, you’ve turned into an emoji"
+          },
+          {
+            "id": 337052664588608,
+            "tag": "default",
+            "model": "pixverse-v5",
+            "prompt": "Let it out, let it out. Tears like a waterfall.",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_337052664588608.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_337052664588608.mp4",
+            "duration_sec": 5,
+            "name": "Cry Me a River",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"泪流成河\",\"display_prompt\":\"哭吧，哭吧。让眼泪成河，让悲伤决堤。\"},\"es-ES\":{\"display_name\":\"Río de Lágrimas\",\"display_prompt\":\"¡Llora, llora. Deja que las lágrimas fluyan como un río, deja que la tristeza rompa el dique!\"},\"ja-JP\":{\"display_name\":\"涙の川\",\"display_prompt\":\"泣きなさい、泣きなさい。涙を川のように流し、悲しみを堤防から溢れさせる。\"},\"ko-KR\":{\"display_name\":\"눈물 강\",\"display_prompt\":\"울어요, 울어요. 눈물이 강처럼 흐르게 하고, 슬픔이 제방을 무너뜨리게 합니다.\"},\"pt-BR\":{\"display_name\":\"Rio de Lágrimas\",\"display_prompt\":\"Chore, chore. Deixe as lágrimas fluírem como um rio, deixe a tristeza romper as barragens.\"},\"fr-FR\":{\"display_name\":\"Rivière de Larmes\",\"display_prompt\":\"Pleurez, pleurez. Laissez les larmes couler comme une rivière, laissez la tristesse briser les digues.\"},\"de-DE\":{\"display_name\":\"Tränenfluss\",\"display_prompt\":\"Weinen Sie, weinen Sie. Lassen Sie Tränen wie einen Fluss fließen, lassen Sie die Trauer den Damm brechen.\"},\"ru-RU\":{\"display_name\":\"Река слёз\",\"display_prompt\":\"Плачьте, плачьте. Пусть слёзы текут рекой, пусть печаль прорвёт плотину.\"}}",
+            "display_prompt": "Let it out, let it out. Tears like a waterfall."
           },
           {
             "id": 350496364287680,
@@ -1152,18 +1152,6 @@
             "display_prompt": "A sip of red, and the rich life appears."
           },
           {
-            "id": 340383170699072,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Lightning in your eyes. Thunder in your stare.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_340383170699072.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_340383170699072.mp4",
-            "duration_sec": 5,
-            "name": "Thunder God",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"电眼雷神\",\"display_prompt\":\"双眼聚雷电，一瞪劈万敌\"},\"es-ES\":{\"display_name\":\"Dios del Trueno\",\"display_prompt\":\"¡Relámpagos en tus ojos. Truenos en tu mirada!\"},\"ja-JP\":{\"display_name\":\"雷神\",\"display_prompt\":\"あなたの瞳に稲妻。あなたの眼差しに雷鳴。\"},\"ko-KR\":{\"display_name\":\"천둥의 신\",\"display_prompt\":\"당신의 눈에 번개가 있고, 당신의 시선에 천둥이 있습니다.\"},\"pt-BR\":{\"display_name\":\"Deus do Trovão\",\"display_prompt\":\"Raios em seus olhos. Trovões em seu olhar.\"},\"fr-FR\":{\"display_name\":\"Dieu du Tonnerre\",\"display_prompt\":\"La foudre dans vos yeux. Le tonnerre dans votre regard.\"},\"de-DE\":{\"display_name\":\"Donnergott\",\"display_prompt\":\"Blitze in Ihren Augen. Donner in Ihrem Blick.\"},\"ru-RU\":{\"display_name\":\"Бог грома\",\"display_prompt\":\"Молнии в ваших глазах. Гром в вашем взгляде.\"}}",
-            "display_prompt": "Lightning in your eyes. Thunder in your stare."
-          },
-          {
             "id": 343058274917440,
             "tag": "default",
             "model": "pixverse-v5",
@@ -1174,6 +1162,18 @@
             "name": "Gabu Dance",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"Gabu舞\",\"display_prompt\":\"Eu Sento Gabu! 走到哪里都是T台\"},\"es-ES\":{\"display_name\":\"Baile Gabu\",\"display_prompt\":\"Eu Sento Gabu! Cada paso es una pasarela\"},\"ja-JP\":{\"display_name\":\"ガブダンス\",\"display_prompt\":\"Eu Sento Gabu! どこを歩いてもそこはランウェイ\"},\"ko-KR\":{\"display_name\":\"가부 댄스\",\"display_prompt\":\"Eu Sento Gabu! 걷는 곳마다 런웨이가 돼\"},\"pt-BR\":{\"display_name\":\"Gabu Dance\",\"display_prompt\":\"Eu Sento Gabu! Em todo lugar que você anda é passarela\"},\"fr-FR\":{\"display_name\":\"Danse Gabu\",\"display_prompt\":\"Eu Sento Gabu! Partout où tu marches est un podium\"},\"de-DE\":{\"display_name\":\"Gabu Tanz\",\"display_prompt\":\"Eu Sento Gabu! Wo immer du gehst, ist ein Laufsteg\"},\"ru-RU\":{\"display_name\":\"Танец Габу\",\"display_prompt\":\"Eu Sento Gabu! Куда бы ты ни пошел, это подиум\"},\"en-US\":{\"display_name\":\"Gabu Dance\",\"display_prompt\":\"Eu Sento Gabu! Everywhere you walk is Runway\"}}",
             "display_prompt": "Eu Sento Gabu! Everywhere you walk is Runway"
+          },
+          {
+            "id": 340383170699072,
+            "tag": "default",
+            "model": "pixverse-v5",
+            "prompt": "Lightning in your eyes. Thunder in your stare.",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_340383170699072.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_340383170699072.mp4",
+            "duration_sec": 5,
+            "name": "Thunder God",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"电眼雷神\",\"display_prompt\":\"双眼聚雷电，一瞪劈万敌\"},\"es-ES\":{\"display_name\":\"Dios del Trueno\",\"display_prompt\":\"¡Relámpagos en tus ojos. Truenos en tu mirada!\"},\"ja-JP\":{\"display_name\":\"雷神\",\"display_prompt\":\"あなたの瞳に稲妻。あなたの眼差しに雷鳴。\"},\"ko-KR\":{\"display_name\":\"천둥의 신\",\"display_prompt\":\"당신의 눈에 번개가 있고, 당신의 시선에 천둥이 있습니다.\"},\"pt-BR\":{\"display_name\":\"Deus do Trovão\",\"display_prompt\":\"Raios em seus olhos. Trovões em seu olhar.\"},\"fr-FR\":{\"display_name\":\"Dieu du Tonnerre\",\"display_prompt\":\"La foudre dans vos yeux. Le tonnerre dans votre regard.\"},\"de-DE\":{\"display_name\":\"Donnergott\",\"display_prompt\":\"Blitze in Ihren Augen. Donner in Ihrem Blick.\"},\"ru-RU\":{\"display_name\":\"Бог грома\",\"display_prompt\":\"Молнии в ваших глазах. Гром в вашем взгляде.\"}}",
+            "display_prompt": "Lightning in your eyes. Thunder in your stare."
           },
           {
             "id": 372272620777642,
@@ -1224,16 +1224,16 @@
             "display_prompt": "Turn into your own figurine, hold it in your hand and admire!"
           },
           {
-            "id": 336856634055424,
+            "id": 343058758753344,
             "tag": "default",
             "model": "pixverse-v5",
-            "prompt": "One puff and—boom! You’re the cutest balloon in town.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_336856634055424.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_336856634055424.mp4",
-            "duration_sec": 5,
-            "name": "Balloon Belly",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"大肚弹弹\",\"display_prompt\":\"胖嘟嘟也能萌翻天！\"},\"es-ES\":{\"display_name\":\"Rebote de Barriguita\",\"display_prompt\":\"¡Lo regordete también puede ser súper adorable!\"},\"ja-JP\":{\"display_name\":\"ぷよぷよおなか\",\"display_prompt\":\"ぽっちゃりもとってもかわいい！\"},\"ko-KR\":{\"display_name\":\"통통 배 통통\",\"display_prompt\":\"통통한 것도 귀여움이 폭발합니다！\"},\"pt-BR\":{\"display_name\":\"Barrigudinho Saltitante\",\"display_prompt\":\"O rechonchudo também pode ser super fofo!\"},\"fr-FR\":{\"display_name\":\"Rebond du Bedon\",\"display_prompt\":\"Le potelé peut aussi être super mignon !\"},\"de-DE\":{\"display_name\":\"Bauchspringer\",\"display_prompt\":\"Auch Mollig kann supersüß sein!\"},\"ru-RU\":{\"display_name\":\"Прыгающий животик\",\"display_prompt\":\"Пухленький тоже может быть супер милым!\"}}",
-            "display_prompt": "One puff and—boom! You’re the cutest balloon in town."
+            "prompt": "Go on bend your knees, baby, shake it to the max",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_343058758753344.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_343058758753344.mp4",
+            "duration_sec": 12,
+            "name": "Shake It to the Max",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"Shake It to the Max 挑战\",\"display_prompt\":\"来吧宝贝，屈膝进行摇摆\"},\"es-ES\":{\"display_name\":\"Desafío Shake It to the Max\",\"display_prompt\":\"¡Vamos bebé, dobla las rodillas y balancéate!\"},\"ja-JP\":{\"display_name\":\"Shake It to the Max チャレンジ\",\"display_prompt\":\"さあベイビー、膝を曲げてスウィングしよう\"},\"ko-KR\":{\"display_name\":\"Shake It to the Max 챌린지\",\"display_prompt\":\"자, 베이비, 무릎을 굽혀서 흔들어봐요\"},\"pt-BR\":{\"display_name\":\"Desafio Shake It to the Max\",\"display_prompt\":\"Vamos bebê, dobre os joelhos e balance\"},\"fr-FR\":{\"display_name\":\"Défi Shake It to the Max\",\"display_prompt\":\"Allez bébé, pliez les genoux et balancez-vous\"},\"de-DE\":{\"display_name\":\"Shake It to the Max Herausforderung\",\"display_prompt\":\"Komm schon Baby, beuge die Knie und schwing dich\"},\"ru-RU\":{\"display_name\":\"Вызов Shake It to the Max\",\"display_prompt\":\"Давай, малыш, согни колени и качайся\"}}",
+            "display_prompt": "Go on bend your knees, baby, shake it to the max"
           },
           {
             "id": 339398587639552,
@@ -1248,28 +1248,16 @@
             "display_prompt": "Dreams bloom in silence — beauty with a twist"
           },
           {
-            "id": 343058758753344,
+            "id": 336856634055424,
             "tag": "default",
             "model": "pixverse-v5",
-            "prompt": "Go on bend your knees, baby, shake it to the max",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_343058758753344.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_343058758753344.mp4",
-            "duration_sec": 12,
-            "name": "Shake It to the Max",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"Shake It to the Max 挑战\",\"display_prompt\":\"来吧宝贝，屈膝进行摇摆\"},\"es-ES\":{\"display_name\":\"Desafío Shake It to the Max\",\"display_prompt\":\"¡Vamos bebé, dobla las rodillas y balancéate!\"},\"ja-JP\":{\"display_name\":\"Shake It to the Max チャレンジ\",\"display_prompt\":\"さあベイビー、膝を曲げてスウィングしよう\"},\"ko-KR\":{\"display_name\":\"Shake It to the Max 챌린지\",\"display_prompt\":\"자, 베이비, 무릎을 굽혀서 흔들어봐요\"},\"pt-BR\":{\"display_name\":\"Desafio Shake It to the Max\",\"display_prompt\":\"Vamos bebê, dobre os joelhos e balance\"},\"fr-FR\":{\"display_name\":\"Défi Shake It to the Max\",\"display_prompt\":\"Allez bébé, pliez les genoux et balancez-vous\"},\"de-DE\":{\"display_name\":\"Shake It to the Max Herausforderung\",\"display_prompt\":\"Komm schon Baby, beuge die Knie und schwing dich\"},\"ru-RU\":{\"display_name\":\"Вызов Shake It to the Max\",\"display_prompt\":\"Давай, малыш, согни колени и качайся\"}}",
-            "display_prompt": "Go on bend your knees, baby, shake it to the max"
-          },
-          {
-            "id": 341651541059392,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Dive deep in a dream, surrounded by fish, where visions flood.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_341651541059392.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_341651541059392.mp4",
+            "prompt": "One puff and—boom! You’re the cutest balloon in town.",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_336856634055424.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_336856634055424.mp4",
             "duration_sec": 5,
-            "name": "Fish Dreamcore",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"鱼之梦核\",\"display_prompt\":\"潜入深梦,鱼群环绕,幻觉如潮。\"},\"es-ES\":{\"display_name\":\"Núcleo del Sueño de Peces\",\"display_prompt\":\"¡Sumérgete en sueños profundos, rodeado de cardúmenes, alucinaciones como mareas!\"},\"ja-JP\":{\"display_name\":\"魚の夢核\",\"display_prompt\":\"深い夢に潜り、魚群に囲まれ、幻覚が潮のように押し寄せる。\"},\"ko-KR\":{\"display_name\":\"물고기 꿈의 핵\",\"display_prompt\":\"깊은 꿈으로 잠수하고, 물고기 떼에 둘러싸여, 환각이 조수처럼 밀려옵니다.\"},\"pt-BR\":{\"display_name\":\"Núcleo do Sonho dos Peixes\",\"display_prompt\":\"Mergulhe em sonhos profundos, cercado por cardumes, alucinações como marés.\"},\"fr-FR\":{\"display_name\":\"Noyau du Rêve des Poissons\",\"display_prompt\":\"Plongez dans des rêves profonds, entouré de bancs de poissons, hallucinations comme des marées.\"},\"de-DE\":{\"display_name\":\"Fischtraum-Kern\",\"display_prompt\":\"Tauchen Sie in tiefe Träume ein, umgeben von Fischschwärmen, Halluzinationen wie Gezeiten.\"},\"ru-RU\":{\"display_name\":\"Ядро рыбьих снов\",\"display_prompt\":\"Погрузитесь в глубокие сны, окружённые косяками рыб, галлюцинации как приливы.\"}}",
-            "display_prompt": "Dive deep in a dream, surrounded by fish, where visions flood."
+            "name": "Balloon Belly",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"大肚弹弹\",\"display_prompt\":\"胖嘟嘟也能萌翻天！\"},\"es-ES\":{\"display_name\":\"Rebote de Barriguita\",\"display_prompt\":\"¡Lo regordete también puede ser súper adorable!\"},\"ja-JP\":{\"display_name\":\"ぷよぷよおなか\",\"display_prompt\":\"ぽっちゃりもとってもかわいい！\"},\"ko-KR\":{\"display_name\":\"통통 배 통통\",\"display_prompt\":\"통통한 것도 귀여움이 폭발합니다！\"},\"pt-BR\":{\"display_name\":\"Barrigudinho Saltitante\",\"display_prompt\":\"O rechonchudo também pode ser super fofo!\"},\"fr-FR\":{\"display_name\":\"Rebond du Bedon\",\"display_prompt\":\"Le potelé peut aussi être super mignon !\"},\"de-DE\":{\"display_name\":\"Bauchspringer\",\"display_prompt\":\"Auch Mollig kann supersüß sein!\"},\"ru-RU\":{\"display_name\":\"Прыгающий животик\",\"display_prompt\":\"Пухленький тоже может быть супер милым!\"}}",
+            "display_prompt": "One puff and—boom! You’re the cutest balloon in town."
           },
           {
             "id": 332074055488256,
@@ -1282,6 +1270,18 @@
             "name": "Mega Dive",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"超级跳水秀\",\"display_prompt\":\"跳入夏天，在水中降温！\"},\"es-ES\":{\"display_name\":\"Súper Espectáculo de Clavados\",\"display_prompt\":\"¡Salta al verano y refrésca te en el agua!\"},\"ja-JP\":{\"display_name\":\"スーパーダイビングショー\",\"display_prompt\":\"夏に飛び込み、水の中で涼む！\"},\"ko-KR\":{\"display_name\":\"슈퍼 다이빙 쇼\",\"display_prompt\":\"여름으로 뛰어들어, 물속에서 더위를 식힙니다！\"},\"pt-BR\":{\"display_name\":\"Super Show de Mergulho\",\"display_prompt\":\"Mergulhe no verão e refresque-se na água!\"},\"fr-FR\":{\"display_name\":\"Super Spectacle de Plongeon\",\"display_prompt\":\"Plongez dans l'été et rafraîchissez-vous dans l'eau !\"},\"de-DE\":{\"display_name\":\"Super Sprungshow\",\"display_prompt\":\"Springen Sie in den Sommer und kühlen Sie sich im Wasser ab!\"},\"ru-RU\":{\"display_name\":\"Супер-шоу прыжков в воду\",\"display_prompt\":\"Прыгните в лето и охладитесь в воде!\"}}",
             "display_prompt": "Jump into summer, cool off in the water!"
+          },
+          {
+            "id": 341651541059392,
+            "tag": "default",
+            "model": "pixverse-v5",
+            "prompt": "Dive deep in a dream, surrounded by fish, where visions flood.",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_341651541059392.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_341651541059392.mp4",
+            "duration_sec": 5,
+            "name": "Fish Dreamcore",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"鱼之梦核\",\"display_prompt\":\"潜入深梦,鱼群环绕,幻觉如潮。\"},\"es-ES\":{\"display_name\":\"Núcleo del Sueño de Peces\",\"display_prompt\":\"¡Sumérgete en sueños profundos, rodeado de cardúmenes, alucinaciones como mareas!\"},\"ja-JP\":{\"display_name\":\"魚の夢核\",\"display_prompt\":\"深い夢に潜り、魚群に囲まれ、幻覚が潮のように押し寄せる。\"},\"ko-KR\":{\"display_name\":\"물고기 꿈의 핵\",\"display_prompt\":\"깊은 꿈으로 잠수하고, 물고기 떼에 둘러싸여, 환각이 조수처럼 밀려옵니다.\"},\"pt-BR\":{\"display_name\":\"Núcleo do Sonho dos Peixes\",\"display_prompt\":\"Mergulhe em sonhos profundos, cercado por cardumes, alucinações como marés.\"},\"fr-FR\":{\"display_name\":\"Noyau du Rêve des Poissons\",\"display_prompt\":\"Plongez dans des rêves profonds, entouré de bancs de poissons, hallucinations comme des marées.\"},\"de-DE\":{\"display_name\":\"Fischtraum-Kern\",\"display_prompt\":\"Tauchen Sie in tiefe Träume ein, umgeben von Fischschwärmen, Halluzinationen wie Gezeiten.\"},\"ru-RU\":{\"display_name\":\"Ядро рыбьих снов\",\"display_prompt\":\"Погрузитесь в глубокие сны, окружённые косяками рыб, галлюцинации как приливы.\"}}",
+            "display_prompt": "Dive deep in a dream, surrounded by fish, where visions flood."
           },
           {
             "id": 339673485621824,
@@ -1416,18 +1416,6 @@
             "display_prompt": "Embrace your dark side."
           },
           {
-            "id": 342874383633472,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Mummy and daddy, I’m here!",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_342874383633472.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_342874383633472.mp4",
-            "duration_sec": 5,
-            "name": "Baby Arrived",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"喜提贵子\",\"display_prompt\":\"爸爸妈妈，我来啦\"},\"es-ES\":{\"display_name\":\"Bendecidos con un Hijo Precioso\",\"display_prompt\":\"¡Papá, mamá, aquí vengo!\"},\"ja-JP\":{\"display_name\":\"貴公子誕生\",\"display_prompt\":\"パパ、ママ、来たよ\"},\"ko-KR\":{\"display_name\":\"귀한 아들 얻음\",\"display_prompt\":\"아빠 엄마, 제가 왔어요\"},\"pt-BR\":{\"display_name\":\"Abençoados com um Filho Precioso\",\"display_prompt\":\"Papai, mamãe, eu cheguei\"},\"fr-FR\":{\"display_name\":\"Bénis d'un Fils Précieux\",\"display_prompt\":\"Papa, maman, me voilà\"},\"de-DE\":{\"display_name\":\"Gesegnet mit einem kostbaren Sohn\",\"display_prompt\":\"Papa, Mama, ich komme\"},\"ru-RU\":{\"display_name\":\"Благословение драгоценным сыном\",\"display_prompt\":\"Папа, мама, я пришёл\"}}",
-            "display_prompt": "Mummy and daddy, I’m here!"
-          },
-          {
             "id": 369205027418304,
             "tag": "new",
             "model": "pixverse-v5",
@@ -1438,6 +1426,18 @@
             "name": "The Nasty Step",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"恶女步调\",\"display_prompt\":\"你的身体，你的规则。今晚就做个最 Nasty 的主角。\"},\"en-US\":{\"display_name\":\"The Nasty Step\",\"display_prompt\":\"Your body, your rules. Be the nastiest main character tonight.\"},\"ko-KR\":{\"display_name\":\"나스티 스텝\",\"display_prompt\":\"당신의 몸, 당신의 규칙. 오늘 밤 가장 대담한 주인공이 되어 보세요.\"},\"ja-JP\":{\"display_name\":\"ザ・ナスティ・ステップ\",\"display_prompt\":\"あなたの体、あなたのルール。今夜、最も大胆な主役になろう。\"},\"pt-BR\":{\"display_name\":\"O Passo Nasty\",\"display_prompt\":\"Seu corpo, suas regras. Seja o personagem principal mais atrevido esta noite.\"},\"es-ES\":{\"display_name\":\"El Paso Nasty\",\"display_prompt\":\"Tu cuerpo, tus reglas. Sé el protagonista más atrevido esta noche.\"},\"fr-FR\":{\"display_name\":\"Le Pas Nasty\",\"display_prompt\":\"Votre corps, vos règles. Soyez le personnage principal le plus audacieux ce soir.\"},\"de-DE\":{\"display_name\":\"Der Nasty Step\",\"display_prompt\":\"Dein Körper, deine Regeln. Sei heute Nacht der wildeste Hauptcharakter.\"},\"ru-RU\":{\"display_name\":\"Непристойный Шаг\",\"display_prompt\":\"Твое тело, твои правила. Стань самым дерзким главным героем сегодня вечером.\"},\"th-TH\":{\"display_name\":\"เดอะ แนสตี้ สเต็ป\",\"display_prompt\":\"ร่างกายของคุณ กฎของคุณ. มาเป็นตัวละครหลักที่เผ็ดที่สุดในคืนนี้กันเถอะ\"},\"id-ID\":{\"display_name\":\"Langkah Nasty\",\"display_prompt\":\"Tubuhmu, aturanmu. Jadilah tokoh utama paling berani malam ini.\"},\"vi-VN\":{\"display_name\":\"Bước Nhảy Nasty\",\"display_prompt\":\"Cơ thể bạn, quy tắc của bạn. Hãy trở thành nhân vật chính táo bạo nhất đêm nay.\"},\"tr-TR\":{\"display_name\":\"Nasty Adım\",\"display_prompt\":\"Senin bedenin, senin kuralların. Bu gece en yaramaz ana karakter sen ol.\"},\"it-IT\":{\"display_name\":\"Il Passo Nasty\",\"display_prompt\":\"Il tuo corpo, le tue regole. Sii il protagonista più audace stasera.\"}}",
             "display_prompt": "Your body, your rules. Be the nastiest main character tonight."
+          },
+          {
+            "id": 342874383633472,
+            "tag": "default",
+            "model": "pixverse-v5",
+            "prompt": "Mummy and daddy, I’m here!",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_342874383633472.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_342874383633472.mp4",
+            "duration_sec": 5,
+            "name": "Baby Arrived",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"喜提贵子\",\"display_prompt\":\"爸爸妈妈，我来啦\"},\"es-ES\":{\"display_name\":\"Bendecidos con un Hijo Precioso\",\"display_prompt\":\"¡Papá, mamá, aquí vengo!\"},\"ja-JP\":{\"display_name\":\"貴公子誕生\",\"display_prompt\":\"パパ、ママ、来たよ\"},\"ko-KR\":{\"display_name\":\"귀한 아들 얻음\",\"display_prompt\":\"아빠 엄마, 제가 왔어요\"},\"pt-BR\":{\"display_name\":\"Abençoados com um Filho Precioso\",\"display_prompt\":\"Papai, mamãe, eu cheguei\"},\"fr-FR\":{\"display_name\":\"Bénis d'un Fils Précieux\",\"display_prompt\":\"Papa, maman, me voilà\"},\"de-DE\":{\"display_name\":\"Gesegnet mit einem kostbaren Sohn\",\"display_prompt\":\"Papa, Mama, ich komme\"},\"ru-RU\":{\"display_name\":\"Благословение драгоценным сыном\",\"display_prompt\":\"Папа, мама, я пришёл\"}}",
+            "display_prompt": "Mummy and daddy, I’m here!"
           },
           {
             "id": 350321367924416,
@@ -1512,6 +1512,18 @@
             "display_prompt": "Find peace in Jesus' arms."
           },
           {
+            "id": 354568167143040,
+            "tag": "default",
+            "model": "pixverse-v5",
+            "prompt": "Cats love their hideaways, let’s go find them!",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_354568167143040.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_354568167143040.mp4",
+            "duration_sec": 5,
+            "name": "Kitten Hide and Seek",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"小猫小猫哪里藏！\",\"display_prompt\":\"找到世界角落的所有小猫！\"},\"en-US\":{\"display_name\":\"Kitten Hide and Seek\",\"display_prompt\":\"Cats love their hideaways, let’s go find them!\"},\"es-ES\":{\"display_name\":\"Esconde y Busca Gatitos\",\"display_prompt\":\"A los gatos les encantan sus escondites, ¡vamos a encontrarlos!\"},\"ja-JP\":{\"display_name\":\"子猫かくれんぼ\",\"display_prompt\":\"猫は隠れ場所が大好き、探してみよう！\"},\"ko-KR\":{\"display_name\":\"새끼 고양이 숨바꼭질\",\"display_prompt\":\"고양이는 숨는 곳이 좋아요, 찾아보세요!\"},\"pt-BR\":{\"display_name\":\"Esconde-Esconde dos Gatinhos\",\"display_prompt\":\"Os gatos adoram seus esconderijos, vamos encontrá-los!\"},\"fr-FR\":{\"display_name\":\"Cache-cache des Chatons\",\"display_prompt\":\"Les chats adorent leurs cachettes, allons les trouver !\"},\"de-DE\":{\"display_name\":\"Kätzchen Verstecken\",\"display_prompt\":\"Katzen lieben ihre Verstecke, lass uns sie finden!\"},\"ru-RU\":{\"display_name\":\"Прятки с котенком\",\"display_prompt\":\"Кошки любят свои укромные места, давай их найдем!\"},\"th-TH\":{\"display_name\":\"ซ่อนแอบแมวเหมียว\",\"display_prompt\":\"แมวชอบที่ซ่อนตัวของพวกมัน มาไปหากันเถอะ!\"},\"id-ID\":{\"display_name\":\"Petak Umpet Kucing Kecil\",\"display_prompt\":\"Kucing suka tempat persembunyiannya, ayo temukan mereka!\"},\"vi-VN\":{\"display_name\":\"Mèo Con Trốn Tìm\",\"display_prompt\":\"Mèo yêu những nơi ẩn náu của chúng, hãy đi tìm chúng!\"},\"tr-TR\":{\"display_name\":\"Yavru Kedi Saklambaç\",\"display_prompt\":\"Kediler saklanmayı sever, hadi onları bulalım!\"},\"it-IT\":{\"display_name\":\"Nascondino con i Gattini\",\"display_prompt\":\"Ai gatti piacciono i loro nascondigli, andiamo a trovarli!\"}}",
+            "display_prompt": "Cats love their hideaways, let’s go find them!"
+          },
+          {
             "id": 359516293494080,
             "tag": "default",
             "model": "pixverse-v5",
@@ -1534,18 +1546,6 @@
             "name": "Arctic Animals",
             "i18n_json": "{\"de-DE\":{\"display_name\":\"Arktische Tiere\",\"display_prompt\":\"Lass die arktischen Tiere dich umgeben.\"},\"en-US\":{\"display_name\":\"Arctic Animals\",\"display_prompt\":\"Let arctic animals surround you.\"},\"es-ES\":{\"display_name\":\"Animales Árticos\",\"display_prompt\":\"Déjate rodear por los animales árticos.\"},\"fr-FR\":{\"display_name\":\"Animaux Arctiques\",\"display_prompt\":\"Laissez les animaux arctiques vous entourer.\"},\"id-ID\":{\"display_name\":\"Hewan Arktik\",\"display_prompt\":\"Biarkan hewan arktik mengelilingi Anda.\"},\"it-IT\":{\"display_name\":\"Animali Artici\",\"display_prompt\":\"Lascia che gli animali artici ti circondino.\"},\"ja-JP\":{\"display_name\":\"北極の動物\",\"display_prompt\":\"北極の動物に囲まれてください。\"},\"ko-KR\":{\"display_name\":\"북극 동물\",\"display_prompt\":\"북극 동물이 당신을 둘러싸게 하세요.\"},\"pt-BR\":{\"display_name\":\"Animais Árticos\",\"display_prompt\":\"Deixe os animais árticos te cercarem.\"},\"ru-RU\":{\"display_name\":\"Арктические Животные\",\"display_prompt\":\"Позволь арктическим животным окружить тебя.\"},\"th-TH\":{\"display_name\":\"สัตว์ในเขตอาร์กติก\",\"display_prompt\":\"ให้สัตว์ในเขตอาร์กติกล้อมรอบคุณ\"},\"tr-TR\":{\"display_name\":\"Kutup Hayvanları\",\"display_prompt\":\"Kutup hayvanlarının etrafınızı sarmasına izin verin.\"},\"vi-VN\":{\"display_name\":\"Động Vật Bắc Cực\",\"display_prompt\":\"Hãy để các động vật Bắc Cực bao quanh bạn.\"},\"zh-CN\":{\"display_name\":\"北极动物\",\"display_prompt\":\"让北极动物环绕着你。\"}}",
             "display_prompt": "Let arctic animals surround you."
-          },
-          {
-            "id": 354568167143040,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Cats love their hideaways, let’s go find them!",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_354568167143040.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_354568167143040.mp4",
-            "duration_sec": 5,
-            "name": "Kitten Hide and Seek",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"小猫小猫哪里藏！\",\"display_prompt\":\"找到世界角落的所有小猫！\"},\"en-US\":{\"display_name\":\"Kitten Hide and Seek\",\"display_prompt\":\"Cats love their hideaways, let’s go find them!\"},\"es-ES\":{\"display_name\":\"Esconde y Busca Gatitos\",\"display_prompt\":\"A los gatos les encantan sus escondites, ¡vamos a encontrarlos!\"},\"ja-JP\":{\"display_name\":\"子猫かくれんぼ\",\"display_prompt\":\"猫は隠れ場所が大好き、探してみよう！\"},\"ko-KR\":{\"display_name\":\"새끼 고양이 숨바꼭질\",\"display_prompt\":\"고양이는 숨는 곳이 좋아요, 찾아보세요!\"},\"pt-BR\":{\"display_name\":\"Esconde-Esconde dos Gatinhos\",\"display_prompt\":\"Os gatos adoram seus esconderijos, vamos encontrá-los!\"},\"fr-FR\":{\"display_name\":\"Cache-cache des Chatons\",\"display_prompt\":\"Les chats adorent leurs cachettes, allons les trouver !\"},\"de-DE\":{\"display_name\":\"Kätzchen Verstecken\",\"display_prompt\":\"Katzen lieben ihre Verstecke, lass uns sie finden!\"},\"ru-RU\":{\"display_name\":\"Прятки с котенком\",\"display_prompt\":\"Кошки любят свои укромные места, давай их найдем!\"},\"th-TH\":{\"display_name\":\"ซ่อนแอบแมวเหมียว\",\"display_prompt\":\"แมวชอบที่ซ่อนตัวของพวกมัน มาไปหากันเถอะ!\"},\"id-ID\":{\"display_name\":\"Petak Umpet Kucing Kecil\",\"display_prompt\":\"Kucing suka tempat persembunyiannya, ayo temukan mereka!\"},\"vi-VN\":{\"display_name\":\"Mèo Con Trốn Tìm\",\"display_prompt\":\"Mèo yêu những nơi ẩn náu của chúng, hãy đi tìm chúng!\"},\"tr-TR\":{\"display_name\":\"Yavru Kedi Saklambaç\",\"display_prompt\":\"Kediler saklanmayı sever, hadi onları bulalım!\"},\"it-IT\":{\"display_name\":\"Nascondino con i Gattini\",\"display_prompt\":\"Ai gatti piacciono i loro nascondigli, andiamo a trovarli!\"}}",
-            "display_prompt": "Cats love their hideaways, let’s go find them!"
           },
           {
             "id": 343058324329536,
@@ -1596,6 +1596,18 @@
             "display_prompt": "Rotate 360 degrees in the microwave oven"
           },
           {
+            "id": 331864971269184,
+            "tag": "default",
+            "model": "pixverse-v5",
+            "prompt": "Emergency on the dance floor — time to slay!",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_331864971269184.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_331864971269184.mp4",
+            "duration_sec": 7,
+            "name": "Emergency Beat",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"紧急热舞\",\"display_prompt\":\"警报拉响，一起来热舞！\"},\"es-ES\":{\"display_name\":\"Baile de Emergencia\",\"display_prompt\":\"¡Suena la alarma, ¡vamos a bailar!\"},\"ja-JP\":{\"display_name\":\"緊急ダンス\",\"display_prompt\":\"警報が鳴り、みんなでダンスしよう！\"},\"ko-KR\":{\"display_name\":\"긴급 댄스\",\"display_prompt\":\"경보가 울리니, 함께 춤을 춥시다！\"},\"pt-BR\":{\"display_name\":\"Dança de Emergência\",\"display_prompt\":\"O alarme dispara, vamos dançar!\"},\"fr-FR\":{\"display_name\":\"Danse d'Urgence\",\"display_prompt\":\"L'alarme sonne, dansons ensemble !\"},\"de-DE\":{\"display_name\":\"Nottanz\",\"display_prompt\":\"Der Alarm ertönt, lasst uns tanzen!\"},\"ru-RU\":{\"display_name\":\"Экстренный танец\",\"display_prompt\":\"Тревога звучит, давайте танцевать!\"}}",
+            "display_prompt": "Emergency on the dance floor — time to slay!"
+          },
+          {
             "id": 367302749516608,
             "tag": "new",
             "model": "pixverse-v5",
@@ -1618,18 +1630,6 @@
             "name": "Strikeout Dance",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"三振舞\",\"display_prompt\":\"三次震颤，一个回合\"},\"es-ES\":{\"display_name\":\"Danza de Tres Strikes\",\"display_prompt\":\"¡Tres temblores, una ronda!\"},\"ja-JP\":{\"display_name\":\"三振ダンス\",\"display_prompt\":\"三回の震え、一つのラウンド\"},\"ko-KR\":{\"display_name\":\"삼진 댄스\",\"display_prompt\":\"세 번의 떨림, 한 라운드입니다\"},\"pt-BR\":{\"display_name\":\"Dança dos Três Strikes\",\"display_prompt\":\"Três tremores, uma rodada\"},\"fr-FR\":{\"display_name\":\"Danse des Trois Frappes\",\"display_prompt\":\"Trois tremblements, un round\"},\"de-DE\":{\"display_name\":\"Drei-Strike-Tanz\",\"display_prompt\":\"Drei Zittern, eine Runde\"},\"ru-RU\":{\"display_name\":\"Танец трёх ударов\",\"display_prompt\":\"Три дрожания, один раунд\"}}",
             "display_prompt": "Three strikes, one round"
-          },
-          {
-            "id": 331864971269184,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Emergency on the dance floor — time to slay!",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_331864971269184.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_331864971269184.mp4",
-            "duration_sec": 7,
-            "name": "Emergency Beat",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"紧急热舞\",\"display_prompt\":\"警报拉响，一起来热舞！\"},\"es-ES\":{\"display_name\":\"Baile de Emergencia\",\"display_prompt\":\"¡Suena la alarma, ¡vamos a bailar!\"},\"ja-JP\":{\"display_name\":\"緊急ダンス\",\"display_prompt\":\"警報が鳴り、みんなでダンスしよう！\"},\"ko-KR\":{\"display_name\":\"긴급 댄스\",\"display_prompt\":\"경보가 울리니, 함께 춤을 춥시다！\"},\"pt-BR\":{\"display_name\":\"Dança de Emergência\",\"display_prompt\":\"O alarme dispara, vamos dançar!\"},\"fr-FR\":{\"display_name\":\"Danse d'Urgence\",\"display_prompt\":\"L'alarme sonne, dansons ensemble !\"},\"de-DE\":{\"display_name\":\"Nottanz\",\"display_prompt\":\"Der Alarm ertönt, lasst uns tanzen!\"},\"ru-RU\":{\"display_name\":\"Экстренный танец\",\"display_prompt\":\"Тревога звучит, давайте танцевать!\"}}",
-            "display_prompt": "Emergency on the dance floor — time to slay!"
           },
           {
             "id": 328545151283968,
@@ -1722,7 +1722,7 @@
             "prompt": "Being human is tiring. Let me become a ghost and rest for a bit!",
             "image": "https://www.transcript.club/dream/styles/videos/pixverse_360405191066176.jpg",
             "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_360405191066176.mp4",
-            "duration_sec": 10,
+            "duration_sec": 5,
             "name": "Haunting Doll",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"恐怖人偶觉醒\",\"display_prompt\":\"把你的照片变成伯顿风格的僵尸人偶。\"},\"en-US\":{\"display_name\":\"Haunting Doll\",\"display_prompt\":\"Transform your photo into a Burton masterpiece.\"},\"ko-KR\":{\"display_name\":\"공포 인형의 각성\",\"display_prompt\":\"당신의 사진을 버튼 스타일의 유령인형으로 만들어보세요.\"},\"ja-JP\":{\"display_name\":\"恐怖ドールの覚醒\",\"display_prompt\":\"あなたの写真をバートン風のコープスドールに変換します。\"},\"pt-BR\":{\"display_name\":\"O Despertar da Boneca Assombrada\",\"display_prompt\":\"Transforme sua foto em um boneco assustador no estilo Burton.\"},\"es-ES\":{\"display_name\":\"El Despertar del Muñeco Aterrador\",\"display_prompt\":\"Convierte tu foto en un muñeco fantasmagórico al estilo Burton.\"},\"fr-FR\":{\"display_name\":\"L'Éveil de la Poupée Hantée\",\"display_prompt\":\"Transformez votre photo en une poupée funèbre style Burton.\"},\"de-DE\":{\"display_name\":\"Das Erwachen der Spukpuppe\",\"display_prompt\":\"Verwandle dein Foto in eine Geisterpuppe im Burton-Stil.\"},\"ru-RU\":{\"display_name\":\"Пробуждение Ужасающей Куклы\",\"display_prompt\":\"Преврати свою фотографию в куклу-зомби в стиле Бертона.\"},\"th-TH\":{\"display_name\":\"การตื่นขึ้นของตุ๊กตาที่น่าสะพรึงกลัว\",\"display_prompt\":\"เปลี่ยนภาพถ่ายของคุณให้เป็นตุ๊กตาผีในสไตล์ของเบอร์ตัน\"},\"id-ID\":{\"display_name\":\"Bangkitnya Boneka Mengerikan\",\"display_prompt\":\"Ubah fotomu menjadi boneka seram gaya Burton.\"},\"vi-VN\":{\"display_name\":\"Sự Thức Tỉnh Của Búp Bê Kinh Hoàng\",\"display_prompt\":\"Biến ảnh của bạn thành một búp bê ma quái phong cách Burton.\"},\"tr-TR\":{\"display_name\":\"Korkunç Bebeğin Uyanışı\",\"display_prompt\":\"Fotoğrafını Burton tarzı bir korku bebeğine dönüştür.\"},\"it-IT\":{\"display_name\":\"Il Risveglio della Bambola Orrorifica\",\"display_prompt\":\"Trasforma la tua foto in una bambola horror in stile Burton.\"}}",
             "display_prompt": "Being human is tiring. Let me become a ghost and rest for a bit!"
@@ -1788,16 +1788,16 @@
             "display_prompt": "Upload your photo and unlock your destined tiny pup."
           },
           {
-            "id": 366540804957162,
+            "id": 327306291348352,
             "tag": "default",
             "model": "pixverse-v5",
-            "prompt": "Me and Angels",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_366540804957162.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_366540804957162.mp4",
-            "duration_sec": 8,
-            "name": "Halloween Angels",
-            "i18n_json": "{\"en-US\":{\"display_name\":\"Halloween Angels\",\"display_prompt\":\"Me and Angels\"},\"es-ES\":{\"display_name\":\"Ángeles de Halloween\",\"display_prompt\":\"Yo y los Ángeles\"},\"fr-FR\":{\"display_name\":\"Anges d'Halloween\",\"display_prompt\":\"Moi et les Anges\"},\"id-ID\":{\"display_name\":\"Malaikat Halloween\",\"display_prompt\":\"Saya dan Malaikat\"},\"it-IT\":{\"display_name\":\"Angeli di Halloween\",\"display_prompt\":\"Io e gli Angeli\"},\"ja-JP\":{\"display_name\":\"ハロウィンの天使\",\"display_prompt\":\"私と天使たち\"},\"ko-KR\":{\"display_name\":\"할로윈 천사\",\"display_prompt\":\"나와 천사들\"},\"pt-BR\":{\"display_name\":\"Anjos de Halloween\",\"display_prompt\":\"Eu e os Anjos\"},\"ru-RU\":{\"display_name\":\"Хэллоуинские ангелы\",\"display_prompt\":\"Я и Ангелы\"},\"th-TH\":{\"display_name\":\"นางฟ้าฮาโลวีน\",\"display_prompt\":\"ฉันและนางฟ้า\"},\"tr-TR\":{\"display_name\":\"Cadılar Bayramı Melekleri\",\"display_prompt\":\"Ben ve Melekler\"},\"vi-VN\":{\"display_name\":\"Thiên Thần Halloween\",\"display_prompt\":\"Tôi và các Thiên Thần\"},\"zh-CN\":{\"display_name\":\"万圣节天使\",\"display_prompt\":\"我和天使\"}}",
-            "display_prompt": "Me and Angels"
+            "prompt": "It's time to take a good rest",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_327306291348352.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_327306291348352.mp4",
+            "duration_sec": 5,
+            "name": "Night Night",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"随地大小睡\",\"display_prompt\":\"好好休息一下吧，朋友\"},\"es-ES\":{\"display_name\":\"Siesta en cualquier lugar\",\"display_prompt\":\"¡Descansa un poco, amigo!\"},\"ja-JP\":{\"display_name\":\"どこでも一眠り\",\"display_prompt\":\"ゆっくり休んでね、友よ\"},\"ko-KR\":{\"display_name\":\"아무 데서나 꿀잠\",\"display_prompt\":\"친구여, 잠시 편히 쉬어 보세요\"},\"pt-BR\":{\"display_name\":\"Cochilo em qualquer lugar\",\"display_prompt\":\"Descanse um pouco, amigo\"},\"fr-FR\":{\"display_name\":\"Somme improvisé\",\"display_prompt\":\"Repose-toi un peu, mon ami\"},\"de-DE\":{\"display_name\":\"Überall ein Nickerchen\",\"display_prompt\":\"Ruh dich gut aus, Freund\"},\"ru-RU\":{\"display_name\":\"Сон в любом месте\",\"display_prompt\":\"Хорошо отдохни, друг\"}}",
+            "display_prompt": "It's time to take a good rest"
           },
           {
             "id": 345536984247872,
@@ -1812,16 +1812,16 @@
             "display_prompt": "Test your soul—are you fire or ice?"
           },
           {
-            "id": 327306291348352,
+            "id": 366540804957162,
             "tag": "default",
             "model": "pixverse-v5",
-            "prompt": "It's time to take a good rest",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_327306291348352.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_327306291348352.mp4",
-            "duration_sec": 5,
-            "name": "Night Night",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"随地大小睡\",\"display_prompt\":\"好好休息一下吧，朋友\"},\"es-ES\":{\"display_name\":\"Siesta en cualquier lugar\",\"display_prompt\":\"¡Descansa un poco, amigo!\"},\"ja-JP\":{\"display_name\":\"どこでも一眠り\",\"display_prompt\":\"ゆっくり休んでね、友よ\"},\"ko-KR\":{\"display_name\":\"아무 데서나 꿀잠\",\"display_prompt\":\"친구여, 잠시 편히 쉬어 보세요\"},\"pt-BR\":{\"display_name\":\"Cochilo em qualquer lugar\",\"display_prompt\":\"Descanse um pouco, amigo\"},\"fr-FR\":{\"display_name\":\"Somme improvisé\",\"display_prompt\":\"Repose-toi un peu, mon ami\"},\"de-DE\":{\"display_name\":\"Überall ein Nickerchen\",\"display_prompt\":\"Ruh dich gut aus, Freund\"},\"ru-RU\":{\"display_name\":\"Сон в любом месте\",\"display_prompt\":\"Хорошо отдохни, друг\"}}",
-            "display_prompt": "It's time to take a good rest"
+            "prompt": "Me and Angels",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_366540804957162.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_366540804957162.mp4",
+            "duration_sec": 8,
+            "name": "Halloween Angels",
+            "i18n_json": "{\"en-US\":{\"display_name\":\"Halloween Angels\",\"display_prompt\":\"Me and Angels\"},\"es-ES\":{\"display_name\":\"Ángeles de Halloween\",\"display_prompt\":\"Yo y los Ángeles\"},\"fr-FR\":{\"display_name\":\"Anges d'Halloween\",\"display_prompt\":\"Moi et les Anges\"},\"id-ID\":{\"display_name\":\"Malaikat Halloween\",\"display_prompt\":\"Saya dan Malaikat\"},\"it-IT\":{\"display_name\":\"Angeli di Halloween\",\"display_prompt\":\"Io e gli Angeli\"},\"ja-JP\":{\"display_name\":\"ハロウィンの天使\",\"display_prompt\":\"私と天使たち\"},\"ko-KR\":{\"display_name\":\"할로윈 천사\",\"display_prompt\":\"나와 천사들\"},\"pt-BR\":{\"display_name\":\"Anjos de Halloween\",\"display_prompt\":\"Eu e os Anjos\"},\"ru-RU\":{\"display_name\":\"Хэллоуинские ангелы\",\"display_prompt\":\"Я и Ангелы\"},\"th-TH\":{\"display_name\":\"นางฟ้าฮาโลวีน\",\"display_prompt\":\"ฉันและนางฟ้า\"},\"tr-TR\":{\"display_name\":\"Cadılar Bayramı Melekleri\",\"display_prompt\":\"Ben ve Melekler\"},\"vi-VN\":{\"display_name\":\"Thiên Thần Halloween\",\"display_prompt\":\"Tôi và các Thiên Thần\"},\"zh-CN\":{\"display_name\":\"万圣节天使\",\"display_prompt\":\"我和天使\"}}",
+            "display_prompt": "Me and Angels"
           },
           {
             "id": 335586897736448,
@@ -1932,18 +1932,6 @@
             "display_prompt": "Tag, You're It, can you win against a werewolf!"
           },
           {
-            "id": 339694359740224,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "One click, bee my honey magic buddy?",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_339694359740224.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_339694359740224.mp4",
-            "duration_sec": 5,
-            "name": "Honey Bee Magic",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"蜜蜂魔法\",\"display_prompt\":\"一键成为你的甜甜小蜜蜂 🐝\"},\"es-ES\":{\"display_name\":\"Magia de Abeja Dulce\",\"display_prompt\":\"Con un clic, ¡tu abeja mágica y dulce! 🐝\"},\"ja-JP\":{\"display_name\":\"ハニービーマジック\",\"display_prompt\":\"ワンタップで、あなたのハニービーに 🐝\"},\"ko-KR\":{\"display_name\":\"꿀벌 마법\",\"display_prompt\":\"클릭 한 번으로, 당신의 달콤한 꿀벌이 되어줄게 🐝\"},\"pt-BR\":{\"display_name\":\"Magia da Abelhinha\",\"display_prompt\":\"Um clique e sou sua abelhinha mágica! 🐝\"},\"fr-FR\":{\"display_name\":\"Magie de l'Abeille\",\"display_prompt\":\"Un clic pour devenir votre abeille magique et sucrée ! 🐝\"},\"de-DE\":{\"display_name\":\"Honigbienen-Zauber\",\"display_prompt\":\"Ein Klick und ich bin dein süßer Bienen-Buddy! 🐝\"},\"ru-RU\":{\"display_name\":\"Магия Медовой Пчелы\",\"display_prompt\":\"Один клик, и я ваша волшебная медовая пчёлка! 🐝\"},\"en-US\":{\"display_name\":\"Honey Bee Magic\",\"display_prompt\":\"One click, bee my honey magic buddy 🐝\"}}",
-            "display_prompt": "One click, bee my honey magic buddy?"
-          },
-          {
             "id": 343431441233856,
             "tag": "default",
             "model": "pixverse-v5",
@@ -1954,6 +1942,18 @@
             "name": "Rain of Redemption",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"救赎之雨\",\"display_prompt\":\"拥抱大雨，每一滴都是你的自由。\"},\"es-ES\":{\"display_name\":\"Lluvia de Redención\",\"display_prompt\":\"¡Abraza la lluvia torrencial, cada gota es tu libertad!\"},\"ja-JP\":{\"display_name\":\"救済の雨\",\"display_prompt\":\"大雨を抱きしめよう、一滴一滴があなたの自由だ。\"},\"ko-KR\":{\"display_name\":\"구원의 비\",\"display_prompt\":\"큰 비를 품으세요, 모든 물방울이 당신의 자유입니다.\"},\"pt-BR\":{\"display_name\":\"Chuva da Redenção\",\"display_prompt\":\"Abrace a chuva forte, cada gota é sua liberdade.\"},\"fr-FR\":{\"display_name\":\"Pluie de Rédemption\",\"display_prompt\":\"Embrassez la pluie battante, chaque goutte est votre liberté.\"},\"de-DE\":{\"display_name\":\"Regen der Erlösung\",\"display_prompt\":\"Umarmen Sie den starken Regen, jeder Tropfen ist Ihre Freiheit.\"},\"ru-RU\":{\"display_name\":\"Дождь искупления\",\"display_prompt\":\"Обнимите сильный дождь, каждая капля — это ваша свобода.\"}}",
             "display_prompt": "Stand in the rain — every drop sets you free"
+          },
+          {
+            "id": 339694359740224,
+            "tag": "default",
+            "model": "pixverse-v5",
+            "prompt": "One click, bee my honey magic buddy?",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_339694359740224.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_339694359740224.mp4",
+            "duration_sec": 5,
+            "name": "Honey Bee Magic",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"蜜蜂魔法\",\"display_prompt\":\"一键成为你的甜甜小蜜蜂 🐝\"},\"es-ES\":{\"display_name\":\"Magia de Abeja Dulce\",\"display_prompt\":\"Con un clic, ¡tu abeja mágica y dulce! 🐝\"},\"ja-JP\":{\"display_name\":\"ハニービーマジック\",\"display_prompt\":\"ワンタップで、あなたのハニービーに 🐝\"},\"ko-KR\":{\"display_name\":\"꿀벌 마법\",\"display_prompt\":\"클릭 한 번으로, 당신의 달콤한 꿀벌이 되어줄게 🐝\"},\"pt-BR\":{\"display_name\":\"Magia da Abelhinha\",\"display_prompt\":\"Um clique e sou sua abelhinha mágica! 🐝\"},\"fr-FR\":{\"display_name\":\"Magie de l'Abeille\",\"display_prompt\":\"Un clic pour devenir votre abeille magique et sucrée ! 🐝\"},\"de-DE\":{\"display_name\":\"Honigbienen-Zauber\",\"display_prompt\":\"Ein Klick und ich bin dein süßer Bienen-Buddy! 🐝\"},\"ru-RU\":{\"display_name\":\"Магия Медовой Пчелы\",\"display_prompt\":\"Один клик, и я ваша волшебная медовая пчёлка! 🐝\"},\"en-US\":{\"display_name\":\"Honey Bee Magic\",\"display_prompt\":\"One click, bee my honey magic buddy 🐝\"}}",
+            "display_prompt": "One click, bee my honey magic buddy?"
           },
           {
             "id": 372733877668844,
@@ -2088,18 +2088,6 @@
             "display_prompt": "Display your product on a highway billboard."
           },
           {
-            "id": 373001487876056,
-            "tag": "",
-            "model": "pixverse-v5",
-            "prompt": "A cheerful winter portrait surrounded by cute cartoon reindeers dancing and posing around the subject.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_373001487876056.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_373001487876056.mp4",
-            "duration_sec": 5,
-            "name": "Reindeer Parade",
-            "i18n_json": "{\"de-DE\":{\"display_name\":\"Rentier-Parade\",\"display_prompt\":\"Ein fröhliches Winterporträt, umgeben von niedlichen Cartoon-Rentieren, die um die Person herum tanzen und posieren.\"},\"en-US\":{\"display_name\":\"Reindeer Parade\",\"display_prompt\":\"A cheerful winter portrait surrounded by cute cartoon reindeers dancing and posing around the subject.\"},\"es-ES\":{\"display_name\":\"Desfile de Renos\",\"display_prompt\":\"Un retrato invernal alegre rodeado de adorables renos de dibujos animados bailando y posando alrededor del sujeto.\"},\"fr-FR\":{\"display_name\":\"Défilé de Rennes\",\"display_prompt\":\"Un portrait hivernal joyeux entouré de charmants rennes de dessin animé dansant et posant autour du sujet.\"},\"id-ID\":{\"display_name\":\"Pawai Rusa\",\"display_prompt\":\"Sebuah potret musim dingin yang ceria dikelilingi oleh rusa kartun lucu yang menari dan berpose di sekitar subjek.\"},\"it-IT\":{\"display_name\":\"Parata di Renne\",\"display_prompt\":\"Un ritratto invernale gioioso circondato da adorabili renne a cartone animate che ballano e posano intorno al soggetto.\"},\"ja-JP\":{\"display_name\":\"トナカイ・パレード\",\"display_prompt\":\"可愛いアニメトナカイたちが主役の周りで踊りながらポーズを取る、陽気な冬のポートレート。\"},\"ko-KR\":{\"display_name\":\"순록 퍼레이드\",\"display_prompt\":\"귀여운 만화 순록들이 주인공 주위에서 춤추고 포즈를 취하는 경쾌한 겨울 초상화.\"},\"pt-BR\":{\"display_name\":\"Parada de Renas\",\"display_prompt\":\"Um retrato alegre de inverno cercado por adoráveis renas de desenho animado dançando e posando ao redor do sujeito.\"},\"ru-RU\":{\"display_name\":\"Парад Северных Оленьев\",\"display_prompt\":\"Веселый зимний портрет, окруженный милыми мультяшными оленями, танцующими и позирующими вокруг субъекта.\"},\"th-TH\":{\"display_name\":\"ขบวนกวางเรนเดียร์\",\"display_prompt\":\"ภาพบุคคลฤดูหนาวที่สนุกสนานล้อมรอบไปด้วยกวางเรนเดียร์การ์ตูนน่ารักที่เต้นรำและโพสท่ารอบตัวแบบ.\"},\"tr-TR\":{\"display_name\":\"Ren Geyiği Geçidi\",\"display_prompt\":\"Sübjektin etrafında dans eden ve poz veren sevimli çizgi film ren geyikleriyle çevrili neşeli bir kış portresi.\"},\"vi-VN\":{\"display_name\":\"Cuộc Diễu Hành Tuần Lộc\",\"display_prompt\":\"Một chân dung mùa đông vui tươi được bao quanh bởi những chú tuần lộc hoạt hình dễ thương đang nhảy múa và tạo dáng quanh chủ thể.\"},\"zh-CN\":{\"display_name\":\"驯鹿游行\",\"display_prompt\":\"一幅快乐的冬季肖像，周围是可爱的卡通驯鹿在主题周围跳舞和摆姿势。\"}}",
-            "display_prompt": "A cheerful winter portrait surrounded by cute cartoon reindeers dancing and posing around the subject."
-          },
-          {
             "id": 330523675191680,
             "tag": "default",
             "model": "pixverse-v5",
@@ -2112,16 +2100,16 @@
             "display_prompt": "Turn your photo into a living anime story!"
           },
           {
-            "id": 369205206102208,
-            "tag": "default",
+            "id": 373001487876056,
+            "tag": "",
             "model": "pixverse-v5",
-            "prompt": "One wrong step—welcome to the kitchen rhythm!",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_369205206102208.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_369205206102208.mp4",
-            "duration_sec": 7,
-            "name": "Kitchen Shuffle",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"厨房企鹅舞\",\"display_prompt\":\"脚下一乱，就是厨房的节奏！\"},\"en-US\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"One wrong step—welcome to the kitchen rhythm!\"},\"ja-JP\":{\"display_name\":\"キッチンシャッフル\",\"display_prompt\":\"足がふらついた瞬間、それはキッチンのリズム！\"},\"ko-KR\":{\"display_name\":\"키친 셔플\",\"display_prompt\":\"발이 꼬이면 그게 바로 주방의 리듬!\"},\"fr-FR\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Un faux pas… et voilà le rythme de la cuisine !\"},\"es-ES\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Un paso en falso… y empieza el ritmo de la cocina.\"},\"de-DE\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Ein falscher Schritt… und schon beginnt der Küchenrhythmus!\"},\"pt-BR\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Um passo errado… e o ritmo da cozinha começa!\"},\"it-IT\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Un passo storto… ed ecco il ritmo della cucina!\"},\"ru-RU\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Стоит оступиться — и кухня задаёт ритм!\"},\"th-TH\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"ก้าวพลาดนิดเดียว… จังหวะครัวเริ่มขึ้นทันที!\"},\"vi-VN\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Trượt chân một cái… là bắt vào nhịp của căn bếp ngay!\"},\"id-ID\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Melangkah salah sedikit… ritme dapur langsung dimulai!\"},\"tr-TR\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Bir adım kayarsa… mutfağın ritmi başlar!\"}}",
-            "display_prompt": "One wrong step—welcome to the kitchen rhythm!"
+            "prompt": "A cheerful winter portrait surrounded by cute cartoon reindeers dancing and posing around the subject.",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_373001487876056.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_373001487876056.mp4",
+            "duration_sec": 5,
+            "name": "Reindeer Parade",
+            "i18n_json": "{\"de-DE\":{\"display_name\":\"Rentier-Parade\",\"display_prompt\":\"Ein fröhliches Winterporträt, umgeben von niedlichen Cartoon-Rentieren, die um die Person herum tanzen und posieren.\"},\"en-US\":{\"display_name\":\"Reindeer Parade\",\"display_prompt\":\"A cheerful winter portrait surrounded by cute cartoon reindeers dancing and posing around the subject.\"},\"es-ES\":{\"display_name\":\"Desfile de Renos\",\"display_prompt\":\"Un retrato invernal alegre rodeado de adorables renos de dibujos animados bailando y posando alrededor del sujeto.\"},\"fr-FR\":{\"display_name\":\"Défilé de Rennes\",\"display_prompt\":\"Un portrait hivernal joyeux entouré de charmants rennes de dessin animé dansant et posant autour du sujet.\"},\"id-ID\":{\"display_name\":\"Pawai Rusa\",\"display_prompt\":\"Sebuah potret musim dingin yang ceria dikelilingi oleh rusa kartun lucu yang menari dan berpose di sekitar subjek.\"},\"it-IT\":{\"display_name\":\"Parata di Renne\",\"display_prompt\":\"Un ritratto invernale gioioso circondato da adorabili renne a cartone animate che ballano e posano intorno al soggetto.\"},\"ja-JP\":{\"display_name\":\"トナカイ・パレード\",\"display_prompt\":\"可愛いアニメトナカイたちが主役の周りで踊りながらポーズを取る、陽気な冬のポートレート。\"},\"ko-KR\":{\"display_name\":\"순록 퍼레이드\",\"display_prompt\":\"귀여운 만화 순록들이 주인공 주위에서 춤추고 포즈를 취하는 경쾌한 겨울 초상화.\"},\"pt-BR\":{\"display_name\":\"Parada de Renas\",\"display_prompt\":\"Um retrato alegre de inverno cercado por adoráveis renas de desenho animado dançando e posando ao redor do sujeito.\"},\"ru-RU\":{\"display_name\":\"Парад Северных Оленьев\",\"display_prompt\":\"Веселый зимний портрет, окруженный милыми мультяшными оленями, танцующими и позирующими вокруг субъекта.\"},\"th-TH\":{\"display_name\":\"ขบวนกวางเรนเดียร์\",\"display_prompt\":\"ภาพบุคคลฤดูหนาวที่สนุกสนานล้อมรอบไปด้วยกวางเรนเดียร์การ์ตูนน่ารักที่เต้นรำและโพสท่ารอบตัวแบบ.\"},\"tr-TR\":{\"display_name\":\"Ren Geyiği Geçidi\",\"display_prompt\":\"Sübjektin etrafında dans eden ve poz veren sevimli çizgi film ren geyikleriyle çevrili neşeli bir kış portresi.\"},\"vi-VN\":{\"display_name\":\"Cuộc Diễu Hành Tuần Lộc\",\"display_prompt\":\"Một chân dung mùa đông vui tươi được bao quanh bởi những chú tuần lộc hoạt hình dễ thương đang nhảy múa và tạo dáng quanh chủ thể.\"},\"zh-CN\":{\"display_name\":\"驯鹿游行\",\"display_prompt\":\"一幅快乐的冬季肖像，周围是可爱的卡通驯鹿在主题周围跳舞和摆姿势。\"}}",
+            "display_prompt": "A cheerful winter portrait surrounded by cute cartoon reindeers dancing and posing around the subject."
           },
           {
             "id": 343058524240960,
@@ -2134,6 +2122,18 @@
             "name": "Shake Shake  Disco",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"摇摇迪斯科\",\"display_prompt\":\"舞池需要你的摇摆\"},\"es-ES\":{\"display_name\":\"Disco Bailongo\",\"display_prompt\":\"¡La pista de baile necesita tu movimiento!\"},\"ja-JP\":{\"display_name\":\"揺れ揺れディスコ\",\"display_prompt\":\"ダンスフロアにはあなたのスウィングが必要\"},\"ko-KR\":{\"display_name\":\"흔들흔들 디스코\",\"display_prompt\":\"댄스 플로어에 당신의 스윙이 필요합니다\"},\"pt-BR\":{\"display_name\":\"Disco Balançante\",\"display_prompt\":\"A pista de dança precisa do seu balanço\"},\"fr-FR\":{\"display_name\":\"Disco Qui Bouge\",\"display_prompt\":\"La piste de danse a besoin de votre déhanchement\"},\"de-DE\":{\"display_name\":\"Wackel-Disco\",\"display_prompt\":\"Die Tanzfläche braucht Ihren Schwung\"},\"ru-RU\":{\"display_name\":\"Качающаяся дискотека\",\"display_prompt\":\"Танцполу нужны ваши движения\"}}",
             "display_prompt": "The dance floor needs your wave"
+          },
+          {
+            "id": 369205206102208,
+            "tag": "default",
+            "model": "pixverse-v5",
+            "prompt": "One wrong step—welcome to the kitchen rhythm!",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_369205206102208.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_369205206102208.mp4",
+            "duration_sec": 7,
+            "name": "Kitchen Shuffle",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"厨房企鹅舞\",\"display_prompt\":\"脚下一乱，就是厨房的节奏！\"},\"en-US\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"One wrong step—welcome to the kitchen rhythm!\"},\"ja-JP\":{\"display_name\":\"キッチンシャッフル\",\"display_prompt\":\"足がふらついた瞬間、それはキッチンのリズム！\"},\"ko-KR\":{\"display_name\":\"키친 셔플\",\"display_prompt\":\"발이 꼬이면 그게 바로 주방의 리듬!\"},\"fr-FR\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Un faux pas… et voilà le rythme de la cuisine !\"},\"es-ES\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Un paso en falso… y empieza el ritmo de la cocina.\"},\"de-DE\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Ein falscher Schritt… und schon beginnt der Küchenrhythmus!\"},\"pt-BR\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Um passo errado… e o ritmo da cozinha começa!\"},\"it-IT\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Un passo storto… ed ecco il ritmo della cucina!\"},\"ru-RU\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Стоит оступиться — и кухня задаёт ритм!\"},\"th-TH\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"ก้าวพลาดนิดเดียว… จังหวะครัวเริ่มขึ้นทันที!\"},\"vi-VN\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Trượt chân một cái… là bắt vào nhịp của căn bếp ngay!\"},\"id-ID\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Melangkah salah sedikit… ritme dapur langsung dimulai!\"},\"tr-TR\":{\"display_name\":\"Kitchen Shuffle\",\"display_prompt\":\"Bir adım kayarsa… mutfağın ritmi başlar!\"}}",
+            "display_prompt": "One wrong step—welcome to the kitchen rhythm!"
           },
           {
             "id": 321956810449792,
@@ -2256,18 +2256,6 @@
             "display_prompt": "Embrace the season ahead! Let's enjoy the snow more than anyone else!"
           },
           {
-            "id": 343058469676096,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Do the rat dance anywhere in the world",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_343058469676096.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_343058469676096.mp4",
-            "duration_sec": 8,
-            "name": "Rat Dance Killer",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"老鼠舞杀手\",\"display_prompt\":\"在全世界任何地方跳起老鼠舞\"},\"es-ES\":{\"display_name\":\"Asesino de la Danza de Rata\",\"display_prompt\":\"¡Haz la danza de rata en cualquier lugar del mundo!\"},\"ja-JP\":{\"display_name\":\"ラットダンス キラー\",\"display_prompt\":\"世界中どこでもラットダンスをしよう\"},\"ko-KR\":{\"display_name\":\"쥐 댄스 킬러\",\"display_prompt\":\"세계 어디서든 쥐 댄스를 춰보세요\"},\"pt-BR\":{\"display_name\":\"Matador da Dança do Rato\",\"display_prompt\":\"Faça a dança do rato em qualquer lugar do mundo\"},\"fr-FR\":{\"display_name\":\"Tueur de Danse de Rat\",\"display_prompt\":\"Faites la danse du rat n'importe où dans le monde\"},\"de-DE\":{\"display_name\":\"Ratten-Tanz-Killer\",\"display_prompt\":\"Machen Sie den Rattentanz überall auf der Welt\"},\"ru-RU\":{\"display_name\":\"Убийца крысиного танца\",\"display_prompt\":\"Танцуйте крысиный танец в любой точке мира\"}}",
-            "display_prompt": "Do the rat dance anywhere in the world"
-          },
-          {
             "id": 366951955215168,
             "tag": "default",
             "model": "pixverse-v5",
@@ -2278,6 +2266,18 @@
             "name": "Lighting AD",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"光影广告\",\"display_prompt\":\"光影炼金术，揭示您的产品魅力。\"},\"en-US\":{\"display_name\":\"Lighting AD\",\"display_prompt\":\"Light and Shadow Alchemy, Unveiling Your Product’s Allure.\"},\"ko-KR\":{\"display_name\":\"조명 광고\",\"display_prompt\":\"빛과 그림자의 연금술로, 제품의 매력을 드러내세요.\"},\"ja-JP\":{\"display_name\":\"ライティング広告\",\"display_prompt\":\"光と影の錬金術で、あなたの製品の魅力を明らかにしましょう。\"},\"pt-BR\":{\"display_name\":\"Anúncio de Iluminação\",\"display_prompt\":\"Alquimia de Luz e Sombra, Revelando o Encanto do Seu Produto.\"},\"es-ES\":{\"display_name\":\"Anuncio de Iluminación\",\"display_prompt\":\"Alquimia de Luz y Sombra, Revelando el Encanto de Su Producto.\"},\"fr-FR\":{\"display_name\":\"Publicité Lumière\",\"display_prompt\":\"Alchimie de Lumière et d'Ombre, Dévoilant l'Attrait de Votre Produit.\"},\"de-DE\":{\"display_name\":\"Beleuchtungswerbung\",\"display_prompt\":\"Alchemie aus Licht und Schatten, die den Reiz Ihres Produkts enthüllt.\"},\"ru-RU\":{\"display_name\":\"Световая Реклама\",\"display_prompt\":\"Алхимия Света и Тени, Раскрывающая Привлекательность Вашего Продукта.\"},\"th-TH\":{\"display_name\":\"โฆษณาด้วยแสง\",\"display_prompt\":\"การเล่นแร่แปรธาตุของแสงและเงา เผยเสน่ห์ของผลิตภัณฑ์ของคุณ\"},\"id-ID\":{\"display_name\":\"Iklan Pencahayaan\",\"display_prompt\":\"Alkimia Cahaya dan Bayangan, Mengungkap Daya Tarik Produk Anda.\"},\"vi-VN\":{\"display_name\":\"Quảng Cáo Ánh Sáng\",\"display_prompt\":\"Giả Kim Thuật Ánh Sáng và Bóng Tối, Tiết Lộ Sức Hút Của Sản Phẩm Bạn.\"},\"tr-TR\":{\"display_name\":\"Aydınlatma İlanı\",\"display_prompt\":\"Işık ve Gölge Simyası, Ürününüzün Cazibesini Ortaya Çıkarın.\"},\"it-IT\":{\"display_name\":\"Annuncio Illuminazione\",\"display_prompt\":\"Alchimia di Luce e Ombra, Svelando il Fascino del Tuo Prodotto.\"}}",
             "display_prompt": "Light and Shadow Alchemy, Unveiling Your Product’s Allure."
+          },
+          {
+            "id": 343058469676096,
+            "tag": "default",
+            "model": "pixverse-v5",
+            "prompt": "Do the rat dance anywhere in the world",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_343058469676096.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_343058469676096.mp4",
+            "duration_sec": 8,
+            "name": "Rat Dance Killer",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"老鼠舞杀手\",\"display_prompt\":\"在全世界任何地方跳起老鼠舞\"},\"es-ES\":{\"display_name\":\"Asesino de la Danza de Rata\",\"display_prompt\":\"¡Haz la danza de rata en cualquier lugar del mundo!\"},\"ja-JP\":{\"display_name\":\"ラットダンス キラー\",\"display_prompt\":\"世界中どこでもラットダンスをしよう\"},\"ko-KR\":{\"display_name\":\"쥐 댄스 킬러\",\"display_prompt\":\"세계 어디서든 쥐 댄스를 춰보세요\"},\"pt-BR\":{\"display_name\":\"Matador da Dança do Rato\",\"display_prompt\":\"Faça a dança do rato em qualquer lugar do mundo\"},\"fr-FR\":{\"display_name\":\"Tueur de Danse de Rat\",\"display_prompt\":\"Faites la danse du rat n'importe où dans le monde\"},\"de-DE\":{\"display_name\":\"Ratten-Tanz-Killer\",\"display_prompt\":\"Machen Sie den Rattentanz überall auf der Welt\"},\"ru-RU\":{\"display_name\":\"Убийца крысиного танца\",\"display_prompt\":\"Танцуйте крысиный танец в любой точке мира\"}}",
+            "display_prompt": "Do the rat dance anywhere in the world"
           },
           {
             "id": 369204968292544,
@@ -2292,18 +2292,6 @@
             "display_prompt": "Let your body pop like a candy."
           },
           {
-            "id": 366544675201928,
-            "tag": "",
-            "model": "pixverse-v5",
-            "prompt": "Adorn yourself with your Halloween mask.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_366544675201928.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_366544675201928.mp4",
-            "duration_sec": 8,
-            "name": "Halloween Mask",
-            "i18n_json": "{\"de-DE\":{\"display_name\":\"Halloween-Maske\",\"display_prompt\":\"Setze deine Halloween-Maske auf.\"},\"en-US\":{\"display_name\":\"Halloween Mask\",\"display_prompt\":\"Adorn yourself with your Halloween mask.\"},\"es-ES\":{\"display_name\":\"Máscara de Halloween\",\"display_prompt\":\"Póntela tu máscara de Halloween.\"},\"fr-FR\":{\"display_name\":\"Masque d'Halloween\",\"display_prompt\":\"Mettez votre masque d'Halloween.\"},\"id-ID\":{\"display_name\":\"Topeng Halloween\",\"display_prompt\":\"Kenakan topeng Halloween Anda.\"},\"it-IT\":{\"display_name\":\"Maschera di Halloween\",\"display_prompt\":\"Indossa la tua maschera di Halloween.\"},\"ja-JP\":{\"display_name\":\"ハロウィンマスク\",\"display_prompt\":\"あなたのハロウィンマスクをかぶってください。\"},\"ko-KR\":{\"display_name\":\"할로윈 가면\",\"display_prompt\":\"할로윈 가면을 써보세요.\"},\"pt-BR\":{\"display_name\":\"Máscara de Halloween\",\"display_prompt\":\"Coloque sua máscara de Halloween.\"},\"ru-RU\":{\"display_name\":\"Хэллоуинская маска\",\"display_prompt\":\"Наденьте свою хэллоуинскую маску.\"},\"th-TH\":{\"display_name\":\"หน้ากากฮาโลวีน\",\"display_prompt\":\"สวมหน้ากากฮาโลวีนของคุณ.\"},\"tr-TR\":{\"display_name\":\"Cadılar Bayramı Maskesi\",\"display_prompt\":\"Cadılar Bayramı maskeni tak.\"},\"vi-VN\":{\"display_name\":\"Mặt Nạ Halloween\",\"display_prompt\":\"Đeo mặt nạ Halloween của bạn.\"},\"zh-CN\":{\"display_name\":\"万圣节面具\",\"display_prompt\":\"戴上你的万圣节面具。\"}}",
-            "display_prompt": "Adorn yourself with your Halloween mask."
-          },
-          {
             "id": 361988459862630,
             "tag": "default",
             "model": "pixverse-v5",
@@ -2316,16 +2304,16 @@
             "display_prompt": "Transform yourself and your friends into party animals, let the wild celebration commence!"
           },
           {
-            "id": 335261821526784,
-            "tag": "default",
+            "id": 366544675201928,
+            "tag": "",
             "model": "pixverse-v5",
-            "prompt": "Join the Global Barbie Craze! ✨",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_335261821526784.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_335261821526784.mp4",
-            "duration_sec": 5,
-            "name": "Born to Barbie",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"天生芭比\",\"display_prompt\":\"加入全球芭比热潮！\"},\"es-ES\":{\"display_name\":\"Nacida para ser Barbie\",\"display_prompt\":\"¡Únete a la locura global de Barbie!\"},\"ja-JP\":{\"display_name\":\"バービーになるために生まれた\",\"display_prompt\":\"世界的なバービー熱に参加しよう！\"},\"ko-KR\":{\"display_name\":\"바비로 태어나다\",\"display_prompt\":\"전 세계 바비 열풍에 동참하세요!\"},\"pt-BR\":{\"display_name\":\"Nascida para ser Barbie\",\"display_prompt\":\"Junte-se à febre global da Barbie!\"},\"fr-FR\":{\"display_name\":\"Née pour être Barbie\",\"display_prompt\":\"Rejoignez la folie mondiale Barbie !\"},\"de-DE\":{\"display_name\":\"Geboren als Barbie\",\"display_prompt\":\"Schließen Sie sich dem weltweiten Barbie-Wahnsinn an!\"},\"ru-RU\":{\"display_name\":\"Рождена быть Барби\",\"display_prompt\":\"Присоединяйтесь к мировому безумию Барби!\"}}",
-            "display_prompt": "Join the Global Barbie Craze! ✨"
+            "prompt": "Adorn yourself with your Halloween mask.",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_366544675201928.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_366544675201928.mp4",
+            "duration_sec": 8,
+            "name": "Halloween Mask",
+            "i18n_json": "{\"de-DE\":{\"display_name\":\"Halloween-Maske\",\"display_prompt\":\"Setze deine Halloween-Maske auf.\"},\"en-US\":{\"display_name\":\"Halloween Mask\",\"display_prompt\":\"Adorn yourself with your Halloween mask.\"},\"es-ES\":{\"display_name\":\"Máscara de Halloween\",\"display_prompt\":\"Póntela tu máscara de Halloween.\"},\"fr-FR\":{\"display_name\":\"Masque d'Halloween\",\"display_prompt\":\"Mettez votre masque d'Halloween.\"},\"id-ID\":{\"display_name\":\"Topeng Halloween\",\"display_prompt\":\"Kenakan topeng Halloween Anda.\"},\"it-IT\":{\"display_name\":\"Maschera di Halloween\",\"display_prompt\":\"Indossa la tua maschera di Halloween.\"},\"ja-JP\":{\"display_name\":\"ハロウィンマスク\",\"display_prompt\":\"あなたのハロウィンマスクをかぶってください。\"},\"ko-KR\":{\"display_name\":\"할로윈 가면\",\"display_prompt\":\"할로윈 가면을 써보세요.\"},\"pt-BR\":{\"display_name\":\"Máscara de Halloween\",\"display_prompt\":\"Coloque sua máscara de Halloween.\"},\"ru-RU\":{\"display_name\":\"Хэллоуинская маска\",\"display_prompt\":\"Наденьте свою хэллоуинскую маску.\"},\"th-TH\":{\"display_name\":\"หน้ากากฮาโลวีน\",\"display_prompt\":\"สวมหน้ากากฮาโลวีนของคุณ.\"},\"tr-TR\":{\"display_name\":\"Cadılar Bayramı Maskesi\",\"display_prompt\":\"Cadılar Bayramı maskeni tak.\"},\"vi-VN\":{\"display_name\":\"Mặt Nạ Halloween\",\"display_prompt\":\"Đeo mặt nạ Halloween của bạn.\"},\"zh-CN\":{\"display_name\":\"万圣节面具\",\"display_prompt\":\"戴上你的万圣节面具。\"}}",
+            "display_prompt": "Adorn yourself with your Halloween mask."
           },
           {
             "id": 337572593925696,
@@ -2338,6 +2326,18 @@
             "name": "Skeleton Dance",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"骷髅舞王\",\"display_prompt\":\"像网红骨架一样抖起来，整活时间到！\"},\"es-ES\":{\"display_name\":\"Rey del Baile Esqueleto\",\"display_prompt\":\"¡Muévete como un esqueleto viral, ¡llegó la hora de divertirse!\"},\"ja-JP\":{\"display_name\":\"スケルトンダンスキング\",\"display_prompt\":\"バイラル骨格のように揺れ動こう、楽しい時間の始まりだ！\"},\"ko-KR\":{\"display_name\":\"해골 댄스 킹\",\"display_prompt\":\"인기 해골처럼 흔들어봐요, 재미있는 시간이 왔습니다！\"},\"pt-BR\":{\"display_name\":\"Rei da Dança Esqueleto\",\"display_prompt\":\"Balance como um esqueleto viral, é hora da diversão!\"},\"fr-FR\":{\"display_name\":\"Roi de la Danse Squelette\",\"display_prompt\":\"Secouez-vous comme un squelette viral, c'est l'heure de s'amuser !\"},\"de-DE\":{\"display_name\":\"Skelett-Tanzkönig\",\"display_prompt\":\"Schütteln Sie sich wie ein virales Skelett, es ist Zeit für Spaß!\"},\"ru-RU\":{\"display_name\":\"Король скелетных танцев\",\"display_prompt\":\"Трясись как вирусный скелет, время веселья пришло!\"}}",
             "display_prompt": "Shake it like that viral skeleton -  it’s meme time!"
+          },
+          {
+            "id": 335261821526784,
+            "tag": "default",
+            "model": "pixverse-v5",
+            "prompt": "Join the Global Barbie Craze! ✨",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_335261821526784.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_335261821526784.mp4",
+            "duration_sec": 5,
+            "name": "Born to Barbie",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"天生芭比\",\"display_prompt\":\"加入全球芭比热潮！\"},\"es-ES\":{\"display_name\":\"Nacida para ser Barbie\",\"display_prompt\":\"¡Únete a la locura global de Barbie!\"},\"ja-JP\":{\"display_name\":\"バービーになるために生まれた\",\"display_prompt\":\"世界的なバービー熱に参加しよう！\"},\"ko-KR\":{\"display_name\":\"바비로 태어나다\",\"display_prompt\":\"전 세계 바비 열풍에 동참하세요!\"},\"pt-BR\":{\"display_name\":\"Nascida para ser Barbie\",\"display_prompt\":\"Junte-se à febre global da Barbie!\"},\"fr-FR\":{\"display_name\":\"Née pour être Barbie\",\"display_prompt\":\"Rejoignez la folie mondiale Barbie !\"},\"de-DE\":{\"display_name\":\"Geboren als Barbie\",\"display_prompt\":\"Schließen Sie sich dem weltweiten Barbie-Wahnsinn an!\"},\"ru-RU\":{\"display_name\":\"Рождена быть Барби\",\"display_prompt\":\"Присоединяйтесь к мировому безумию Барби!\"}}",
+            "display_prompt": "Join the Global Barbie Craze! ✨"
           },
           {
             "id": 343058215445568,
@@ -2376,18 +2376,6 @@
             "display_prompt": "Turn the world into a Sakura Utopia"
           },
           {
-            "id": 361429166535744,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Turn your product into a bold poster design",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_361429166535744.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_361429166535744.mp4",
-            "duration_sec": 5,
-            "name": "Poster AD",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"动态海报\",\"display_prompt\":\"将您的产品转化为大胆的海报设计。\"},\"en-US\":{\"display_name\":\"Poster AD\",\"display_prompt\":\"Turn your product into a bold poster design.\"},\"ko-KR\":{\"display_name\":\"포스터 광고\",\"display_prompt\":\"당신의 제품을 대담한 포스터 디자인으로 바꿔보세요.\"},\"ja-JP\":{\"display_name\":\"ポスター広告\",\"display_prompt\":\"あなたの製品を大胆なポスターデザインに変えましょう。\"},\"pt-BR\":{\"display_name\":\"Anúncio de Cartaz\",\"display_prompt\":\"Transforme seu produto em um design de cartaz ousado.\"},\"es-ES\":{\"display_name\":\"Anuncio de Póster\",\"display_prompt\":\"Convierte tu producto en un diseño de póster audaz.\"},\"fr-FR\":{\"display_name\":\"Publicité Affiche\",\"display_prompt\":\"Transformez votre produit en un design d'affiche audacieux.\"},\"de-DE\":{\"display_name\":\"Poster-Werbung\",\"display_prompt\":\"Verwandeln Sie Ihr Produkt in ein mutiges Posterdesign.\"},\"ru-RU\":{\"display_name\":\"Реклама-Плакат\",\"display_prompt\":\"Превратите свой продукт в смелый дизайн плаката.\"},\"th-TH\":{\"display_name\":\"โฆษณาโปสเตอร์\",\"display_prompt\":\"เปลี่ยนผลิตภัณฑ์ของคุณให้เป็นดีไซน์โปสเตอร์ที่โดดเด่น\"},\"id-ID\":{\"display_name\":\"Iklan Poster\",\"display_prompt\":\"Ubah produk Anda menjadi desain poster yang berani.\"},\"vi-VN\":{\"display_name\":\"Quảng Cáo Áp Phích\",\"display_prompt\":\"Biến sản phẩm của bạn thành một thiết kế áp phích táo bạo.\"},\"tr-TR\":{\"display_name\":\"Poster İlanı\",\"display_prompt\":\"Ürününüzü cesur bir poster tasarımına dönüştürün.\"},\"it-IT\":{\"display_name\":\"Annuncio Poster\",\"display_prompt\":\"Trasforma il tuo prodotto in un audace design di poster.\"}}",
-            "display_prompt": "Turn your product into a bold poster design"
-          },
-          {
             "id": 367301708446528,
             "tag": "default",
             "model": "pixverse-v5",
@@ -2398,6 +2386,18 @@
             "name": "Why didn’t you call me Godfather",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"为什么不叫我教父\",\"display_prompt\":\"你从不问我的世界，也从不让我成为你孩子的教父。\"},\"en-US\":{\"display_name\":\"Why Don’t You Call Me Godfather\",\"display_prompt\":\"You never ask me about my business, you never ask me to be godfather to your child.\"},\"ja-JP\":{\"display_name\":\"なぜ俺をゴッドファーザーと呼ばない\",\"display_prompt\":\"お前は俺の世界を知らないし、自分の子の名付け親にも頼まない。\"},\"ko-KR\":{\"display_name\":\"왜 나를 대부라고 부르지 않아\",\"display_prompt\":\"넌 내 세상에 대해 묻지 않고, 네 아이의 대부가 되어 달라고도 하지 않았지.\"},\"fr-FR\":{\"display_name\":\"Pourquoi ne m’appelles-tu pas Parrain\",\"display_prompt\":\"Tu ne me demandes jamais de mon monde, ni d’être le parrain de ton enfant.\"},\"es-ES\":{\"display_name\":\"¿Por qué no me llamas Padrino?\",\"display_prompt\":\"Nunca me preguntas por mi mundo, ni me pides ser el padrino de tu hijo.\"},\"de-DE\":{\"display_name\":\"Warum nennst du mich nicht Pate\",\"display_prompt\":\"Du fragst mich nie nach meiner Welt und bittest mich nie, der Pate deines Kindes zu sein.\"},\"pt-BR\":{\"display_name\":\"Por que não me chama de Padrinho\",\"display_prompt\":\"Você nunca pergunta sobre o meu mundo, nem me pede para ser o padrinho do seu filho.\"},\"it-IT\":{\"display_name\":\"Perché non mi chiami Padrino\",\"display_prompt\":\"Non mi chiedi mai del mio mondo, né mi chiedi di essere il padrino di tuo figlio.\"},\"ru-RU\":{\"display_name\":\"Почему ты не называешь меня Крестным отцом\",\"display_prompt\":\"Ты никогда не спрашиваешь о моём мире и не просишь стать крестным отцом твоего ребёнка.\"},\"th-TH\":{\"display_name\":\"ทำไมไม่เรียกฉันว่าพ่อทูนหัว\",\"display_prompt\":\"นายไม่เคยถามถึงโลกของฉัน และไม่เคยขอให้ฉันเป็นพ่อทูนหัวของลูกนายเลย.\"},\"vi-VN\":{\"display_name\":\"Tại sao không gọi tôi là Bố Già\",\"display_prompt\":\"Anh chưa bao giờ hỏi về thế giới của tôi, cũng chưa bao giờ nhờ tôi làm cha đỡ đầu cho con anh.\"},\"id-ID\":{\"display_name\":\"Kenapa Tidak Memanggilku Godfather\",\"display_prompt\":\"Kau tak pernah tanya tentang duniaku, dan tak pernah memintaku jadi ayah baptis anakmu.\"},\"tr-TR\":{\"display_name\":\"Neden Bana Vaftiz Babası Demiyorsun\",\"display_prompt\":\"Hiç dünyamı sormuyorsun, çocuğunun vaftiz babası olmamı da istemiyorsun.\"}}",
             "display_prompt": "You never ask me about my business, you never ask me to be godfather to your child."
+          },
+          {
+            "id": 361429166535744,
+            "tag": "default",
+            "model": "pixverse-v5",
+            "prompt": "Turn your product into a bold poster design",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_361429166535744.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_361429166535744.mp4",
+            "duration_sec": 5,
+            "name": "Poster AD",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"动态海报\",\"display_prompt\":\"将您的产品转化为大胆的海报设计。\"},\"en-US\":{\"display_name\":\"Poster AD\",\"display_prompt\":\"Turn your product into a bold poster design.\"},\"ko-KR\":{\"display_name\":\"포스터 광고\",\"display_prompt\":\"당신의 제품을 대담한 포스터 디자인으로 바꿔보세요.\"},\"ja-JP\":{\"display_name\":\"ポスター広告\",\"display_prompt\":\"あなたの製品を大胆なポスターデザインに変えましょう。\"},\"pt-BR\":{\"display_name\":\"Anúncio de Cartaz\",\"display_prompt\":\"Transforme seu produto em um design de cartaz ousado.\"},\"es-ES\":{\"display_name\":\"Anuncio de Póster\",\"display_prompt\":\"Convierte tu producto en un diseño de póster audaz.\"},\"fr-FR\":{\"display_name\":\"Publicité Affiche\",\"display_prompt\":\"Transformez votre produit en un design d'affiche audacieux.\"},\"de-DE\":{\"display_name\":\"Poster-Werbung\",\"display_prompt\":\"Verwandeln Sie Ihr Produkt in ein mutiges Posterdesign.\"},\"ru-RU\":{\"display_name\":\"Реклама-Плакат\",\"display_prompt\":\"Превратите свой продукт в смелый дизайн плаката.\"},\"th-TH\":{\"display_name\":\"โฆษณาโปสเตอร์\",\"display_prompt\":\"เปลี่ยนผลิตภัณฑ์ของคุณให้เป็นดีไซน์โปสเตอร์ที่โดดเด่น\"},\"id-ID\":{\"display_name\":\"Iklan Poster\",\"display_prompt\":\"Ubah produk Anda menjadi desain poster yang berani.\"},\"vi-VN\":{\"display_name\":\"Quảng Cáo Áp Phích\",\"display_prompt\":\"Biến sản phẩm của bạn thành một thiết kế áp phích táo bạo.\"},\"tr-TR\":{\"display_name\":\"Poster İlanı\",\"display_prompt\":\"Ürününüzü cesur bir poster tasarımına dönüştürün.\"},\"it-IT\":{\"display_name\":\"Annuncio Poster\",\"display_prompt\":\"Trasforma il tuo prodotto in un audace design di poster.\"}}",
+            "display_prompt": "Turn your product into a bold poster design"
           },
           {
             "id": 367828176752256,
@@ -2412,18 +2412,6 @@
             "display_prompt": "The viral trend is here. Join the Aşkım Çok Pardon dance challenge!"
           },
           {
-            "id": 365519364076288,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "The ropes are tightening. Your voodoo transformation starts now.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_365519364076288.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_365519364076288.mp4",
-            "duration_sec": 5,
-            "name": "Halloween Voodoo Doll",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"万圣巫毒仔\",\"display_prompt\":\"绳索已收紧！你的巫毒变身现在开始。\"},\"en-US\":{\"display_name\":\"Halloween Voodoo Doll\",\"display_prompt\":\"The ropes are tightening. Your voodoo transformation starts now.\"},\"ko-KR\":{\"display_name\":\"할로윈 부두 인형\",\"display_prompt\":\"밧줄이 조여옵니다! 당신의 부두 변신이 지금 시작됩니다.\"},\"ja-JP\":{\"display_name\":\"ハロウィン呪い人形\",\"display_prompt\":\"縄が締め付けられる！あなたのブードゥー変身が今始まる。\"},\"pt-BR\":{\"display_name\":\"Boneca Vodu de Halloween\",\"display_prompt\":\"As cordas estão apertando! Sua transformação vodu começa agora.\"},\"es-ES\":{\"display_name\":\"Muñeco Vudú de Halloween\",\"display_prompt\":\"¡Las cuerdas se están apretando! Tu transformación vudú comienza ahora.\"},\"fr-FR\":{\"display_name\":\"Poupée Vaudou Halloween\",\"display_prompt\":\"Les cordes se resserrent ! Votre transformation vaudou commence maintenant.\"},\"de-DE\":{\"display_name\":\"Halloween-Voodoo-Puppe\",\"display_prompt\":\"Die Seile ziehen sich zu! Deine Voodoo-Transformation beginnt jetzt.\"},\"ru-RU\":{\"display_name\":\"Кукла Вуду на Хэллоуин\",\"display_prompt\":\"Веревки затягиваются! Твое вуду-превращение начинается прямо сейчас.\"},\"th-TH\":{\"display_name\":\"ตุ๊กตาวูดูฮาโลวีน\",\"display_prompt\":\"เชือกกำลังรัดแน่น! การแปลงร่างวูดูของคุณเริ่มแล้ว.\"},\"id-ID\":{\"display_name\":\"Boneka Voodoo Halloween\",\"display_prompt\":\"Tali-tali semakin erat! Transformasi voodoo Anda dimulai sekarang.\"},\"vi-VN\":{\"display_name\":\"Búp Bê Voodoo Halloween\",\"display_prompt\":\"Dây thừng đang siết chặt! Sự biến hình voodoo của bạn bắt đầu ngay bây giờ.\"},\"tr-TR\":{\"display_name\":\"Cadılar Bayramı Vudu Bebeği\",\"display_prompt\":\"İpler geriliyor! Vudu dönüşümün şimdi başlıyor.\"},\"it-IT\":{\"display_name\":\"Bambola Voodoo di Halloween\",\"display_prompt\":\"Le corde si stanno stringendo! La tua trasformazione voodoo inizia ora.\"}}",
-            "display_prompt": "The ropes are tightening. Your voodoo transformation starts now."
-          },
-          {
             "id": 368689273684736,
             "tag": "hot",
             "model": "pixverse-v5",
@@ -2434,6 +2422,18 @@
             "name": "AI Museum Portrait",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"AI艺术馆肖像\",\"display_prompt\":\"AI为你策展！让你成为博物馆里永恒的焦点。\"},\"en-US\":{\"display_name\":\"AI Museum Portrait\",\"display_prompt\":\"Curated by AI. Discover your place in art history.\"},\"ko-KR\":{\"display_name\":\"AI 박물관 초상화\",\"display_prompt\":\"AI가 당신을 위해 기획합니다! 박물관 속 영원한 주인공이 되어 보세요.\"},\"ja-JP\":{\"display_name\":\"AI美術館ポートレート\",\"display_prompt\":\"AIがあなたをキュレーション！美術館で永遠の焦点になりましょう。\"},\"pt-BR\":{\"display_name\":\"Retrato de Museu AI\",\"display_prompt\":\"Curadoria por AI. Descubra seu lugar na história da arte.\"},\"es-ES\":{\"display_name\":\"Retrato de Museo IA\",\"display_prompt\":\"Comisariado por IA. Descubre tu lugar en la historia del arte.\"},\"fr-FR\":{\"display_name\":\"Portrait Musée IA\",\"display_prompt\":\"Mis en exposition par l'IA. Découvrez votre place dans l'histoire de l'art.\"},\"de-DE\":{\"display_name\":\"AI Museum Porträt\",\"display_prompt\":\"Von AI kuratiert. Entdecke deinen Platz in der Kunstgeschichte.\"},\"ru-RU\":{\"display_name\":\"AI Музейный Портрет\",\"display_prompt\":\"Куратор — ИИ. Откройте свое место в истории искусств.\"},\"th-TH\":{\"display_name\":\"ภาพพอร์ตเทรต AI มิวเซียม\",\"display_prompt\":\"AI คัดสรรให้คุณ! ค้นพบพื้นที่ของคุณในประวัติศาสตร์ศิลปะ\"},\"id-ID\":{\"display_name\":\"Potret Museum AI\",\"display_prompt\":\"Dikurasi oleh AI. Temukan tempat Anda dalam sejarah seni.\"},\"vi-VN\":{\"display_name\":\"Chân Dung Bảo Tàng AI\",\"display_prompt\":\"Được giám tuyển bởi AI. Khám phá vị trí của bạn trong lịch sử nghệ thuật.\"},\"tr-TR\":{\"display_name\":\"AI Müze Portresi\",\"display_prompt\":\"AI tarafından seçildi. Sanat tarihindeki yerinizi keşfedin.\"},\"it-IT\":{\"display_name\":\"Ritratto Museo AI\",\"display_prompt\":\"Curato dall'AI. Scopri il tuo posto nella storia dell'arte.\"}}",
             "display_prompt": "Curated by AI. Discover your place in art history."
+          },
+          {
+            "id": 365519364076288,
+            "tag": "default",
+            "model": "pixverse-v5",
+            "prompt": "The ropes are tightening. Your voodoo transformation starts now.",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_365519364076288.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_365519364076288.mp4",
+            "duration_sec": 5,
+            "name": "Halloween Voodoo Doll",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"万圣巫毒仔\",\"display_prompt\":\"绳索已收紧！你的巫毒变身现在开始。\"},\"en-US\":{\"display_name\":\"Halloween Voodoo Doll\",\"display_prompt\":\"The ropes are tightening. Your voodoo transformation starts now.\"},\"ko-KR\":{\"display_name\":\"할로윈 부두 인형\",\"display_prompt\":\"밧줄이 조여옵니다! 당신의 부두 변신이 지금 시작됩니다.\"},\"ja-JP\":{\"display_name\":\"ハロウィン呪い人形\",\"display_prompt\":\"縄が締め付けられる！あなたのブードゥー変身が今始まる。\"},\"pt-BR\":{\"display_name\":\"Boneca Vodu de Halloween\",\"display_prompt\":\"As cordas estão apertando! Sua transformação vodu começa agora.\"},\"es-ES\":{\"display_name\":\"Muñeco Vudú de Halloween\",\"display_prompt\":\"¡Las cuerdas se están apretando! Tu transformación vudú comienza ahora.\"},\"fr-FR\":{\"display_name\":\"Poupée Vaudou Halloween\",\"display_prompt\":\"Les cordes se resserrent ! Votre transformation vaudou commence maintenant.\"},\"de-DE\":{\"display_name\":\"Halloween-Voodoo-Puppe\",\"display_prompt\":\"Die Seile ziehen sich zu! Deine Voodoo-Transformation beginnt jetzt.\"},\"ru-RU\":{\"display_name\":\"Кукла Вуду на Хэллоуин\",\"display_prompt\":\"Веревки затягиваются! Твое вуду-превращение начинается прямо сейчас.\"},\"th-TH\":{\"display_name\":\"ตุ๊กตาวูดูฮาโลวีน\",\"display_prompt\":\"เชือกกำลังรัดแน่น! การแปลงร่างวูดูของคุณเริ่มแล้ว.\"},\"id-ID\":{\"display_name\":\"Boneka Voodoo Halloween\",\"display_prompt\":\"Tali-tali semakin erat! Transformasi voodoo Anda dimulai sekarang.\"},\"vi-VN\":{\"display_name\":\"Búp Bê Voodoo Halloween\",\"display_prompt\":\"Dây thừng đang siết chặt! Sự biến hình voodoo của bạn bắt đầu ngay bây giờ.\"},\"tr-TR\":{\"display_name\":\"Cadılar Bayramı Vudu Bebeği\",\"display_prompt\":\"İpler geriliyor! Vudu dönüşümün şimdi başlıyor.\"},\"it-IT\":{\"display_name\":\"Bambola Voodoo di Halloween\",\"display_prompt\":\"Le corde si stanno stringendo! La tua trasformazione voodoo inizia ora.\"}}",
+            "display_prompt": "The ropes are tightening. Your voodoo transformation starts now."
           },
           {
             "id": 361993440092761,
@@ -2472,18 +2472,6 @@
             "display_prompt": "Dive in, your coral fantasy awaits"
           },
           {
-            "id": 352956065691584,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "The wind carries destiny where it wills.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_352956065691584.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_352956065691584.mp4",
-            "duration_sec": 5,
-            "name": "Petals of Goodbye",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"花式退场\",\"display_prompt\":\"花自落，风也凉。\"},\"en-US\":{\"display_name\":\"Petals of Goodbye\",\"display_prompt\":\"The wind carries destiny where it wills.\"},\"es-ES\":{\"display_name\":\"Pétalos de Adiós\",\"display_prompt\":\"El viento lleva el destino donde quiere.\"},\"ja-JP\":{\"display_name\":\"さよならの花びら\",\"display_prompt\":\"風が運ぶのは運命、どこへでも\"},\"ko-KR\":{\"display_name\":\"작별의 꽃잎\",\"display_prompt\":\"바람은 운명을 원하는 곳으로 데려간다\"},\"pt-BR\":{\"display_name\":\"Pétalas de Adeus\",\"display_prompt\":\"O vento carrega o destino para onde quer.\"},\"fr-FR\":{\"display_name\":\"Pétales d'Adieu\",\"display_prompt\":\"Le vent porte le destin là où il veut.\"},\"de-DE\":{\"display_name\":\"Blüten des Abschieds\",\"display_prompt\":\"Der Wind trägt das Schicksal, wohin er will.\"},\"ru-RU\":{\"display_name\":\"Петли Прощания\",\"display_prompt\":\"Ветер несет судьбу, куда пожелает.\"},\"th-TH\":{\"display_name\":\"กลีบกุหลาบแห่งการลาจาก\",\"display_prompt\":\"ลมพัดพาชะตากรรมไปตามที่มันต้องการ\"},\"id-ID\":{\"display_name\":\"Ppetal Perpisahan\",\"display_prompt\":\"Angin membawa takdir ke mana ia mau.\"},\"vi-VN\":{\"display_name\":\"Cánh Hoa Tạm Biệt\",\"display_prompt\":\"Gió mang vận mệnh đến nơi nó muốn.\"},\"tr-TR\":{\"display_name\":\"Veda Yaprakları\",\"display_prompt\":\"Rüzgar, kaderi istediği yere taşır.\"},\"it-IT\":{\"display_name\":\"Petali di Addio\",\"display_prompt\":\"Il vento porta il destino dove vuole.\"}}",
-            "display_prompt": "The wind carries destiny where it wills."
-          },
-          {
             "id": 339376362313472,
             "tag": "default",
             "model": "pixverse-v5",
@@ -2494,6 +2482,18 @@
             "name": "Love Punch",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"爱心一击\",\"display_prompt\":\"给你一记爱心小拳拳！\"},\"es-ES\":{\"display_name\":\"Puñetazo de Amor\",\"display_prompt\":\"¡Un pequeño puñetazo con amor para ti!\"},\"ja-JP\":{\"display_name\":\"ラブパンチ\",\"display_prompt\":\"ハートのこもった、とっておきの一撃！\"},\"ko-KR\":{\"display_name\":\"사랑 펀치\",\"display_prompt\":\"사랑을 담은 작은 펀치를 날려줄게!\"},\"pt-BR\":{\"display_name\":\"Soco de Amor\",\"display_prompt\":\"Um soquinho de amor para você!\"},\"fr-FR\":{\"display_name\":\"Coup de Poing d'Amour\",\"display_prompt\":\"Un petit coup de poing avec amour pour toi !\"},\"de-DE\":{\"display_name\":\"Liebes-Punch\",\"display_prompt\":\"Ein kleiner Schlag mit Herz für dich!\"},\"ru-RU\":{\"display_name\":\"Удар любви\",\"display_prompt\":\"Дарю тебе маленький удар с любовью!\"},\"en-US\":{\"display_name\":\"Love Punch\",\"display_prompt\":\"Give you a little punch with heart!\"}}",
             "display_prompt": "Give you a little punch with heart!"
+          },
+          {
+            "id": 352956065691584,
+            "tag": "default",
+            "model": "pixverse-v5",
+            "prompt": "The wind carries destiny where it wills.",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_352956065691584.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_352956065691584.mp4",
+            "duration_sec": 5,
+            "name": "Petals of Goodbye",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"花式退场\",\"display_prompt\":\"花自落，风也凉。\"},\"en-US\":{\"display_name\":\"Petals of Goodbye\",\"display_prompt\":\"The wind carries destiny where it wills.\"},\"es-ES\":{\"display_name\":\"Pétalos de Adiós\",\"display_prompt\":\"El viento lleva el destino donde quiere.\"},\"ja-JP\":{\"display_name\":\"さよならの花びら\",\"display_prompt\":\"風が運ぶのは運命、どこへでも\"},\"ko-KR\":{\"display_name\":\"작별의 꽃잎\",\"display_prompt\":\"바람은 운명을 원하는 곳으로 데려간다\"},\"pt-BR\":{\"display_name\":\"Pétalas de Adeus\",\"display_prompt\":\"O vento carrega o destino para onde quer.\"},\"fr-FR\":{\"display_name\":\"Pétales d'Adieu\",\"display_prompt\":\"Le vent porte le destin là où il veut.\"},\"de-DE\":{\"display_name\":\"Blüten des Abschieds\",\"display_prompt\":\"Der Wind trägt das Schicksal, wohin er will.\"},\"ru-RU\":{\"display_name\":\"Петли Прощания\",\"display_prompt\":\"Ветер несет судьбу, куда пожелает.\"},\"th-TH\":{\"display_name\":\"กลีบกุหลาบแห่งการลาจาก\",\"display_prompt\":\"ลมพัดพาชะตากรรมไปตามที่มันต้องการ\"},\"id-ID\":{\"display_name\":\"Ppetal Perpisahan\",\"display_prompt\":\"Angin membawa takdir ke mana ia mau.\"},\"vi-VN\":{\"display_name\":\"Cánh Hoa Tạm Biệt\",\"display_prompt\":\"Gió mang vận mệnh đến nơi nó muốn.\"},\"tr-TR\":{\"display_name\":\"Veda Yaprakları\",\"display_prompt\":\"Rüzgar, kaderi istediği yere taşır.\"},\"it-IT\":{\"display_name\":\"Petali di Addio\",\"display_prompt\":\"Il vento porta il destino dove vuole.\"}}",
+            "display_prompt": "The wind carries destiny where it wills."
           },
           {
             "id": 366381407789888,
@@ -2652,18 +2652,6 @@
             "display_prompt": "Turn your photo into am anime masterpiece!"
           },
           {
-            "id": 365522752365312,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Calling forth a demon of desire... Her sweetness hides a creeping sense of danger.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_365522752365312.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_365522752365312.mp4",
-            "duration_sec": 8,
-            "name": "Summoning succubus",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"召唤使魔\",\"display_prompt\":\"唤出欲望的恶魔……她的甜美之下，藏着步步逼近的危险。\"},\"en-US\":{\"display_name\":\"Summoning Succubus\",\"display_prompt\":\"Calling forth a demon of desire... Her sweetness hides a creeping sense of danger.\"},\"ja-JP\":{\"display_name\":\"サキュバス召喚\",\"display_prompt\":\"欲望の悪魔を呼び出す… 彼女の甘さの裏には、忍び寄る危険が潜んでいる。\"},\"ko-KR\":{\"display_name\":\"서큐버스 소환\",\"display_prompt\":\"욕망의 악마를 불러낸다… 그녀의 달콤함 속에는 서서히 다가오는 위험이 숨어 있다.\"},\"fr-FR\":{\"display_name\":\"Invocation de la Succube\",\"display_prompt\":\"Invoquer un démon du désir... Sa douceur cache un danger qui s’insinue lentement.\"},\"es-ES\":{\"display_name\":\"Invocación de la Súcubo\",\"display_prompt\":\"Invocar a un demonio del deseo... Su dulzura oculta un peligro que se aproxima sigilosamente.\"},\"de-DE\":{\"display_name\":\"Beschwörung der Sukkubus\",\"display_prompt\":\"Einen Dämon der Begierde heraufbeschwören... Ihre Süße verbirgt eine lauernde Gefahr.\"},\"pt-BR\":{\"display_name\":\"Invocação da Súcubo\",\"display_prompt\":\"Invocar um demônio do desejo... Sua doçura esconde um perigo que se aproxima lentamente.\"},\"it-IT\":{\"display_name\":\"Evocazione della Succube\",\"display_prompt\":\"Evocando un demone del desiderio... La sua dolcezza nasconde un pericolo strisciante.\"},\"ru-RU\":{\"display_name\":\"Призыв Суккуба\",\"display_prompt\":\"Призывая демона желания... Под её сладостью скрывается подкрадывающаяся опасность.\"},\"th-TH\":{\"display_name\":\"อัญเชิญซัคคิวบัส\",\"display_prompt\":\"เรียกปีศาจแห่งความปรารถนา... ภายใต้ความหวานนั้นแฝงไปด้วยอันตรายที่คืบคลานเข้ามา.\"},\"vi-VN\":{\"display_name\":\"Triệu hồi Succubus\",\"display_prompt\":\"Gọi lên con quỷ của dục vọng... Sự ngọt ngào của cô ấy che giấu một mối nguy đang dần đến gần.\"},\"id-ID\":{\"display_name\":\"Pemanggilan Succubus\",\"display_prompt\":\"Memanggil iblis hasrat... Di balik manisnya, tersembunyi bahaya yang perlahan mendekat.\"},\"tr-TR\":{\"display_name\":\"Succubus Çağrısı\",\"display_prompt\":\"Arzu şeytanını çağırmak... Tatlılığının ardında sinsice yaklaşan bir tehlike gizli.\"}}",
-            "display_prompt": "Calling forth a demon of desire... Her sweetness hides a creeping sense of danger."
-          },
-          {
             "id": 368492376619456,
             "tag": "default",
             "model": "pixverse-v5",
@@ -2674,6 +2662,18 @@
             "name": "Beach AD",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"沙滩广告\",\"display_prompt\":\"将您的产品置于阳光沙滩上进行展示。\"},\"en-US\":{\"display_name\":\"Beach AD\",\"display_prompt\":\"Place your product on the beach for a relaxed, sun-kissed display.\"},\"ko-KR\":{\"display_name\":\"해변 광고\",\"display_prompt\":\"당신의 제품을 해변에 배치하여 햇살 가득한 디스플레이를 연출하세요.\"},\"ja-JP\":{\"display_name\":\"ビーチ広告\",\"display_prompt\":\"あなたの製品をビーチに配置して、リラックスした太陽の光を浴びたディスプレイにしましょう。\"},\"pt-BR\":{\"display_name\":\"Anúncio de Praia\",\"display_prompt\":\"Coloque seu produto na praia para uma exibição relaxada e ensolarada.\"},\"es-ES\":{\"display_name\":\"Anuncio de Playa\",\"display_prompt\":\"Coloque su producto en la playa para una exhibición relajada y bañada por el sol.\"},\"fr-FR\":{\"display_name\":\"Publicité Plage\",\"display_prompt\":\"Placez votre produit sur la plage pour une présentation décontractée et ensoleillée.\"},\"de-DE\":{\"display_name\":\"Strand-Werbung\",\"display_prompt\":\"Platzieren Sie Ihr Produkt am Strand für eine entspannte, sonnenverwöhnte Präsentation.\"},\"ru-RU\":{\"display_name\":\"Пляжная Реклама\",\"display_prompt\":\"Разместите ваш продукт на пляже для расслабляющей, залитой солнцем демонстрации.\"},\"th-TH\":{\"display_name\":\"โฆษณาบนชายหาด\",\"display_prompt\":\"วางผลิตภัณฑ์ของคุณบนชายหาดเพื่อการจัดแสดงที่ผ่อนคลายและโดนแดด\"},\"id-ID\":{\"display_name\":\"Iklan Pantai\",\"display_prompt\":\"Tempatkan produk Anda di pantai untuk tampilan yang santai dan bermandikan sinar matahari.\"},\"vi-VN\":{\"display_name\":\"Quảng Cáo Bãi Biển\",\"display_prompt\":\"Đặt sản phẩm của bạn trên bãi biển để có một màn hình thư giãn và đầy nắng.\"},\"tr-TR\":{\"display_name\":\"Plaj İlanı\",\"display_prompt\":\"Ürününüzü rahatlatıcı, güneşli bir sergileme için plaja yerleştirin.\"},\"it-IT\":{\"display_name\":\"Annuncio in Spiaggia\",\"display_prompt\":\"Posiziona il tuo prodotto sulla spiaggia per una presentazione rilassata e baciata dal sole.\"}}",
             "display_prompt": "Place your product on the beach."
+          },
+          {
+            "id": 365522752365312,
+            "tag": "default",
+            "model": "pixverse-v5",
+            "prompt": "Calling forth a demon of desire... Her sweetness hides a creeping sense of danger.",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_365522752365312.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_365522752365312.mp4",
+            "duration_sec": 8,
+            "name": "Summoning succubus",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"召唤使魔\",\"display_prompt\":\"唤出欲望的恶魔……她的甜美之下，藏着步步逼近的危险。\"},\"en-US\":{\"display_name\":\"Summoning Succubus\",\"display_prompt\":\"Calling forth a demon of desire... Her sweetness hides a creeping sense of danger.\"},\"ja-JP\":{\"display_name\":\"サキュバス召喚\",\"display_prompt\":\"欲望の悪魔を呼び出す… 彼女の甘さの裏には、忍び寄る危険が潜んでいる。\"},\"ko-KR\":{\"display_name\":\"서큐버스 소환\",\"display_prompt\":\"욕망의 악마를 불러낸다… 그녀의 달콤함 속에는 서서히 다가오는 위험이 숨어 있다.\"},\"fr-FR\":{\"display_name\":\"Invocation de la Succube\",\"display_prompt\":\"Invoquer un démon du désir... Sa douceur cache un danger qui s’insinue lentement.\"},\"es-ES\":{\"display_name\":\"Invocación de la Súcubo\",\"display_prompt\":\"Invocar a un demonio del deseo... Su dulzura oculta un peligro que se aproxima sigilosamente.\"},\"de-DE\":{\"display_name\":\"Beschwörung der Sukkubus\",\"display_prompt\":\"Einen Dämon der Begierde heraufbeschwören... Ihre Süße verbirgt eine lauernde Gefahr.\"},\"pt-BR\":{\"display_name\":\"Invocação da Súcubo\",\"display_prompt\":\"Invocar um demônio do desejo... Sua doçura esconde um perigo que se aproxima lentamente.\"},\"it-IT\":{\"display_name\":\"Evocazione della Succube\",\"display_prompt\":\"Evocando un demone del desiderio... La sua dolcezza nasconde un pericolo strisciante.\"},\"ru-RU\":{\"display_name\":\"Призыв Суккуба\",\"display_prompt\":\"Призывая демона желания... Под её сладостью скрывается подкрадывающаяся опасность.\"},\"th-TH\":{\"display_name\":\"อัญเชิญซัคคิวบัส\",\"display_prompt\":\"เรียกปีศาจแห่งความปรารถนา... ภายใต้ความหวานนั้นแฝงไปด้วยอันตรายที่คืบคลานเข้ามา.\"},\"vi-VN\":{\"display_name\":\"Triệu hồi Succubus\",\"display_prompt\":\"Gọi lên con quỷ của dục vọng... Sự ngọt ngào của cô ấy che giấu một mối nguy đang dần đến gần.\"},\"id-ID\":{\"display_name\":\"Pemanggilan Succubus\",\"display_prompt\":\"Memanggil iblis hasrat... Di balik manisnya, tersembunyi bahaya yang perlahan mendekat.\"},\"tr-TR\":{\"display_name\":\"Succubus Çağrısı\",\"display_prompt\":\"Arzu şeytanını çağırmak... Tatlılığının ardında sinsice yaklaşan bir tehlike gizli.\"}}",
+            "display_prompt": "Calling forth a demon of desire... Her sweetness hides a creeping sense of danger."
           },
           {
             "id": 366951270155072,
@@ -2808,16 +2808,16 @@
             "display_prompt": "Wear the Wealth Armor and have a prosperous New Year!"
           },
           {
-            "id": 362793479876345,
-            "tag": "default",
+            "id": 373561563953124,
+            "tag": "",
             "model": "pixverse-v5",
-            "prompt": "Transform any photo into a chilling horror scene.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_362793479876345.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_362793479876345.mp4",
+            "prompt": "Get struck by the soft and enormous snowball.",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_373561563953124.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_373561563953124.mp4",
             "duration_sec": 5,
-            "name": "Freddy Krueger Chase",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"弗雷迪追击\",\"display_prompt\":\"他出现了！你的照片变成噩梦现场。\"},\"en-US\":{\"display_name\":\"Freddy Chase\",\"display_prompt\":\"He’s here... your photo just turned into a nightmare.\"},\"de-DE\":{\"display_name\":\"Freddy Jagd\",\"display_prompt\":\"Er ist da – dein Foto wird zum Albtraum.\"},\"es-ES\":{\"display_name\":\"Persecución de Freddy\",\"display_prompt\":\"Él llegó… tu foto ahora es una pesadilla.\"},\"fr-FR\":{\"display_name\":\"Chasse de Freddy\",\"display_prompt\":\"Il est là... ta photo devient un cauchemar.\"},\"it-IT\":{\"display_name\":\"Caccia di Freddy\",\"display_prompt\":\"È qui... la tua foto è diventata un incubo.\"},\"pt-BR\":{\"display_name\":\"Caçada do Freddy\",\"display_prompt\":\"Ele chegou... sua foto virou um pesadelo.\"},\"ja-JP\":{\"display_name\":\"フレディの追撃\",\"display_prompt\":\"奴が来た…写真が悪夢になった。\"},\"ko-KR\":{\"display_name\":\"프레디의 추격\",\"display_prompt\":\"그가 왔다. 사진이 악몽이 됐다.\"},\"ru-RU\":{\"display_name\":\"Погоня Фредди\",\"display_prompt\":\"Он здесь... твое фото стало кошмаром.\"},\"th-TH\":{\"display_name\":\"เฟรดดี้มาแล้ว\",\"display_prompt\":\"รูปของคุณกลายเป็นฝันร้ายในพริบตา.\"},\"tr-TR\":{\"display_name\":\"Freddy Takibi\",\"display_prompt\":\"O geldi... fotoğrafın kabusa dönüştü.\"},\"vi-VN\":{\"display_name\":\"Freddy Truy Đuổi\",\"display_prompt\":\"Hắn đến rồi... bức ảnh của bạn hóa thành ác mộng.\"},\"id-ID\":{\"display_name\":\"Kejaran Freddy\",\"display_prompt\":\"Dia datang... fotomu berubah jadi mimpi buruk.\"}}",
-            "display_prompt": "Transform any photo into a chilling horror scene."
+            "name": "Giant Snowball",
+            "i18n_json": "{\"de-DE\":{\"display_name\":\"Riesen-Schneeball\",\"display_prompt\":\"Lass dich vom weichen, riesigen Schneeball treffen.\"},\"en-US\":{\"display_name\":\"Giant Snowball\",\"display_prompt\":\"Get struck by the soft and enormous snowball.\"},\"es-ES\":{\"display_name\":\"Bola de Nieve Gigante\",\"display_prompt\":\"Recibe el impacto de la suave y gigantesca bola de nieve.\"},\"fr-FR\":{\"display_name\":\"Grosse Boule de Neige\",\"display_prompt\":\"Recevez un coup de la douce et gigantesque boule de neige.\"},\"id-ID\":{\"display_name\":\"Bola Salju Raksasa\",\"display_prompt\":\"Terkena oleh bola salju besar yang lembut.\"},\"it-IT\":{\"display_name\":\"Palla di Neve Gigante\",\"display_prompt\":\"Essere colpiti dalla morbida e gigantesca palla di neve.\"},\"ja-JP\":{\"display_name\":\"巨大な雪玉\",\"display_prompt\":\"柔らかくて巨大な雪玉に当たる。\"},\"ko-KR\":{\"display_name\":\"거대한 눈덩이\",\"display_prompt\":\"부드럽고 거대한 눈덩이에 맞다.\"},\"pt-BR\":{\"display_name\":\"Bola de Neve Gigante\",\"display_prompt\":\"Receba um golpe da suave e gigante bola de neve.\"},\"ru-RU\":{\"display_name\":\"Гигантский Снежный Ком\",\"display_prompt\":\"Попасть под удар мягкого и гигантского снежного кома.\"},\"th-TH\":{\"display_name\":\"ลูกบอลหิมะขนาดยักษ์\",\"display_prompt\":\"โดนลูกบอลหิมะขนาดใหญ่และนุ่มนวลตี\"},\"tr-TR\":{\"display_name\":\"Dev Kar Tanesi\",\"display_prompt\":\"Yumuşak ve dev kar tanesi ile vurul.\"},\"vi-VN\":{\"display_name\":\"Bánh Tuyết Khổng Lồ\",\"display_prompt\":\"Bị tấn công bởi bánh tuyết khổng lồ và mềm mại.\"},\"zh-CN\":{\"display_name\":\"巨大的雪球\",\"display_prompt\":\"被柔软而巨大的雪球击中。\"}}",
+            "display_prompt": "Get struck by the soft and enormous snowball."
           },
           {
             "id": 365301137193286,
@@ -5899,7 +5899,7 @@
             "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_381089861204928.mp4",
             "duration_sec": 14,
             "name": "Big Guy Flex",
-            "i18n_json": "{\"zh-CN\":{\"title\":\"猛男律动\",\"slogan\":\"Big muscles, bigger vibes!\"},\"en-US\":{\"title\":\"Big Guy Flex\",\"slogan\":\"Big muscles, bigger vibes!\"},\"ko-KR\":{\"title\":\"빅 가이 플렉스\",\"slogan\":\"강한 근육, 더 강한 스웨그!\"},\"ja-JP\":{\"title\":\"ビッグガイ・フレックス\",\"slogan\":\"マッスル＆リズム、これが俺のスタイル。\"},\"pt-BR\":{\"title\":\"Big Guy Flex\",\"slogan\":\"Músculos grandes, vibe maior ainda!\"},\"es-ES\":{\"title\":\"Big Guy Flex\",\"slogan\":\"¡Músculos grandes, mejor actitud!\"},\"th-TH\":{\"title\":\"โชว์กล้ามสะบัด\",\"slogan\":\"กล้ามแน่นๆ จังหวะเน้นๆ\"},\"vi-VN\":{\"title\":\"Cơ Bắp Linh Hoạt\",\"slogan\":\"Cơ bắp cực khủng, nhịp điệu cực căng!\"}}",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"猛男律动\",\"display_prompt\":\"力量感拉满，自信心爆棚！大块头也要秀出范儿。\"},\"en-US\":{\"display_name\":\"Big Guy Flex\",\"display_prompt\":\"Big muscles, bigger vibes!\"},\"ko-KR\":{\"display_name\":\"빅 가이 플렉스\",\"display_prompt\":\"강한 근육, 더 강한 스웨그!\"},\"ja-JP\":{\"display_name\":\"ビッグガイ・フレックス\",\"display_prompt\":\"マッスル＆リズム、これが俺のスタイル。\"},\"pt-BR\":{\"display_name\":\"Big Guy Flex\",\"display_prompt\":\"Músculos grandes, vibe maior ainda!\"}}",
             "display_prompt": "Big muscles, bigger vibes!"
           },
           {
@@ -5911,7 +5911,7 @@
             "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_381090080287680.mp4",
             "duration_sec": 10,
             "name": "Classroom Show",
-            "i18n_json": "{\"zh-CN\":{\"title\":\"教室显眼包\",\"slogan\":\"只要我不尴尬，尴尬的就是别人！\"},\"en-US\":{\"title\":\"Classroom Show\",\"slogan\":\"No one can stop my rhythm in class!\"},\"ko-KR\":{\"title\":\"교실 핵인싸\",\"slogan\":\"내가 부끄럽지 않으면 그만이야!\"},\"ja-JP\":{\"title\":\"教室の主役\",\"slogan\":\"自分が恥ずかしくなければ、それでいい！\"},\"pt-BR\":{\"title\":\"Show de Sala de Aula\",\"slogan\":\"Se eu não passo vergonha, os outros que passem!\"},\"th-TH\":{\"title\":\"ตัวตึงหลังห้อง\",\"slogan\":\"ถ้าเราไม่เขิน คนอื่นก็เขินเอง!\"},\"vi-VN\":{\"title\":\"Chúa Hề Lớp Học\",\"slogan\":\"Chỉ cần tôi không ngại, người ngại sẽ là người khác!\"}}",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"教室显眼包\",\"display_prompt\":\"只要我不尴尬，尴尬的就是别人！\"},\"en-US\":{\"display_name\":\"Classroom Show\",\"display_prompt\":\"No one can stop my rhythm in class!\"},\"ko-KR\":{\"display_name\":\"교실 핵인싸\",\"display_prompt\":\"내가 부끄럽지 않으면 그만이야!\"},\"ja-JP\":{\"display_name\":\"教室の主役\",\"display_prompt\":\"自分が恥ずかしくなければ、それでいい！\"},\"pt-BR\":{\"display_name\":\"Show de Sala de Aula\",\"display_prompt\":\"Se eu não passo vergonha, os outros que passem!\"}}",
             "display_prompt": "No one can stop my rhythm in class!"
           },
           {
@@ -5923,20 +5923,8 @@
             "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_381059488039360.mp4",
             "duration_sec": 12,
             "name": "Chanel Vibe",
-            "i18n_json": "{\"zh-CN\":{\"title\":\"香奈儿律动\",\"slogan\":\"Everything Chanel, 顶级审美。\"},\"en-US\":{\"title\":\"Chanel Vibe\",\"slogan\":\"Everything Chanel, on a different level.\"},\"ko-KR\":{\"title\":\"샤넬 바이브\",\"slogan\":\"모든 것이 샤넬, 클래스가 다른 감각.\"},\"ja-JP\":{\"title\":\"シャネル・バイブ\",\"slogan\":\"すべてがシャネル、異次元の美学。\"},\"pt-BR\":{\"title\":\"Estilo Chanel\",\"slogan\":\"Tudo Chanel, em outro nível.\"},\"th-TH\":{\"title\":\"จังหวะชาแนล\",\"slogan\":\"ลุคแพงแบบชาแนล สวยสับระดับสิบ\"},\"vi-VN\":{\"title\":\"Vũ Điệu Chanel\",\"slogan\":\"Mọi thứ là Chanel, đẳng cấp khác biệt.\"}}",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"香奈儿律动\",\"display_prompt\":\"顶级律动，稳站 C 位。\"},\"en-US\":{\"display_name\":\"Chanel Vibe\",\"display_prompt\":\"Everything Chanel, on a different level.\"},\"ko-KR\":{\"display_name\":\"샤넬 바이브\",\"display_prompt\":\"모든 것이 샤넬, 클래스가 다른 감각.\"},\"ja-JP\":{\"display_name\":\"シャネル・バイブ\",\"display_prompt\":\"すべてがシャネル、異次元の美学。\"},\"pt-BR\":{\"display_name\":\"Estilo Chanel\",\"display_prompt\":\"Tudo Chanel, em outro nível.\"}}",
             "display_prompt": "Everything Chanel, on a different level."
-          },
-          {
-            "id": 380351131464768,
-            "tag": "hot",
-            "model": "pixverse-v5",
-            "prompt": "One beat, endless body moves!",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_380351131464768.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_380351131464768.mp4",
-            "duration_sec": 15,
-            "name": "Music! Music!",
-            "i18n_json": "{\"zh-CN\":{\"title\":\"Music! Music!\",\"slogan\":\"One beat, endless body moves!\"},\"en-US\":{\"title\":\"Music! Music!\",\"slogan\":\"One beat, endless body moves!\"},\"ko-KR\":{\"title\":\"뮤직! 뮤직!\",\"slogan\":\"단 하나의 비트, 멈추지 않는 움직임!\"},\"ja-JP\":{\"title\":\"ミュージック！ミュージック！\",\"slogan\":\"ワンビートで、無限のステップ。\"},\"pt-BR\":{\"title\":\"Música! Música!\",\"slogan\":\"Uma batida, movimentos infinitos!\"},\"es-ES\":{\"title\":\"¡Música! ¡Música!\",\"slogan\":\"¡Un solo ritmo, movimientos infinitos!\"},\"fr-FR\":{\"title\":\"Musique ! Musique !\",\"slogan\":\"Un seul beat, des mouvements à l'infini !\"},\"de-DE\":{\"title\":\"Musik! Musik!\",\"slogan\":\"Ein Beat, endlose Moves!\"},\"th-TH\":{\"title\":\"มิวสิค! มิวสิค!\",\"slogan\":\"บีทเดียว เต้นเสียวสะท้านโลก\"},\"vi-VN\":{\"title\":\"Music! Music!\",\"slogan\":\"Một nhịp điệu, chuyển động không ngừng!\"},\"id-ID\":{\"title\":\"Musik! Musik!\",\"slogan\":\"Satu ketukan, gerakan tanpa henti!\"}}",
-            "display_prompt": "One beat, endless body moves!"
           },
           {
             "id": 327828816843648,
@@ -5949,6 +5937,18 @@
             "name": "Subject 3 Fever",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"科目三复兴\",\"display_prompt\":\"全民的舞蹈，世界的科目三\"},\"es-ES\":{\"display_name\":\"Renacimiento del Examen Tres\",\"display_prompt\":\"¡El baile del pueblo, el Examen Tres del mundo!\"},\"ja-JP\":{\"display_name\":\"第三科目の復興\",\"display_prompt\":\"みんなのダンス、世界の第三科目\"},\"ko-KR\":{\"display_name\":\"과목 3의 부활\",\"display_prompt\":\"모두의 춤, 세계의 과목 3\"},\"pt-BR\":{\"display_name\":\"Renascimento da Prova Três\",\"display_prompt\":\"A dança do povo, a Prova Três do mundo\"},\"fr-FR\":{\"display_name\":\"Renaissance de l'Épreuve Trois\",\"display_prompt\":\"La danse du peuple, l'Épreuve Trois du monde\"},\"de-DE\":{\"display_name\":\"Wiedergeburt der Prüfung Drei\",\"display_prompt\":\"Der Tanz des Volkes, die Prüfung Drei der Welt\"},\"ru-RU\":{\"display_name\":\"Возрождение Экзамена Три\",\"display_prompt\":\"Танец народа, мировой Экзамен Три\"}}",
             "display_prompt": "Subject 3 dance takes the world by storm!"
+          },
+          {
+            "id": 380351131464768,
+            "tag": "hot",
+            "model": "pixverse-v5",
+            "prompt": "One beat, endless body moves!",
+            "image": "https://www.transcript.club/dream/styles/videos/pixverse_380351131464768.jpg",
+            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_380351131464768.mp4",
+            "duration_sec": 15,
+            "name": "Music! Music!",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"Music! Music!\",\"display_prompt\":\"一拍到底，根本停不下来！\"},\"en-US\":{\"display_name\":\"Music! Music!\",\"display_prompt\":\"One beat, endless body moves!\"},\"ko-KR\":{\"display_name\":\"뮤직! 뮤직!\",\"display_prompt\":\"단 하나의 비트, 멈추지 않는 움직임!\"},\"ja-JP\":{\"display_name\":\"ミュージック！ミュージック！\",\"display_prompt\":\"ワンビートで、無限のステップ。\"},\"pt-BR\":{\"display_name\":\"Música! Música!\",\"display_prompt\":\"Uma batida, movimentos infinitos!\"}}",
+            "display_prompt": "One beat, endless body moves!"
           },
           {
             "id": 333178074897472,
@@ -7346,7 +7346,7 @@
             "prompt": "Being human is tiring. Let me become a ghost and rest for a bit!",
             "image": "https://www.transcript.club/dream/styles/videos/pixverse_360405191066176.jpg",
             "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_360405191066176.mp4",
-            "duration_sec": 10,
+            "duration_sec": 5,
             "name": "Haunting Doll",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"恐怖人偶觉醒\",\"display_prompt\":\"把你的照片变成伯顿风格的僵尸人偶。\"},\"en-US\":{\"display_name\":\"Haunting Doll\",\"display_prompt\":\"Transform your photo into a Burton masterpiece.\"},\"ko-KR\":{\"display_name\":\"공포 인형의 각성\",\"display_prompt\":\"당신의 사진을 버튼 스타일의 유령인형으로 만들어보세요.\"},\"ja-JP\":{\"display_name\":\"恐怖ドールの覚醒\",\"display_prompt\":\"あなたの写真をバートン風のコープスドールに変換します。\"},\"pt-BR\":{\"display_name\":\"O Despertar da Boneca Assombrada\",\"display_prompt\":\"Transforme sua foto em um boneco assustador no estilo Burton.\"},\"es-ES\":{\"display_name\":\"El Despertar del Muñeco Aterrador\",\"display_prompt\":\"Convierte tu foto en un muñeco fantasmagórico al estilo Burton.\"},\"fr-FR\":{\"display_name\":\"L'Éveil de la Poupée Hantée\",\"display_prompt\":\"Transformez votre photo en une poupée funèbre style Burton.\"},\"de-DE\":{\"display_name\":\"Das Erwachen der Spukpuppe\",\"display_prompt\":\"Verwandle dein Foto in eine Geisterpuppe im Burton-Stil.\"},\"ru-RU\":{\"display_name\":\"Пробуждение Ужасающей Куклы\",\"display_prompt\":\"Преврати свою фотографию в куклу-зомби в стиле Бертона.\"},\"th-TH\":{\"display_name\":\"การตื่นขึ้นของตุ๊กตาที่น่าสะพรึงกลัว\",\"display_prompt\":\"เปลี่ยนภาพถ่ายของคุณให้เป็นตุ๊กตาผีในสไตล์ของเบอร์ตัน\"},\"id-ID\":{\"display_name\":\"Bangkitnya Boneka Mengerikan\",\"display_prompt\":\"Ubah fotomu menjadi boneka seram gaya Burton.\"},\"vi-VN\":{\"display_name\":\"Sự Thức Tỉnh Của Búp Bê Kinh Hoàng\",\"display_prompt\":\"Biến ảnh của bạn thành một búp bê ma quái phong cách Burton.\"},\"tr-TR\":{\"display_name\":\"Korkunç Bebeğin Uyanışı\",\"display_prompt\":\"Fotoğrafını Burton tarzı bir korku bebeğine dönüştür.\"},\"it-IT\":{\"display_name\":\"Il Risveglio della Bambola Orrorifica\",\"display_prompt\":\"Trasforma la tua foto in una bambola horror in stile Burton.\"}}",
             "display_prompt": "Being human is tiring. Let me become a ghost and rest for a bit!"
@@ -7936,7 +7936,7 @@
             "prompt": "Being human is tiring. Let me become a ghost and rest for a bit!",
             "image": "https://www.transcript.club/dream/styles/videos/pixverse_360405191066176.jpg",
             "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_360405191066176.mp4",
-            "duration_sec": 10,
+            "duration_sec": 5,
             "name": "Haunting Doll",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"恐怖人偶觉醒\",\"display_prompt\":\"把你的照片变成伯顿风格的僵尸人偶。\"},\"en-US\":{\"display_name\":\"Haunting Doll\",\"display_prompt\":\"Transform your photo into a Burton masterpiece.\"},\"ko-KR\":{\"display_name\":\"공포 인형의 각성\",\"display_prompt\":\"당신의 사진을 버튼 스타일의 유령인형으로 만들어보세요.\"},\"ja-JP\":{\"display_name\":\"恐怖ドールの覚醒\",\"display_prompt\":\"あなたの写真をバートン風のコープスドールに変換します。\"},\"pt-BR\":{\"display_name\":\"O Despertar da Boneca Assombrada\",\"display_prompt\":\"Transforme sua foto em um boneco assustador no estilo Burton.\"},\"es-ES\":{\"display_name\":\"El Despertar del Muñeco Aterrador\",\"display_prompt\":\"Convierte tu foto en un muñeco fantasmagórico al estilo Burton.\"},\"fr-FR\":{\"display_name\":\"L'Éveil de la Poupée Hantée\",\"display_prompt\":\"Transformez votre photo en une poupée funèbre style Burton.\"},\"de-DE\":{\"display_name\":\"Das Erwachen der Spukpuppe\",\"display_prompt\":\"Verwandle dein Foto in eine Geisterpuppe im Burton-Stil.\"},\"ru-RU\":{\"display_name\":\"Пробуждение Ужасающей Куклы\",\"display_prompt\":\"Преврати свою фотографию в куклу-зомби в стиле Бертона.\"},\"th-TH\":{\"display_name\":\"การตื่นขึ้นของตุ๊กตาที่น่าสะพรึงกลัว\",\"display_prompt\":\"เปลี่ยนภาพถ่ายของคุณให้เป็นตุ๊กตาผีในสไตล์ของเบอร์ตัน\"},\"id-ID\":{\"display_name\":\"Bangkitnya Boneka Mengerikan\",\"display_prompt\":\"Ubah fotomu menjadi boneka seram gaya Burton.\"},\"vi-VN\":{\"display_name\":\"Sự Thức Tỉnh Của Búp Bê Kinh Hoàng\",\"display_prompt\":\"Biến ảnh của bạn thành một búp bê ma quái phong cách Burton.\"},\"tr-TR\":{\"display_name\":\"Korkunç Bebeğin Uyanışı\",\"display_prompt\":\"Fotoğrafını Burton tarzı bir korku bebeğine dönüştür.\"},\"it-IT\":{\"display_name\":\"Il Risveglio della Bambola Orrorifica\",\"display_prompt\":\"Trasforma la tua foto in una bambola horror in stile Burton.\"}}",
             "display_prompt": "Being human is tiring. Let me become a ghost and rest for a bit!"
@@ -9036,12 +9036,6 @@
             "display_prompt": "Turn your product into street graffiti"
           }
         ]
-      },
-      {
-        "channel_id": 350145151348352,
-        "channel_name": "Dual Image",
-        "i18n_json": "{\"zh-CN\":{\"channel_name\":\"双图模板\"},\"ko-KR\":{\"channel_name\":\"듀얼 이미지\"},\"ja-JP\":{\"channel_name\":\"デュアル画像\"},\"pt-BR\":{\"channel_name\":\"Dupla Imagem\"},\"es-ES\":{\"channel_name\":\"Doble Imagen\"},\"fr-FR\":{\"channel_name\":\"Double Image\"},\"de-DE\":{\"channel_name\":\"Doppelbild\"},\"ru-RU\":{\"channel_name\":\"Двойка\"},\"it-IT\":{\"channel_name\":\"Immagine Doppia\"},\"tr-TR\":{\"channel_name\":\"Çift Görsel\"},\"id-ID\":{\"channel_name\":\"Gambar Ganda\"},\"th-TH\":{\"channel_name\":\"ภาพคู่\"},\"vi-VN\":{\"channel_name\":\"Hình Ảnh Đôi\"}}",
-        "effect_items": []
       }
     ]
   }
