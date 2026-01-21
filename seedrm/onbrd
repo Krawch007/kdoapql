@@ -1,1 +1,44 @@
-
+{
+  "interests": [
+    { 
+      "id": "trend_dance", 
+      "title": "Trend Dance", 
+      "image": "https://www.dreamse.app/assets/onboarding/dance.png"
+    },
+    { 
+      "id": "3d_figurine", 
+      "title": "3D Figurine", 
+      "image": "https://www.dreamse.app/assets/onboarding/3d_figurine.png"
+    },
+    { 
+      "id": "lights_off", 
+      "title": "Lights Off", 
+      "image": "https://www.dreamse.app/assets/onboarding/lights.png"
+    },
+    { 
+      "id": "viral_prank", 
+      "title": "Viral AI Prank", 
+      "image": "https://www.dreamse.app/assets/onboarding/prank.png"
+    },
+    { 
+      "id": "christmas", 
+      "title": "Christmas", 
+      "image": "https://www.dreamse.app/assets/onboarding/christmas.jpg"
+    },
+    { 
+      "id": "horror", 
+      "title": "Horror", 
+      "image": "https://www.dreamse.app/assets/onboarding/horror.png"
+    },
+    { 
+      "id": "prank", 
+      "title": "Prank", 
+      "image": "https://www.dreamse.app/assets/onboarding/prank.png"
+    },
+    { 
+      "id": "ad_ai", 
+      "title": "Ad Ai", 
+      "image": "https://www.dreamse.app/assets/onboarding/ad_ai.png"
+    }
+  ]
+}
