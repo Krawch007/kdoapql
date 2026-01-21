@@ -480,18 +480,6 @@
             "display_prompt": "Everything Chanel, on a different level."
           },
           {
-            "id": 315446315336768,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "One click to send your kiss",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_315446315336768.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_315446315336768.mp4",
-            "duration_sec": 5,
-            "name": "Kiss Kiss",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"爱的亲亲\",\"display_prompt\":\"一键释放爱意满屏\"},\"es-ES\":{\"display_name\":\"Proximidad para expresar amor\",\"display_prompt\":\"Un toque y el amor inunda la pantalla\"},\"ja-JP\":{\"display_name\":\"愛を表現するには近づくこと\",\"display_prompt\":\"ワンタップで画面いっぱいの愛を解き放つ\"},\"ko-KR\":{\"display_name\":\"가까이 다가가야 사랑을 표현할 수 있습니다\",\"display_prompt\":\"탭 한 번으로 화면 가득 사랑을 뿜어내세요\"},\"pt-BR\":{\"display_name\":\"Proximidade para expressar amor\",\"display_prompt\":\"Um toque para liberar amor na tela inteira\"},\"fr-FR\":{\"display_name\":\"La proximité pour exprimer l'amour\",\"display_prompt\":\"Un seul toucher pour inonder l'écran d'amour\"},\"de-DE\":{\"display_name\":\"Nähe, um Liebe auszudrücken\",\"display_prompt\":\"Ein Tippen und der Bildschirm ist voller Liebe\"},\"ru-RU\":{\"display_name\":\"Близость для выражения любви\",\"display_prompt\":\"Одно касание — и экран переполнен любовью\"}}",
-            "display_prompt": "One click to send your kiss"
-          },
-          {
             "id": 346384996936128,
             "tag": "default",
             "model": "pixverse-v5",
@@ -552,18 +540,6 @@
             "display_prompt": "Too hot to handle. Too close to say no."
           },
           {
-            "id": 359166562889024,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Kissing non-stop, feeling the endless desire",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_359166562889024.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_359166562889024.mp4",
-            "duration_sec": 8,
-            "name": "Kiss Me to Heaven",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"亲到上天堂\",\"display_prompt\":\"吻个不停，感受每一寸热度。\"},\"en-US\":{\"display_name\":\"Kiss Me to Heaven\",\"display_prompt\":\"Kissing non-stop, feeling the heat.\"},\"ko-KR\":{\"display_name\":\"천국으로 키스\",\"display_prompt\":\"멈추지 않는 키스, 온몸의 열기를 느껴봐.\"},\"ja-JP\":{\"display_name\":\"天国へのキス\",\"display_prompt\":\"キスが止まらない、全身の熱を感じて。\"},\"pt-BR\":{\"display_name\":\"Me Beije para o Céu\",\"display_prompt\":\"Beijando sem parar, sentindo cada centímetro de calor.\"},\"es-ES\":{\"display_name\":\"Bésame al Cielo\",\"display_prompt\":\"Besando sin parar, sintiendo el calor.\"},\"fr-FR\":{\"display_name\":\"Embrasse-Moi Jusqu'au Ciel\",\"display_prompt\":\"Un baiser sans fin pour ressentir chaque parcelle de chaleur.\"},\"de-DE\":{\"display_name\":\"Küss Mich in den Himmel\",\"display_prompt\":\"Küsse ohne Ende, spür die Hitze.\"},\"ru-RU\":{\"display_name\":\"Поцелуй Меня до Небес\",\"display_prompt\":\"Целуемся без остановки, чувствуя каждую каплю жара.\"},\"th-TH\":{\"display_name\":\"จูบฉันถึงสวรรค์\",\"display_prompt\":\"จูบไม่หยุด สัมผัสความร้อนระอุทุกอณู\"},\"id-ID\":{\"display_name\":\"Cium Aku ke Surga\",\"display_prompt\":\"Ciuman tak berhenti, rasakan setiap inci kehangatan.\"},\"vi-VN\":{\"display_name\":\"Hôn Em Lên Thiên Đường\",\"display_prompt\":\"Hôn không ngừng nghỉ, cảm nhận từng chút nóng bỏng.\"},\"tr-TR\":{\"display_name\":\"Beni Cennete Öp\",\"display_prompt\":\"Durmadan öpüşmek, her zerresinde sıcaklığı hissetmek.\"},\"it-IT\":{\"display_name\":\"Baciami Fino al Cielo\",\"display_prompt\":\"Baciarsi senza sosta, sentendo il calore di ogni centimetro.\"}}",
-            "display_prompt": "Kissing non-stop, feeling the endless desire"
-          },
-          {
             "id": 362704938833536,
             "tag": "default",
             "model": "pixverse-v5",
@@ -574,18 +550,6 @@
             "name": "Ghostface Terror",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"鬼面惊魂夜\",\"display_prompt\":\"尖叫，就现在！\"},\"en-US\":{\"display_name\":\"Ghostface Terror\",\"display_prompt\":\"Scream, right now!\"},\"ko-KR\":{\"display_name\":\"고스트페이스 공포의 밤\",\"display_prompt\":\"지금 바로 비명을 지르세요!\"},\"ja-JP\":{\"display_name\":\"ゴーストフェイスの恐怖の夜\",\"display_prompt\":\"絶叫、今すぐ！\"},\"pt-BR\":{\"display_name\":\"Terror Ghostface\",\"display_prompt\":\"Grite, agora mesmo!\"},\"es-ES\":{\"display_name\":\"Terror Ghostface\",\"display_prompt\":\"¡Grita, justo ahora!\"},\"fr-FR\":{\"display_name\":\"Terreur Ghostface\",\"display_prompt\":\"Criez, tout de suite !\"},\"de-DE\":{\"display_name\":\"Ghostface-Terror\",\"display_prompt\":\"Schrei, genau jetzt!\"},\"ru-RU\":{\"display_name\":\"Ужас Призрачного Лица\",\"display_prompt\":\"Кричи, прямо сейчас!\"},\"th-TH\":{\"display_name\":\"คืนสยองขวัญ Ghostface\",\"display_prompt\":\"กรี๊ดออกมา, เดี๋ยวนี้เลย!\"},\"id-ID\":{\"display_name\":\"Teror Ghostface\",\"display_prompt\":\"Jerit, sekarang juga!\"},\"vi-VN\":{\"display_name\":\"Kinh Hoàng Ghostface\",\"display_prompt\":\"Hét lên, ngay bây giờ!\"},\"tr-TR\":{\"display_name\":\"Hayalet Yüz Terörü\",\"display_prompt\":\"Çığlık at, hemen şimdi!\"},\"it-IT\":{\"display_name\":\"Terrore Ghostface\",\"display_prompt\":\"Urla, proprio adesso!\"}}",
             "display_prompt": "Scream, right now!"
-          },
-          {
-            "id": 303624424723200,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Hug each other",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_303624424723200.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_303624424723200.mp4",
-            "duration_sec": 5,
-            "name": "Hug Your Love",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"爱的抱抱\",\"display_prompt\":\"互相拥抱在一起\"},\"es-ES\":{\"display_name\":\"Abrazo de amor\",\"display_prompt\":\"¡Abrazándose el uno al otro!\"},\"ja-JP\":{\"display_name\":\"愛のハグ\",\"display_prompt\":\"お互いを抱きしめ合う\"},\"ko-KR\":{\"display_name\":\"사랑의 포옹\",\"display_prompt\":\"서로 껴안고 있습니다\"},\"pt-BR\":{\"display_name\":\"Abraço de amor\",\"display_prompt\":\"Abraçando-se mutuamente\"},\"fr-FR\":{\"display_name\":\"Câlin d'amour\",\"display_prompt\":\"S'enlaçant dans les bras l'un de l'autre\"},\"de-DE\":{\"display_name\":\"Liebesumarmung\",\"display_prompt\":\"Sich gegenseitig umarmen\"},\"ru-RU\":{\"display_name\":\"Объятия любви\",\"display_prompt\":\"Обнимая друг друга\"}}",
-            "display_prompt": "Hug each other"
           },
           {
             "id": 350827863568000,
@@ -1656,18 +1620,6 @@
             "display_prompt": "When life’s behind you with shark energy."
           },
           {
-            "id": 321958627120000,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "No Lover? Get an AI Sweetheart!",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_321958627120000.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_321958627120000.mp4",
-            "duration_sec": 5,
-            "name": "Kiss Me, AI!",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"AI发对象咯\",\"display_prompt\":\"拯救单身的甜蜜一吻\"},\"es-ES\":{\"display_name\":\"¡El AI encuentra pareja!\",\"display_prompt\":\"¡Un dulce beso para salvar a los solteros!\"},\"ja-JP\":{\"display_name\":\"AIが恋人を見つけた\",\"display_prompt\":\"独身を救う甘いキス\"},\"ko-KR\":{\"display_name\":\"AI가 연인을 찾았어요\",\"display_prompt\":\"솔로를 구하는 달콤한 키스\"},\"pt-BR\":{\"display_name\":\"AI encontrou seu par\",\"display_prompt\":\"Um doce beijo para salvar os solteiros\"},\"fr-FR\":{\"display_name\":\"L'IA a trouvé l'amour\",\"display_prompt\":\"Un doux baiser pour sauver les célibataires\"},\"de-DE\":{\"display_name\":\"KI findet einen Partner\",\"display_prompt\":\"Ein süßer Kuss zur Rettung der Singles\"},\"ru-RU\":{\"display_name\":\"ИИ нашел пару\",\"display_prompt\":\"Сладкий поцелуй для спасения одиноких\"}}",
-            "display_prompt": "No Lover? Get an AI Sweetheart!"
-          },
-          {
             "id": 367079896187785,
             "tag": "default",
             "model": "pixverse-v5",
@@ -2652,18 +2604,6 @@
             "display_prompt": "Turn your photo into am anime masterpiece!"
           },
           {
-            "id": 368492376619456,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Place your product on the beach.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_368492376619456.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_368492376619456.mp4",
-            "duration_sec": 5,
-            "name": "Beach AD",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"沙滩广告\",\"display_prompt\":\"将您的产品置于阳光沙滩上进行展示。\"},\"en-US\":{\"display_name\":\"Beach AD\",\"display_prompt\":\"Place your product on the beach for a relaxed, sun-kissed display.\"},\"ko-KR\":{\"display_name\":\"해변 광고\",\"display_prompt\":\"당신의 제품을 해변에 배치하여 햇살 가득한 디스플레이를 연출하세요.\"},\"ja-JP\":{\"display_name\":\"ビーチ広告\",\"display_prompt\":\"あなたの製品をビーチに配置して、リラックスした太陽の光を浴びたディスプレイにしましょう。\"},\"pt-BR\":{\"display_name\":\"Anúncio de Praia\",\"display_prompt\":\"Coloque seu produto na praia para uma exibição relaxada e ensolarada.\"},\"es-ES\":{\"display_name\":\"Anuncio de Playa\",\"display_prompt\":\"Coloque su producto en la playa para una exhibición relajada y bañada por el sol.\"},\"fr-FR\":{\"display_name\":\"Publicité Plage\",\"display_prompt\":\"Placez votre produit sur la plage pour une présentation décontractée et ensoleillée.\"},\"de-DE\":{\"display_name\":\"Strand-Werbung\",\"display_prompt\":\"Platzieren Sie Ihr Produkt am Strand für eine entspannte, sonnenverwöhnte Präsentation.\"},\"ru-RU\":{\"display_name\":\"Пляжная Реклама\",\"display_prompt\":\"Разместите ваш продукт на пляже для расслабляющей, залитой солнцем демонстрации.\"},\"th-TH\":{\"display_name\":\"โฆษณาบนชายหาด\",\"display_prompt\":\"วางผลิตภัณฑ์ของคุณบนชายหาดเพื่อการจัดแสดงที่ผ่อนคลายและโดนแดด\"},\"id-ID\":{\"display_name\":\"Iklan Pantai\",\"display_prompt\":\"Tempatkan produk Anda di pantai untuk tampilan yang santai dan bermandikan sinar matahari.\"},\"vi-VN\":{\"display_name\":\"Quảng Cáo Bãi Biển\",\"display_prompt\":\"Đặt sản phẩm của bạn trên bãi biển để có một màn hình thư giãn và đầy nắng.\"},\"tr-TR\":{\"display_name\":\"Plaj İlanı\",\"display_prompt\":\"Ürününüzü rahatlatıcı, güneşli bir sergileme için plaja yerleştirin.\"},\"it-IT\":{\"display_name\":\"Annuncio in Spiaggia\",\"display_prompt\":\"Posiziona il tuo prodotto sulla spiaggia per una presentazione rilassata e baciata dal sole.\"}}",
-            "display_prompt": "Place your product on the beach."
-          },
-          {
             "id": 365522752365312,
             "tag": "default",
             "model": "pixverse-v5",
@@ -2945,18 +2885,6 @@
             "name": "New Year Glow",
             "i18n_json": "{\"de-DE\":{\"display_name\":\"Neujahrsleuchten\",\"display_prompt\":\"Erschaffen Sie ein filmisches Neujahrs-Porträt mit lebhaften Feuerwerken und festlichem Glanz.\"},\"en-US\":{\"display_name\":\"New Year Glow\",\"display_prompt\":\"Create a cinematic New Year portrait with vibrant fireworks and festive glow.\"},\"es-ES\":{\"display_name\":\"Brillo de Año Nuevo\",\"display_prompt\":\"Crea un retrato cinematográfico de Año Nuevo con fuegos artificiales vibrantes y un resplandor festivo.\"},\"fr-FR\":{\"display_name\":\"Lueur du Nouvel An\",\"display_prompt\":\"Créez un portrait cinématographique du Nouvel An avec des feux d'artifice éclatants et une lueur festive.\"},\"id-ID\":{\"display_name\":\"Cahaya Tahun Baru\",\"display_prompt\":\"Buat potret Tahun Baru sinematik dengan kembang api yang meriah dan cahaya pesta.\"},\"it-IT\":{\"display_name\":\"Bagliore di Capodanno\",\"display_prompt\":\"Crea un ritratto cinematografico di Capodanno con fuochi d'artificio vivaci e un'atmosfera festosa.\"},\"ja-JP\":{\"display_name\":\"新年の輝き\",\"display_prompt\":\"鮮やかな花火とお祭りの輝きを持った映画のような新年のポートレートを作成します。\"},\"ko-KR\":{\"display_name\":\"새해의 빛\",\"display_prompt\":\"활기찬 불꽃놀이와 축제의 빛으로 영화 같은 새해 초상화를 만드세요.\"},\"pt-BR\":{\"display_name\":\"Brilho de Ano Novo\",\"display_prompt\":\"Crie um retrato cinematográfico de Ano Novo com fogos de artifício vibrantes e um brilho festivo.\"},\"ru-RU\":{\"display_name\":\"Сияние Нового Года\",\"display_prompt\":\"Создайте кинематографический портрет Нового Года с яркими фейерверками и праздничным светом.\"},\"th-TH\":{\"display_name\":\"ความสว่างปีใหม่\",\"display_prompt\":\"สร้างภาพยนตร์พอร์ตเทรตปีใหม่ที่มีพลุกระจายและแสงสว่างเฉลิมฉลอง\"},\"tr-TR\":{\"display_name\":\"Yeni Yıl Parıltısı\",\"display_prompt\":\"Canlı havai fişekler ve festivite ışıltısıyla sinematik bir Yeni Yıl portresi yaratın.\"},\"vi-VN\":{\"display_name\":\"Ánh Sáng Năm Mới\",\"display_prompt\":\"Tạo một bức chân dung năm mới mang tính điện ảnh với pháo hoa rực rỡ và ánh sáng lễ hội.\"},\"zh-CN\":{\"display_name\":\"新年光辉\",\"display_prompt\":\"创建一个充满活力的烟花和节日光辉的电影式新年肖像。\"}}",
             "display_prompt": "Create a cinematic New Year portrait with vibrant fireworks and festive glow."
-          },
-          {
-            "id": 377101473172752,
-            "tag": "",
-            "model": "pixverse-v5",
-            "prompt": "A kiss at New Year's with a heart-shaped firework.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_377101473172752.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_377101473172752.mp4",
-            "duration_sec": 8,
-            "name": "New Year Kiss",
-            "i18n_json": "{\"de-DE\":{\"display_name\":\"Neujahrskuss\",\"display_prompt\":\"Ein Kuss zu Neujahr mit einem herzförmigen Feuerwerk.\"},\"en-US\":{\"display_name\":\"New Year Kiss\",\"display_prompt\":\"A kiss at New Year's with a heart-shaped firework.\"},\"es-ES\":{\"display_name\":\"Besos de Año Nuevo\",\"display_prompt\":\"Un beso en Año Nuevo con un fuego artificial en forma de corazón.\"},\"fr-FR\":{\"display_name\":\"Baiser du Nouvel An\",\"display_prompt\":\"Un baiser au Nouvel An avec un feu d'artifice en forme de cœur.\"},\"id-ID\":{\"display_name\":\"Ciuman Tahun Baru\",\"display_prompt\":\"Ciuman saat Tahun Baru dengan kembang api berbentuk hati.\"},\"it-IT\":{\"display_name\":\"Bacio di Capodanno\",\"display_prompt\":\"Un bacio a Capodanno con un fuoco d'artificio a forma di cuore.\"},\"ja-JP\":{\"display_name\":\"新年のキス\",\"display_prompt\":\"新年にハート型の花火でのキス。\"},\"ko-KR\":{\"display_name\":\"새해 키스\",\"display_prompt\":\"새해에 하트 모양의 불꽃놀이와 함께하는 키스.\"},\"pt-BR\":{\"display_name\":\"Beijo de Ano Novo\",\"display_prompt\":\"Um beijo no Ano Novo com um fogos de artifício em forma de coração.\"},\"ru-RU\":{\"display_name\":\"Поцелуй в Новый Год\",\"display_prompt\":\"Поцелуй в Новый Год с фейерверком в форме сердца.\"},\"th-TH\":{\"display_name\":\"จูบวันปีใหม่\",\"display_prompt\":\"จูบในวันปีใหม่กับพลุรูปหัวใจ.\"},\"tr-TR\":{\"display_name\":\"Yeni Yıl Öpücüğü\",\"display_prompt\":\"Yeni Yılda kalp şeklinde bir havai fişek ile bir öpücük.\"},\"vi-VN\":{\"display_name\":\"Nụ Hôn Năm Mới\",\"display_prompt\":\"Một nụ hôn vào năm mới với pháo hoa hình trái tim.\"},\"zh-CN\":{\"display_name\":\"新年之吻\",\"display_prompt\":\"新年时与心形烟花的吻。\"}}",
-            "display_prompt": "A kiss at New Year's with a heart-shaped firework."
           },
           {
             "id": 377107036056854,
@@ -3775,18 +3703,6 @@
             "name": "Clean Shave",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"清爽剃须\",\"display_prompt\":\"去除胡须与胡茬，保留真实皮肤质感与细节。\"},\"en-US\":{\"display_name\":\"Clean Shave\",\"display_prompt\":\"Removes beard and facial hair while keeping natural skin texture and details.\"},\"ja-JP\":{\"display_name\":\"クリーンシェーブ\",\"display_prompt\":\"ヒゲや無精ひげを整え、自然な肌の質感と細部を保ちます。\"},\"ko-KR\":{\"display_name\":\"클린 쉐이브\",\"display_prompt\":\"수염과 잔수염을 제거하면서 자연스러운 피부 결 및 디테일을 유지합니다.\"},\"pt-BR\":{\"display_name\":\"Barba Limpa\",\"display_prompt\":\"Remove barba e pelos faciais, mantendo a textura e os detalhes naturais da pele.\"},\"es-ES\":{\"display_name\":\"Afeitado Limpio\",\"display_prompt\":\"Elimina la barba y el vello facial, manteniendo la textura y los detalles naturales de la piel.\"},\"fr-FR\":{\"display_name\":\"Rasage Net\",\"display_prompt\":\"Supprime la barbe et les poils du visage tout en conservant la texture et les détails naturels de la peau.\"},\"de-DE\":{\"display_name\":\"Saubere Rasur\",\"display_prompt\":\"Entfernt Bart- und Gesichtshaare, während die natürliche Hautstruktur und Details erhalten bleiben.\"},\"ru-RU\":{\"display_name\":\"Чистое Бритьё\",\"display_prompt\":\"Удаляет бороду и щетину, сохраняя естественную текстуру и детали кожи.\"},\"it-IT\":{\"display_name\":\"Rasatura Pulita\",\"display_prompt\":\"Rimuove barba e peli del viso mantenendo la texture e i dettagli naturali della pelle.\"},\"tr-TR\":{\"display_name\":\"Temiz Tıraş\",\"display_prompt\":\"Sakal ve yüz kıllarını giderirken cildin doğal dokusunu ve detaylarını korur.\"},\"id-ID\":{\"display_name\":\"Cukur Bersih\",\"display_prompt\":\"Menghilangkan janggut dan bulu wajah sambil mempertahankan tekstur serta detail alami kulit.\"},\"th-TH\":{\"display_name\":\"โกนหนวดเรียบเนียน\",\"display_prompt\":\"ลบหนวดและขนบนใบหน้า พร้อมคงไว้ซึ่งเนื้อผิวและรายละเอียดที่เป็นธรรมชาติ\"},\"vi-VN\":{\"display_name\":\"Cạo Gọn Gàng\",\"display_prompt\":\"Loại bỏ râu và lông mặt, đồng thời giữ lại kết cấu và chi tiết da tự nhiên.\"}}",
             "display_prompt": "Removes beard and facial hair while keeping natural skin texture and details."
-          },
-          {
-            "id": 377430109931392,
-            "tag": "new",
-            "model": "pixverse-image_v5",
-            "prompt": "A naturally sun-touched skin effect with healthy warmth and subtle glow.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_377430109931392.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_377430109931392.mp4",
-            "duration_sec": 1,
-            "name": "Sun-Kissed Glow",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"日光小麦色\",\"display_prompt\":\"自然日晒后的健康肤色，带来温暖的小麦色光泽。\"},\"en-US\":{\"display_name\":\"Sun-Kissed Glow\",\"display_prompt\":\"A naturally sun-touched skin effect with healthy warmth and subtle glow.\"},\"ja-JP\":{\"display_name\":\"サンキスドグロウ\",\"display_prompt\":\"自然な日差しを浴びたような、健康的で温かみのある小麦色の輝き。\"},\"ko-KR\":{\"display_name\":\"선키스드 글로우\",\"display_prompt\":\"자연스럽게 햇살에 물든 듯한 건강한 웜톤과 은은한 광채.\"},\"pt-BR\":{\"display_name\":\"Brilho Bronzeado Natural\",\"display_prompt\":\"Efeito de pele naturalmente beijada pelo sol, com calor saudável e brilho sutil.\"},\"es-ES\":{\"display_name\":\"Brillo Besado por el Sol\",\"display_prompt\":\"Un efecto de piel naturalmente tocada por el sol, con calidez saludable y brillo sutil.\"},\"fr-FR\":{\"display_name\":\"Éclat Soleil Naturel\",\"display_prompt\":\"Un effet de peau naturellement caressée par le soleil, avec une chaleur saine et un éclat subtil.\"},\"de-DE\":{\"display_name\":\"Sonnengeküsster Glow\",\"display_prompt\":\"Ein natürlich sonnengeküsster Hautton mit gesunder Wärme und dezentem Glow.\"},\"ru-RU\":{\"display_name\":\"Солнечное Сияние\",\"display_prompt\":\"Естественный эффект кожи, слегка тронутой солнцем, с тёплым и здоровым сиянием.\"},\"it-IT\":{\"display_name\":\"Glow Baciato dal Sole\",\"display_prompt\":\"Un effetto di pelle naturalmente toccata dal sole, con calore sano e una luminosità delicata.\"},\"tr-TR\":{\"display_name\":\"Güneş Öpücüğü Işıltısı\",\"display_prompt\":\"Güneşle doğal şekilde temas etmiş, sağlıklı sıcaklık ve hafif bir ışıltı veren cilt efekti.\"},\"id-ID\":{\"display_name\":\"Kilau Sentuhan Matahari\",\"display_prompt\":\"Efek kulit alami tersentuh matahari dengan kehangatan sehat dan kilau lembut.\"},\"th-TH\":{\"display_name\":\"ผิวโกลว์แดดอ่อน\",\"display_prompt\":\"ผิวดูสุขภาพดีเหมือนได้รับแสงแดดธรรมชาติ พร้อมโทนอุ่นและความโกลว์เบาๆ\"},\"vi-VN\":{\"display_name\":\"Ánh Nắng Tự Nhiên\",\"display_prompt\":\"Hiệu ứng làn da được nắng chạm nhẹ, mang sắc ấm khỏe khoắn và ánh glow tinh tế.\"}}",
-            "display_prompt": "A naturally sun-touched skin effect with healthy warmth and subtle glow."
           },
           {
             "id": 377169090357120,
@@ -4874,18 +4790,6 @@
             "name": "Champagne Pop",
             "i18n_json": "{\"de-DE\":{\"display_name\":\"Champagner-Pop\",\"display_prompt\":\"Neujahrs-Champagner-Pop\"},\"en-US\":{\"display_name\":\"Champagne Pop\",\"display_prompt\":\"New Year's Champagne Pop\"},\"es-ES\":{\"display_name\":\"Champán Pop\",\"display_prompt\":\"Champán Pop de Año Nuevo\"},\"fr-FR\":{\"display_name\":\"Champagne Pop\",\"display_prompt\":\"Champagne Pop du Nouvel An\"},\"id-ID\":{\"display_name\":\"Champagne Pop\",\"display_prompt\":\"Champagne Pop Tahun Baru\"},\"it-IT\":{\"display_name\":\"Champagne Pop\",\"display_prompt\":\"Champagne Pop di Capodanno\"},\"ja-JP\":{\"display_name\":\"シャンパンポップ\",\"display_prompt\":\"新年のシャンパンポップ\"},\"ko-KR\":{\"display_name\":\"샴페인 팝\",\"display_prompt\":\"새해 샴페인 팝\"},\"pt-BR\":{\"display_name\":\"Champagne Pop\",\"display_prompt\":\"Champagne Pop de Ano Novo\"},\"ru-RU\":{\"display_name\":\"Шампанское Поп\",\"display_prompt\":\"Новогоднее шампанское Поп\"},\"th-TH\":{\"display_name\":\"แชมเปญป๊อป\",\"display_prompt\":\"แชมเปญป๊อปปีใหม่\"},\"tr-TR\":{\"display_name\":\"Şampanya Pop\",\"display_prompt\":\"Yeni Yıl Şampanya Pop\"},\"vi-VN\":{\"display_name\":\"Pop Champagne\",\"display_prompt\":\"Pop Champagne Chào Năm Mới\"},\"zh-CN\":{\"display_name\":\"香槟泡泡\",\"display_prompt\":\"新年香槟泡泡\"}}",
             "display_prompt": "New Year's Champagne Pop"
-          },
-          {
-            "id": 377101473172752,
-            "tag": "",
-            "model": "pixverse-v5",
-            "prompt": "A kiss at New Year's with a heart-shaped firework.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_377101473172752.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_377101473172752.mp4",
-            "duration_sec": 8,
-            "name": "New Year Kiss",
-            "i18n_json": "{\"de-DE\":{\"display_name\":\"Neujahrskuss\",\"display_prompt\":\"Ein Kuss zu Neujahr mit einem herzförmigen Feuerwerk.\"},\"en-US\":{\"display_name\":\"New Year Kiss\",\"display_prompt\":\"A kiss at New Year's with a heart-shaped firework.\"},\"es-ES\":{\"display_name\":\"Besos de Año Nuevo\",\"display_prompt\":\"Un beso en Año Nuevo con un fuego artificial en forma de corazón.\"},\"fr-FR\":{\"display_name\":\"Baiser du Nouvel An\",\"display_prompt\":\"Un baiser au Nouvel An avec un feu d'artifice en forme de cœur.\"},\"id-ID\":{\"display_name\":\"Ciuman Tahun Baru\",\"display_prompt\":\"Ciuman saat Tahun Baru dengan kembang api berbentuk hati.\"},\"it-IT\":{\"display_name\":\"Bacio di Capodanno\",\"display_prompt\":\"Un bacio a Capodanno con un fuoco d'artificio a forma di cuore.\"},\"ja-JP\":{\"display_name\":\"新年のキス\",\"display_prompt\":\"新年にハート型の花火でのキス。\"},\"ko-KR\":{\"display_name\":\"새해 키스\",\"display_prompt\":\"새해에 하트 모양의 불꽃놀이와 함께하는 키스.\"},\"pt-BR\":{\"display_name\":\"Beijo de Ano Novo\",\"display_prompt\":\"Um beijo no Ano Novo com um fogos de artifício em forma de coração.\"},\"ru-RU\":{\"display_name\":\"Поцелуй в Новый Год\",\"display_prompt\":\"Поцелуй в Новый Год с фейерверком в форме сердца.\"},\"th-TH\":{\"display_name\":\"จูบวันปีใหม่\",\"display_prompt\":\"จูบในวันปีใหม่กับพลุรูปหัวใจ.\"},\"tr-TR\":{\"display_name\":\"Yeni Yıl Öpücüğü\",\"display_prompt\":\"Yeni Yılda kalp şeklinde bir havai fişek ile bir öpücük.\"},\"vi-VN\":{\"display_name\":\"Nụ Hôn Năm Mới\",\"display_prompt\":\"Một nụ hôn vào năm mới với pháo hoa hình trái tim.\"},\"zh-CN\":{\"display_name\":\"新年之吻\",\"display_prompt\":\"新年时与心形烟花的吻。\"}}",
-            "display_prompt": "A kiss at New Year's with a heart-shaped firework."
           },
           {
             "id": 377097809660141,
@@ -7611,18 +7515,6 @@
         "i18n_json": "{\"zh-CN\":{\"channel_name\":\"真情流露\"},\"ko-KR\":{\"channel_name\":\"마음의 울림\"},\"ja-JP\":{\"channel_name\":\"心の響き\"},\"pt-BR\":{\"channel_name\":\"Som do Coração\"},\"es-ES\":{\"channel_name\":\"Eco del Corazón\"},\"fr-FR\":{\"channel_name\":\"Écho du Cœur\"},\"de-DE\":{\"channel_name\":\"Herzklang\"},\"ru-RU\":{\"channel_name\":\"Эхо сердца\"},\"it-IT\":{\"channel_name\":\"Echi del Cuore\"},\"tr-TR\":{\"channel_name\":\"Kalp Yankısı\"},\"id-ID\":{\"channel_name\":\"Gema Hati\"},\"th-TH\":{\"channel_name\":\"เสียงจากใจ\"},\"vi-VN\":{\"channel_name\":\"Vọng Cảm Từ Tim\"}}",
         "effect_items": [
           {
-            "id": 315446315336768,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "One click to send your kiss",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_315446315336768.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_315446315336768.mp4",
-            "duration_sec": 5,
-            "name": "Kiss Kiss",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"爱的亲亲\",\"display_prompt\":\"一键释放爱意满屏\"},\"es-ES\":{\"display_name\":\"Proximidad para expresar amor\",\"display_prompt\":\"Un toque y el amor inunda la pantalla\"},\"ja-JP\":{\"display_name\":\"愛を表現するには近づくこと\",\"display_prompt\":\"ワンタップで画面いっぱいの愛を解き放つ\"},\"ko-KR\":{\"display_name\":\"가까이 다가가야 사랑을 표현할 수 있습니다\",\"display_prompt\":\"탭 한 번으로 화면 가득 사랑을 뿜어내세요\"},\"pt-BR\":{\"display_name\":\"Proximidade para expressar amor\",\"display_prompt\":\"Um toque para liberar amor na tela inteira\"},\"fr-FR\":{\"display_name\":\"La proximité pour exprimer l'amour\",\"display_prompt\":\"Un seul toucher pour inonder l'écran d'amour\"},\"de-DE\":{\"display_name\":\"Nähe, um Liebe auszudrücken\",\"display_prompt\":\"Ein Tippen und der Bildschirm ist voller Liebe\"},\"ru-RU\":{\"display_name\":\"Близость для выражения любви\",\"display_prompt\":\"Одно касание — и экран переполнен любовью\"}}",
-            "display_prompt": "One click to send your kiss"
-          },
-          {
             "id": 346384996936128,
             "tag": "default",
             "model": "pixverse-v5",
@@ -7633,30 +7525,6 @@
             "name": "Old Photo Revival",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"老照片复活\",\"display_prompt\":\"一秒唤醒老照片，回到曾经记忆里\"},\"es-ES\":{\"display_name\":\"Resurrección de Fotos Antiguas\",\"display_prompt\":\"¡Despierta fotos antiguas en un segundo, regresa a los recuerdos del pasado!\"},\"ja-JP\":{\"display_name\":\"古い写真の復活\",\"display_prompt\":\"一秒で古い写真を蘇らせ、かつての記憶に戻る\"},\"ko-KR\":{\"display_name\":\"오래된 사진 되살리기\",\"display_prompt\":\"일초만에 오래된 사진을 깨워, 과거의 기억으로 돌아갑니다\"},\"pt-BR\":{\"display_name\":\"Ressurreição de Fotos Antigas\",\"display_prompt\":\"Desperte fotos antigas em um segundo, volte às memórias do passado\"},\"fr-FR\":{\"display_name\":\"Résurrection de Vieilles Photos\",\"display_prompt\":\"Réveillez de vieilles photos en une seconde, retournez aux souvenirs d'autrefois\"},\"de-DE\":{\"display_name\":\"Alte Fotos wiederbeleben\",\"display_prompt\":\"Erwecken Sie alte Fotos in einer Sekunde zum Leben, kehren Sie zu vergangenen Erinnerungen zurück\"},\"ru-RU\":{\"display_name\":\"Оживление старых фотографий\",\"display_prompt\":\"Оживите старые фотографии за секунду, вернитесь к прошлым воспоминаниям\"}}",
             "display_prompt": "Breathe life into old photos—time travel through their eyes."
-          },
-          {
-            "id": 359166562889024,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Kissing non-stop, feeling the endless desire",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_359166562889024.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_359166562889024.mp4",
-            "duration_sec": 8,
-            "name": "Kiss Me to Heaven",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"亲到上天堂\",\"display_prompt\":\"吻个不停，感受每一寸热度。\"},\"en-US\":{\"display_name\":\"Kiss Me to Heaven\",\"display_prompt\":\"Kissing non-stop, feeling the heat.\"},\"ko-KR\":{\"display_name\":\"천국으로 키스\",\"display_prompt\":\"멈추지 않는 키스, 온몸의 열기를 느껴봐.\"},\"ja-JP\":{\"display_name\":\"天国へのキス\",\"display_prompt\":\"キスが止まらない、全身の熱を感じて。\"},\"pt-BR\":{\"display_name\":\"Me Beije para o Céu\",\"display_prompt\":\"Beijando sem parar, sentindo cada centímetro de calor.\"},\"es-ES\":{\"display_name\":\"Bésame al Cielo\",\"display_prompt\":\"Besando sin parar, sintiendo el calor.\"},\"fr-FR\":{\"display_name\":\"Embrasse-Moi Jusqu'au Ciel\",\"display_prompt\":\"Un baiser sans fin pour ressentir chaque parcelle de chaleur.\"},\"de-DE\":{\"display_name\":\"Küss Mich in den Himmel\",\"display_prompt\":\"Küsse ohne Ende, spür die Hitze.\"},\"ru-RU\":{\"display_name\":\"Поцелуй Меня до Небес\",\"display_prompt\":\"Целуемся без остановки, чувствуя каждую каплю жара.\"},\"th-TH\":{\"display_name\":\"จูบฉันถึงสวรรค์\",\"display_prompt\":\"จูบไม่หยุด สัมผัสความร้อนระอุทุกอณู\"},\"id-ID\":{\"display_name\":\"Cium Aku ke Surga\",\"display_prompt\":\"Ciuman tak berhenti, rasakan setiap inci kehangatan.\"},\"vi-VN\":{\"display_name\":\"Hôn Em Lên Thiên Đường\",\"display_prompt\":\"Hôn không ngừng nghỉ, cảm nhận từng chút nóng bỏng.\"},\"tr-TR\":{\"display_name\":\"Beni Cennete Öp\",\"display_prompt\":\"Durmadan öpüşmek, her zerresinde sıcaklığı hissetmek.\"},\"it-IT\":{\"display_name\":\"Baciami Fino al Cielo\",\"display_prompt\":\"Baciarsi senza sosta, sentendo il calore di ogni centimetro.\"}}",
-            "display_prompt": "Kissing non-stop, feeling the endless desire"
-          },
-          {
-            "id": 303624424723200,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Hug each other",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_303624424723200.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_303624424723200.mp4",
-            "duration_sec": 5,
-            "name": "Hug Your Love",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"爱的抱抱\",\"display_prompt\":\"互相拥抱在一起\"},\"es-ES\":{\"display_name\":\"Abrazo de amor\",\"display_prompt\":\"¡Abrazándose el uno al otro!\"},\"ja-JP\":{\"display_name\":\"愛のハグ\",\"display_prompt\":\"お互いを抱きしめ合う\"},\"ko-KR\":{\"display_name\":\"사랑의 포옹\",\"display_prompt\":\"서로 껴안고 있습니다\"},\"pt-BR\":{\"display_name\":\"Abraço de amor\",\"display_prompt\":\"Abraçando-se mutuamente\"},\"fr-FR\":{\"display_name\":\"Câlin d'amour\",\"display_prompt\":\"S'enlaçant dans les bras l'un de l'autre\"},\"de-DE\":{\"display_name\":\"Liebesumarmung\",\"display_prompt\":\"Sich gegenseitig umarmen\"},\"ru-RU\":{\"display_name\":\"Объятия любви\",\"display_prompt\":\"Обнимая друг друга\"}}",
-            "display_prompt": "Hug each other"
           },
           {
             "id": 353279785150016,
@@ -7741,18 +7609,6 @@
             "name": "Warmth of Jesus",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"拥抱耶稣\",\"display_prompt\":\"幸福永远\"},\"es-ES\":{\"display_name\":\"Abrazar a Jesús\",\"display_prompt\":\"¡Felicidad eterna!\"},\"ja-JP\":{\"display_name\":\"イエスを抱きしめる\",\"display_prompt\":\"永遠の幸せ\"},\"ko-KR\":{\"display_name\":\"예수님을 포옹하다\",\"display_prompt\":\"영원한 행복\"},\"pt-BR\":{\"display_name\":\"Abraçar Jesus\",\"display_prompt\":\"Felicidade para sempre\"},\"fr-FR\":{\"display_name\":\"Embrasser Jésus\",\"display_prompt\":\"Bonheur éternel\"},\"de-DE\":{\"display_name\":\"Jesus umarmen\",\"display_prompt\":\"Ewiges Glück\"},\"ru-RU\":{\"display_name\":\"Обнять Иисуса\",\"display_prompt\":\"Вечное счастье\"}}",
             "display_prompt": "Find peace in Jesus' arms."
-          },
-          {
-            "id": 321958627120000,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "No Lover? Get an AI Sweetheart!",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_321958627120000.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_321958627120000.mp4",
-            "duration_sec": 5,
-            "name": "Kiss Me, AI!",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"AI发对象咯\",\"display_prompt\":\"拯救单身的甜蜜一吻\"},\"es-ES\":{\"display_name\":\"¡El AI encuentra pareja!\",\"display_prompt\":\"¡Un dulce beso para salvar a los solteros!\"},\"ja-JP\":{\"display_name\":\"AIが恋人を見つけた\",\"display_prompt\":\"独身を救う甘いキス\"},\"ko-KR\":{\"display_name\":\"AI가 연인을 찾았어요\",\"display_prompt\":\"솔로를 구하는 달콤한 키스\"},\"pt-BR\":{\"display_name\":\"AI encontrou seu par\",\"display_prompt\":\"Um doce beijo para salvar os solteiros\"},\"fr-FR\":{\"display_name\":\"L'IA a trouvé l'amour\",\"display_prompt\":\"Un doux baiser pour sauver les célibataires\"},\"de-DE\":{\"display_name\":\"KI findet einen Partner\",\"display_prompt\":\"Ein süßer Kuss zur Rettung der Singles\"},\"ru-RU\":{\"display_name\":\"ИИ нашел пару\",\"display_prompt\":\"Сладкий поцелуй для спасения одиноких\"}}",
-            "display_prompt": "No Lover? Get an AI Sweetheart!"
           },
           {
             "id": 313649622731200,
@@ -8914,18 +8770,6 @@
             "name": "Truck AD",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"卡车广告\",\"display_prompt\":\"在移动的卡车上展示您的产品。\"},\"en-US\":{\"display_name\":\"Truck AD\",\"display_prompt\":\"Showcase your brand on a moving truck.\"},\"ko-KR\":{\"display_name\":\"트럭 광고\",\"display_prompt\":\"움직이는 트럭에 귀사의 브랜드를 선보이세요.\"},\"ja-JP\":{\"display_name\":\"トラック広告\",\"display_prompt\":\"動くトラックであなたのブランドを紹介しましょう。\"},\"pt-BR\":{\"display_name\":\"Anúncio de Caminhão\",\"display_prompt\":\"Apresente sua marca em um caminhão em movimento.\"},\"es-ES\":{\"display_name\":\"Anuncio de Camión\",\"display_prompt\":\"Muestre su marca en un camión en movimiento.\"},\"fr-FR\":{\"display_name\":\"Publicité Camion\",\"display_prompt\":\"Mettez en valeur votre marque sur un camion en mouvement.\"},\"de-DE\":{\"display_name\":\"LKW-Werbung\",\"display_prompt\":\"Präsentieren Sie Ihre Marke auf einem fahrenden LKW.\"},\"ru-RU\":{\"display_name\":\"Реклама на Грузовике\",\"display_prompt\":\"Продемонстрируйте свой бренд на движущемся грузовике.\"},\"th-TH\":{\"display_name\":\"โฆษณาบนรถบรรทุก\",\"display_prompt\":\"แสดงแบรนด์ของคุณบนรถบรรทุกที่กำลังเคลื่อนที่\"},\"id-ID\":{\"display_name\":\"Iklan Truk\",\"display_prompt\":\"Pamerkan merek Anda di truk yang bergerak.\"},\"vi-VN\":{\"display_name\":\"Quảng Cáo Xe Tải\",\"display_prompt\":\"Quảng bá thương hiệu của bạn trên một chiếc xe tải đang di chuyển.\"},\"tr-TR\":{\"display_name\":\"Kamyon İlanı\",\"display_prompt\":\"Markanızı hareketli bir kamyonun üzerinde sergileyin.\"},\"it-IT\":{\"display_name\":\"Annuncio su Camion\",\"display_prompt\":\"Metti in mostra il tuo brand su un camion in movimento.\"}}",
             "display_prompt": "Showcase your brand on a moving truck"
-          },
-          {
-            "id": 368492376619456,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Place your product on the beach.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_368492376619456.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_368492376619456.mp4",
-            "duration_sec": 5,
-            "name": "Beach AD",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"沙滩广告\",\"display_prompt\":\"将您的产品置于阳光沙滩上进行展示。\"},\"en-US\":{\"display_name\":\"Beach AD\",\"display_prompt\":\"Place your product on the beach for a relaxed, sun-kissed display.\"},\"ko-KR\":{\"display_name\":\"해변 광고\",\"display_prompt\":\"당신의 제품을 해변에 배치하여 햇살 가득한 디스플레이를 연출하세요.\"},\"ja-JP\":{\"display_name\":\"ビーチ広告\",\"display_prompt\":\"あなたの製品をビーチに配置して、リラックスした太陽の光を浴びたディスプレイにしましょう。\"},\"pt-BR\":{\"display_name\":\"Anúncio de Praia\",\"display_prompt\":\"Coloque seu produto na praia para uma exibição relaxada e ensolarada.\"},\"es-ES\":{\"display_name\":\"Anuncio de Playa\",\"display_prompt\":\"Coloque su producto en la playa para una exhibición relajada y bañada por el sol.\"},\"fr-FR\":{\"display_name\":\"Publicité Plage\",\"display_prompt\":\"Placez votre produit sur la plage pour une présentation décontractée et ensoleillée.\"},\"de-DE\":{\"display_name\":\"Strand-Werbung\",\"display_prompt\":\"Platzieren Sie Ihr Produkt am Strand für eine entspannte, sonnenverwöhnte Präsentation.\"},\"ru-RU\":{\"display_name\":\"Пляжная Реклама\",\"display_prompt\":\"Разместите ваш продукт на пляже для расслабляющей, залитой солнцем демонстрации.\"},\"th-TH\":{\"display_name\":\"โฆษณาบนชายหาด\",\"display_prompt\":\"วางผลิตภัณฑ์ของคุณบนชายหาดเพื่อการจัดแสดงที่ผ่อนคลายและโดนแดด\"},\"id-ID\":{\"display_name\":\"Iklan Pantai\",\"display_prompt\":\"Tempatkan produk Anda di pantai untuk tampilan yang santai dan bermandikan sinar matahari.\"},\"vi-VN\":{\"display_name\":\"Quảng Cáo Bãi Biển\",\"display_prompt\":\"Đặt sản phẩm của bạn trên bãi biển để có một màn hình thư giãn và đầy nắng.\"},\"tr-TR\":{\"display_name\":\"Plaj İlanı\",\"display_prompt\":\"Ürününüzü rahatlatıcı, güneşli bir sergileme için plaja yerleştirin.\"},\"it-IT\":{\"display_name\":\"Annuncio in Spiaggia\",\"display_prompt\":\"Posiziona il tuo prodotto sulla spiaggia per una presentazione rilassata e baciata dal sole.\"}}",
-            "display_prompt": "Place your product on the beach."
           },
           {
             "id": 366951270155072,
