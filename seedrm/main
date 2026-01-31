@@ -413,21 +413,21 @@
         "name": "Polaroid",
         "image": "https://www.dreamse.app/api/styles/images/palaroid.jpg",
         "model": "nano-banana",
-        "prompt": " Create a Polaroid-style photo, as if it were taken with a Polaroid camera. The photo should look like a regular snapshot, without any obvious props or staged elements. Add a slight blur and a consistent light source, such as a flash from a dim room, scattered throughout the photo. Don't alter the faces. Replace the background with soft white curtains. Show two people looking directly at the camera while hugging or laughing, capturing a natural, candid moment."
+        "prompt": "Create a Polaroid-style photo, as if it were taken with a Polaroid camera. The photo should look like a regular snapshot, without any obvious props or staged elements. Add a slight blur and a consistent light source, such as a flash from a dim room, scattered throughout the photo. Don't alter the faces. Replace the background with soft white curtains. Show two people looking directly at the camera while hugging or laughing, capturing a natural, candid moment."
       },
       {
         "id": "30S-to-80s",
         "name": "3Os to 80s",
         "image": "https://www.dreamse.app/api/styles/images/30to80-filter.jpg",
         "model": "nano-banana",
-        "prompt": "  Generate the holiday photo of this person through the ages up to 80 years old"
+        "prompt": "Generate the holiday photo of this person through the ages up to 80 years old"
       },
       {
         "id": "facial-face",
         "name": "Facial Expressions ",
         "image": "https://www.dreamse.app/api/styles/images/facialface.jpg",
         "model": "nano-banana",
-        "prompt": " Generate a 3×3 grid of the same person  showing 9 different facial expressions while maintaining perfect facial structure consistency. Only expression changes - same face, same hairstyle, same clothing, same lighting. Grid expressions: Cell 1: Genuine happy smile (teeth showing), Cell 2: Surprised (wide eyes, open mouth), Cell 3: Thoughtful (slight frown, looking away), Cell 4: Laughing (eyes closed, big smile), Cell 5: Neutral (original reference), Cell 6: Serious/confident (direct gaze), Cell 7: Playful wink, Cell 8: Slight smile (subtle), Cell 9: Excited (big eyes, smile). Each expression should be authentic and natural, not exaggerated. Consistent soft portrait lighting, same background, same head angle. Style: acting headshot portfolio, emotion reference. 4K resolution, facial structure consistency absolute, micro-expressions realistic."
+        "prompt": "Generate a 3×3 grid of the same person  showing 9 different facial expressions while maintaining perfect facial structure consistency. Only expression changes - same face, same hairstyle, same clothing, same lighting. Grid expressions: Cell 1: Genuine happy smile (teeth showing), Cell 2: Surprised (wide eyes, open mouth), Cell 3: Thoughtful (slight frown, looking away), Cell 4: Laughing (eyes closed, big smile), Cell 5: Neutral (original reference), Cell 6: Serious/confident (direct gaze), Cell 7: Playful wink, Cell 8: Slight smile (subtle), Cell 9: Excited (big eyes, smile). Each expression should be authentic and natural, not exaggerated. Consistent soft portrait lighting, same background, same head angle. Style: acting headshot portfolio, emotion reference. 4K resolution, facial structure consistency absolute, micro-expressions realistic."
       },
       {
         "id": "3d-figurine",
