@@ -249,7 +249,35 @@
   },
   "styles": {
     "images": [
+   {
+          "id": "snow-filter",
+          "name": "Snow Filter",
+          "image": "https://www.dreamse.app/api/styles/images/snow-filter.jpeg",
+          "model": "nano-banana",
+          "prompt": "Create a vertical 9:16 cinematic composite of a Korean woman in winter snow, split into three stacked frames. Top: close-up of her eye and cheek, snowflakes on lashes and rosy skin. Middle: ¾ profile gazing upward, holding a clear umbrella as snow falls. Bottom: chest-up portrait facing camera with quiet melancholy. Lighting: soft daylight, HDR tone, shallow depth (Canon EOS R5, 85mm f/1.2). Outfit: black wool coat, thick white scarf, hair tucked in, no hat. Mood: emotional, calm, Korean winter romance style."
+        },
         {
+          "id": "palaroid",
+          "name": "Polaroid",
+          "image": "https://www.dreamse.app/api/styles/images/palaroid.jpeg,
+          "model": "nano-banana",
+          "prompt": " Create a Polaroid-style photo, as if it were taken with a Polaroid camera. The photo should look like a regular snapshot, without any obvious props or staged elements. Add a slight blur and a consistent light source, such as a flash from a dim room, scattered throughout the photo. Don't alter the faces. Replace the background with soft white curtains. Show two people looking directly at the camera while hugging or laughing, capturing a natural, candid moment."
+        },
+ {
+          "id": "30S-to-80s",
+          "name": "3Os to 80s",
+          "image": "https://www.dreamse.app/api/styles/images/30to80-filter.jpeg,
+          "model": "nano-banana",
+          "prompt": "  Generate the holiday photo of this person through the ages up to 80 years old"
+        },
+{
+          "id": "facial-face",
+          "name": "Facial Expressions ",
+          "image": "https://www.dreamse.app/api/styles/images/facialface.jpeg,
+          "model": "nano-banana",
+          "prompt": " Generate a 3×3 grid of the same person  showing 9 different facial expressions while maintaining perfect facial structure consistency. Only expression changes - same face, same hairstyle, same clothing, same lighting. Grid expressions: Cell 1: Genuine happy smile (teeth showing), Cell 2: Surprised (wide eyes, open mouth), Cell 3: Thoughtful (slight frown, looking away), Cell 4: Laughing (eyes closed, big smile), Cell 5: Neutral (original reference), Cell 6: Serious/confident (direct gaze), Cell 7: Playful wink, Cell 8: Slight smile (subtle), Cell 9: Excited (big eyes, smile). Each expression should be authentic and natural, not exaggerated. Consistent soft portrait lighting, same background, same head angle. Style: acting headshot portfolio, emotion reference. 4K resolution, facial structure consistency absolute, micro-expressions realistic."
+        },
+{
           "id": "3d-figurine",
           "name": "3D Figurine",
           "image": "https://www.transcript.club/dream/styles/images/3d-figurine.jpg",
