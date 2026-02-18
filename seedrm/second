@@ -1,0 +1,205 @@
+{
+  "models": {
+    "images": [
+      {
+        "id": "nano-banana-pro",
+        "name": "Nano Banana Pro",
+        "subtitle": "The latest art image generation and editing model 🍌🍌",
+        "etaSec": 90,
+        "imageRequirement": "optional",
+        "icon": "https://www.transcript.club/dream/models/images/banana.jpg",
+        "allowedRatioKeys": [
+          "match_input_image",
+          "1:1",
+          "16:9",
+          "9:16",
+          "4:3",
+          "3:4",
+          "3:2",
+          "2:3"
+        ],
+        "defaultRatioKey": "match_input_image",
+        "costTokens": 99
+      },
+      {
+        "id": "sora-2",
+        "name": "Sora 2",
+        "subtitle": "Highly realistic, physically accurate images.",
+        "etaSec": 90,
+        "imageRequirement": "optional",
+        "icon": "https://www.transcript.club/dream/models/images/sora2.png",
+        "allowedRatioKeys": [
+          "match_input_image",
+          "1:1",
+          "16:9",
+          "9:16",
+          "3:4",
+          "4:3"
+        ],
+        "defaultRatioKey": "match_input_image",
+        "costTokens": 70
+      },
+      {
+        "id": "qwen-midjourney-v3",
+        "name": "Midjourney v3",
+        "subtitle": "Qwen fine-tuned on Midjourney v3 images",
+        "etaSec": 90,
+        "imageRequirement": "forbidden",
+        "icon": "https://www.transcript.club/dream/models/images/midjourney.png",
+        "allowedRatioKeys": [
+          "1:1",
+          "16:9",
+          "9:16",
+          "3:4",
+          "4:3",
+          "3:2",
+          "2:3"
+        ],
+        "defaultRatioKey": "match_input_image",
+        "costTokens": 70
+      }
+    ],
+    "videos": [
+      {
+        "id": "sora-2",
+        "name": "Sora 2",
+        "subtitle": "Highly realistic, physically accurate, and more controllable clips.",
+        "etaSec": 120,
+        "imageRequirement": "optional",
+        "icon": "https://www.transcript.club/dream/models/videos/sora2.png?v=2",
+        "allowedRatioKeys": [
+          "1:1",
+          "16:9",
+          "9:16",
+          "3:4",
+          "4:3"
+        ],
+        "defaultRatioKey": "16:9",
+        "costTokens": 750
+      },
+      {
+        "id": "pixverse-v5",
+        "name": "Pixverse V5",
+        "subtitle": "Create videos with enhanced character movement and visual effects.",
+        "etaSec": 180,
+        "imageRequirement": "optional",
+        "icon": "https://www.transcript.club/dream/models/videos/pixverse-v5.png?v=2",
+        "allowedRatioKeys": [
+          "16:9",
+          "9:16",
+          "3:4",
+          "4:3",
+          "1:1"
+        ],
+        "defaultRatioKey": "16:9",
+        "costTokens": 170
+      }
+    ]
+  },
+  "styles": {
+    "images": [
+      {
+        "id": "snow-filter",
+        "name": "Snow Filter",
+        "image": "https://www.dreamse.app/api/styles/images/snow-filter.jpg",
+        "model": "nano-banana",
+        "prompt": "Create a vertical 9:16 cinematic composite of a Korean woman in winter snow, split into three stacked frames. Top: close-up of her eye and cheek, snowflakes on lashes and rosy skin. Middle: ¾ profile gazing upward, holding a clear umbrella as snow falls. Bottom: chest-up portrait facing camera with quiet melancholy. Lighting: soft daylight, HDR tone, shallow depth (Canon EOS R5, 85mm f/1.2). Outfit: black wool coat, thick white scarf, hair tucked in, no hat. Mood: emotional, calm, Korean winter romance style."
+      },
+      {
+        "id": "palaroid",
+        "name": "Polaroid",
+        "image": "https://www.dreamse.app/api/styles/images/palaroid.jpg",
+        "model": "nano-banana",
+        "prompt": "Create a Polaroid-style photo, as if it were taken with a Polaroid camera. The photo should look like a regular snapshot, without any obvious props or staged elements. Add a slight blur and a consistent light source, such as a flash from a dim room, scattered throughout the photo. Don't alter the faces. Replace the background with soft white curtains. Show two people looking directly at the camera while hugging or laughing, capturing a natural, candid moment."
+      }
+    ],
+    "videos": [
+      {
+        "channel_id": 316673987019648,
+        "channel_name": "Trending",
+        "i18n_json": "{\"zh-CN\":{\"channel_name\":\"热门\"},\"ko-KR\":{\"channel_name\":\"인기 급상승\"},\"ja-JP\":{\"channel_name\":\"トレンド\"},\"pt-BR\":{\"channel_name\":\"Em alta\"},\"es-ES\":{\"channel_name\":\"Tendencias\"},\"fr-FR\":{\"channel_name\":\"Tendance\"},\"de-DE\":{\"channel_name\":\"Angesagt\"},\"ru-RU\":{\"channel_name\":\"В тренде\"},\"it-IT\":{\"channel_name\":\"In tendenza\"},\"tr-TR\":{\"channel_name\":\"Trend\"},\"id-ID\":{\"channel_name\":\"Tren\"},\"th-TH\":{\"channel_name\":\"แนวโน้ม\"},\"vi-VN\":{\"channel_name\":\"Xu hướng\"}}",
+        "effect_items": [
+          {
+            "id": 386603124673600,
+            "tag": "new",
+            "model": "pixverse-v5",
+            "prompt": "Laser-etched. Cyber-bound.",
+            "image": "https://www.dreamse.app/api/styles/videos/pixverse_386603124673600.jpg",
+            "preview_video_url": "https://www.dreamse.app/api/styles/videos/pixverse_386603124673600.mp4",
+            "duration_sec": 5,
+            "name": "Cyber Breach",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"赛博入侵\",\"display_prompt\":\"激光刻印，赛博入魂。\"},\"en-US\":{\"display_name\":\"Cyber Breach\",\"display_prompt\":\"Laser-etched. Cyber-bound.\"},\"ko-KR\":{\"display_name\":\"사이버 침투\",\"display_prompt\":\"레이저로 각인되고, 사이버에 결속되다.\"},\"ja-JP\":{\"display_name\":\"サイバー侵入\",\"display_prompt\":\"レーザー刻印、サイバーに縛られる。\"},\"pt-BR\":{\"display_name\":\"Invasão Cibernética\",\"display_prompt\":\"Gravado a laser. Ligado ao ciber.\"},\"es-ES\":{\"display_name\":\"Brecha Cibernética\",\"display_prompt\":\"Grabado a láser. Unido al ciber.\"},\"fr-FR\":{\"display_name\":\"Brèche Cyber\",\"display_prompt\":\"Gravé au laser. Lié au cyber.\"},\"de-DE\":{\"display_name\":\"Cyber-Durchbruch\",\"display_prompt\":\"Lasergraviert. Cyber-gebunden.\"},\"ru-RU\":{\"display_name\":\"Киберпрорыв\",\"display_prompt\":\"Выгравировано лазером. Связано с киберсетью.\"},\"th-TH\":{\"display_name\":\"ไซเบอร์บรีช\",\"display_prompt\":\"สลักด้วยเลเซอร์ ผูกพันกับไซเบอร์\"},\"id-ID\":{\"display_name\":\"Peretasan Siber\",\"display_prompt\":\"Terukir laser. Terikat siber.\"},\"vi-VN\":{\"display_name\":\"Đột Phá Cyber\",\"display_prompt\":\"Khắc laser. Gắn kết cyber.\"},\"tr-TR\":{\"display_name\":\"Siber İhlali\",\"display_prompt\":\"Lazerle kazınmış. Siberle bağlanmış.\"},\"it-IT\":{\"display_name\":\"Violazione Cyber\",\"display_prompt\":\"Inciso al laser. Legato al cyber.\"}}",
+            "display_prompt": "Laser-etched. Cyber-bound."
+          },
+          {
+            "id": 386597477788736,
+            "tag": "new",
+            "model": "pixverse-v5.6",
+            "prompt": "High above the lanterns, the night belongs to you.",
+            "image": "https://www.dreamse.app/api/styles/videos/pixverse_386597477788736.jpg",
+            "preview_video_url": "https://www.dreamse.app/api/styles/videos/pixverse_386597477788736.mp4",
+            "duration_sec": 5,
+            "name": "Above the Lantern Sea",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"上元枝头\",\"display_prompt\":\"立于灯火之上，这一夜由你主宰。\"},\"en-US\":{\"display_name\":\"Above the Lantern Sea\",\"display_prompt\":\"High above the lanterns, the night belongs to you.\"},\"ja-JP\":{\"display_name\":\"灯りの海の上\",\"display_prompt\":\"提灯の海の上、夜はあなたのもの。\"},\"ko-KR\":{\"display_name\":\"등불 바다 위\",\"display_prompt\":\"등불 위에서, 밤은 당신의 것입니다.\"},\"pt-BR\":{\"display_name\":\"Acima do Mar de Lanternas\",\"display_prompt\":\"Bem acima das lanternas, a noite é sua.\"},\"es-ES\":{\"display_name\":\"Sobre el Mar de Linternas\",\"display_prompt\":\"En lo alto de las linternas, la noche te pertenece.\"},\"fr-FR\":{\"display_name\":\"Au-dessus de la Mer de Lanternes\",\"display_prompt\":\"Bien au-dessus des lanternes, la nuit vous appartient.\"},\"de-DE\":{\"display_name\":\"Über dem Laternenmeer\",\"display_prompt\":\"Hoch über den Laternen gehört die Nacht dir.\"},\"ru-RU\":{\"display_name\":\"Над морем фонарей\",\"display_prompt\":\"Высоко над фонарями ночь принадлежит тебе.\"},\"it-IT\":{\"display_name\":\"Sopra il Mare di Lanterne\",\"display_prompt\":\"In alto sopra le lanterne, la notte è tua.\"},\"tr-TR\":{\"display_name\":\"Fener Denizinin Üstü\",\"display_prompt\":\"Fenerlerin çok üstünde, gece sana ait.\"},\"id-ID\":{\"display_name\":\"Di Atas Lautan Lentera\",\"display_prompt\":\"Tinggi di atas lentera, malam adalah milikmu.\"},\"th-TH\":{\"display_name\":\"เหนือทะเลโคมไฟ\",\"display_prompt\":\"สูงเหนือโคมไฟ ค่ำคืนนี้เป็นของคุณ\"},\"vi-VN\":{\"display_name\":\"Trên Biển Đèn Lồng\",\"display_prompt\":\"Cao trên những chiếc đèn lồng, màn đêm thuộc về bạn.\"}}",
+            "display_prompt": "High above the lanterns, the night belongs to you."
+          },
+          {
+            "id": 317013509917440,
+            "tag": "",
+            "model": "pixverse-v5",
+            "prompt": "Have good luck in 2025",
+            "image": "https://www.dreamse.app/api/styles/videos/pixverse_317013509917440.jpg",
+            "preview_video_url": "https://www.dreamse.app/api/styles/videos/pixverse_317013509917440.mp4",
+            "duration_sec": 5,
+            "name": "Chinese New Year Dress",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"新年战裙\",\"display_prompt\":\"穿中国战裙，新年行大运\"},\"es-ES\":{\"display_name\":\"Falda de Guerra del Año Nuevo\",\"display_prompt\":\"¡Viste la falda de guerra china y ten buena fortuna en el Año Nuevo!\"},\"ja-JP\":{\"display_name\":\"新年の戦闘スカート\",\"display_prompt\":\"中国の戦闘スカートを着て、新年に大いなる幸運を得る\"},\"ko-KR\":{\"display_name\":\"새해 전투 스커트\",\"display_prompt\":\"중국 전투 스커트를 입고 새해에 행운을 누리세요\"},\"pt-BR\":{\"display_name\":\"Saia de Guerra do Ano Novo\",\"display_prompt\":\"Vista a saia de guerra chinesa e tenha grande sorte no Ano Novo\"},\"fr-FR\":{\"display_name\":\"Jupe de Guerre du Nouvel An\",\"display_prompt\":\"Portez la jupe de guerre chinoise et ayez de la chance pour le Nouvel An\"},\"de-DE\":{\"display_name\":\"Neujahrs-Kriegsrock\",\"display_prompt\":\"Trage den chinesischen Kriegsrock und habe großes Glück im neuen Jahr\"},\"ru-RU\":{\"display_name\":\"Новогодняя боевая юбка\",\"display_prompt\":\"Наденьте китайскую боевую юбку и получите большую удачу в Новом году\"}}",
+            "display_prompt": "Have good luck in 2025"
+          }
+        ]
+      },
+      {
+        "channel_id": 382528130285120,
+        "channel_name": "🌹Love Loading",
+        "i18n_json": "{\"zh-CN\":{\"channel_name\":\"🌹心动加载\"},\"en-US\":{\"channel_name\":\"🌹Love Loading\"},\"es-ES\":{\"channel_name\":\"🌹Amor Cargando\"},\"ja-JP\":{\"channel_name\":\"🌹恋、読み込み中\"},\"ko-KR\":{\"channel_name\":\"🌹사랑 로딩중\"},\"pt-BR\":{\"channel_name\":\"🌹Amor Carregando\"},\"fr-FR\":{\"channel_name\":\"🌹Amour en Chargement\"},\"de-DE\":{\"channel_name\":\"🌹Liebe Wird Geladen\"},\"ru-RU\":{\"channel_name\":\"🌹Любовь Загружается\"},\"it-IT\":{\"channel_name\":\"🌹Amore in Caricamento\"},\"tr-TR\":{\"channel_name\":\"🌹Aşk Yükleniyor\"},\"id-ID\":{\"channel_name\":\"🌹Cinta Sedang Dimuat\"},\"th-TH\":{\"channel_name\":\"🌹กำลังโหลดความรัก\"},\"vi-VN\":{\"channel_name\":\"🌹Đang Tải Tình Yêu\"}}",
+        "effect_items": [
+          {
+            "id": 340894729537344,
+            "tag": "",
+            "model": "pixverse-v5",
+            "prompt": "Add rainbow to your world —pride shines all year",
+            "image": "https://www.dreamse.app/api/styles/videos/pixverse_340894729537344.jpg",
+            "preview_video_url": "https://www.dreamse.app/api/styles/videos/pixverse_340894729537344.mp4",
+            "duration_sec": 5,
+            "name": "Rainbow Moment",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"彩虹时刻\",\"display_prompt\":\"人人都拥有一个五彩缤纷的世界！\"},\"es-ES\":{\"display_name\":\"Momento Arcoíris\",\"display_prompt\":\"¡Todos tienen un mundo lleno de colores!\"},\"ja-JP\":{\"display_name\":\"レインボーモーメント\",\"display_prompt\":\"誰もが色とりどりの世界を持っている！\"},\"ko-KR\":{\"display_name\":\"무지개 순간\",\"display_prompt\":\"모든 사람이 다채로운 세상을 가지고 있습니다！\"},\"pt-BR\":{\"display_name\":\"Momento Arco-íris\",\"display_prompt\":\"Todos têm um mundo cheio de cores!\"},\"fr-FR\":{\"display_name\":\"Moment Arc-en-ciel\",\"display_prompt\":\"Tout le monde a un monde plein de couleurs !\"},\"de-DE\":{\"display_name\":\"Regenbogen-Moment\",\"display_prompt\":\"Jeder hat eine bunte Welt!\"},\"ru-RU\":{\"display_name\":\"Радужный момент\",\"display_prompt\":\"У каждого есть разноцветный мир!\"}}",
+            "display_prompt": "Add rainbow to your world —pride shines all year"
+          },
+          {
+            "id": 321958627120000,
+            "tag": "",
+            "model": "pixverse-v5",
+            "prompt": "No Lover? Get an AI Sweetheart!",
+            "image": "https://www.dreamse.app/api/styles/videos/pixverse_321958627120000.jpg",
+            "preview_video_url": "https://www.dreamse.app/api/styles/videos/pixverse_321958627120000.mp4",
+            "duration_sec": 5,
+            "name": "Kiss Me, AI!",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"AI发对象咯\",\"display_prompt\":\"拯救单身的甜蜜一吻\"},\"es-ES\":{\"display_name\":\"¡El AI encuentra pareja!\",\"display_prompt\":\"¡Un dulce beso para salvar a los solteros!\"},\"ja-JP\":{\"display_name\":\"AIが恋人を見つけた\",\"display_prompt\":\"独身を救う甘いキス\"},\"ko-KR\":{\"display_name\":\"AI가 연인을 찾았어요\",\"display_prompt\":\"솔로를 구하는 달콤한 키스\"},\"pt-BR\":{\"display_name\":\"AI encontrou seu par\",\"display_prompt\":\"Um doce beijo para salvar os solteiros\"},\"fr-FR\":{\"display_name\":\"L'IA a trouvé l'amour\",\"display_prompt\":\"Un doux baiser pour sauver les célibataires\"},\"de-DE\":{\"display_name\":\"KI findet einen Partner\",\"display_prompt\":\"Ein süßer Kuss zur Rettung der Singles\"},\"ru-RU\":{\"display_name\":\"ИИ нашел пару\",\"display_prompt\":\"Сладкий поцелуй для спасения одиноких\"}}",
+            "display_prompt": "No Lover? Get an AI Sweetheart!"
+          },
+          {
+            "id": 385185427574208,
+            "tag": "",
+            "model": "pixverse-v5",
+            "prompt": "Caught mid-lift, before there’s even time to react.",
+            "image": "https://www.dreamse.app/api/styles/videos/pixverse_385185427574208.jpg",
+            "preview_video_url": "https://www.dreamse.app/api/styles/videos/pixverse_385185427574208.mp4",
+            "duration_sec": 5,
+            "name": "Caught Mid-Lift",
+            "i18n_json": "{\"zh-CN\":{\"display_name\":\"被拎个正着\",\"display_prompt\":\"被抓个正着，甚至来不及反应。\"},\"en-US\":{\"display_name\":\"Caught Mid-Lift\",\"display_prompt\":\"Caught mid-lift, before there’s even time to react.\"},\"ja-JP\":{\"display_name\":\"持ち上げられた瞬間\",\"display_prompt\":\"反応する時間もなく、持ち上げられた瞬間を捉えられた。\"},\"ko-KR\":{\"display_name\":\"들려 올려진 순간\",\"display_prompt\":\"반응할 시간도 없이, 들려 올려지는 순간에 포착됐다.\"},\"pt-BR\":{\"display_name\":\"Pego no Flagra\",\"display_prompt\":\"Pego no flagra, antes mesmo de ter tempo de reagir.\"},\"es-ES\":{\"display_name\":\"Pillado al Ser Levantado\",\"display_prompt\":\"Pillado en pleno levantamiento, antes de que dé tiempo a reaccionar.\"},\"fr-FR\":{\"display_name\":\"Pris en Plein Levé\",\"display_prompt\":\"Pris en plein levé, avant même d’avoir le temps de réagir.\"},\"de-DE\":{\"display_name\":\"Mitten im Hochheben\",\"display_prompt\":\"Mitten im Hochheben erwischt, noch bevor man reagieren kann.\"},\"ru-RU\":{\"display_name\":\"Пойман в момент подъёма\",\"display_prompt\":\"Пойман в момент подъёма, ещё до того как успел среагировать.\"},\"it-IT\":{\"display_name\":\"Colto Durante il Sollevamento\",\"display_prompt\":\"Colto durante il sollevamento, prima ancora di riuscire a reagire.\"},\"tr-TR\":{\"display_name\":\"Kaldırılırken Yakalandı\",\"display_prompt\":\"Tepki verecek zaman bile olmadan, kaldırılırken yakalandı.\"},\"id-ID\":{\"display_name\":\"Tertangkap Saat Diangkat\",\"display_prompt\":\"Tertangkap saat diangkat, bahkan sebelum sempat bereaksi.\"},\"th-TH\":{\"display_name\":\"ถูกจับได้ขณะถูกยก\",\"display_prompt\":\"ถูกจับได้ขณะถูกยกขึ้น ก่อนจะทันได้ตั้งตัว\"},\"vi-VN\":{\"display_name\":\"Bị Bắt Gặp Khi Đang Được Nhấc Lên\",\"display_prompt\":\"Bị bắt gặp đúng lúc đang được nhấc lên, chưa kịp phản ứng.\"}}",
+            "display_prompt": "Caught mid-lift, before there’s even time to react."
+          }
+        ]
+      }
+    ]
+  }
+}
