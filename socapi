@@ -18,8 +18,8 @@
   },
 
   "updateNotice": {
-    "enabled": false,
-    "minVersion": "1.0.6",
+    "enabled": true,
+    "minVersion": "1.1.0",
     "title": "Update required",
     "body": "Please update to the latest version to continue using all features.",
     "ctaLabel": "Update now",
