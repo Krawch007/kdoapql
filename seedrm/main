@@ -1,7 +1,7 @@
 {
   "hero_carousel": [
     {
-      "id": "add_your_car",
+      "id": "add_your_car1",
       "title": "Add Your Car",
       "image": "https://www.dreamse.app/api/styles/videos/pixverse_390439023605312.jpg",
       "video_url": "https://www.dreamse.app/api/styles/videos/pixverse_390439023605312.mp4",
@@ -12,7 +12,7 @@
       "i18n_json": "{\"zh-CN\":{\"display_name\":\"街头涂鸦巨星\",\"display_prompt\":\"你的产品，整条街最酷的涂鸦！\"},\"en-US\":{\"display_name\":\"Graffiti AD\",\"display_prompt\":\"Turn your product into street graffiti.\"},\"ko-KR\":{\"display_name\":\"그래피티 스타\",\"display_prompt\":\"당신의 제품을 거리의 그래피티로 바꿔보세요.\"},\"ja-JP\":{\"display_name\":\"ストリートグラフィティのスター\",\"display_prompt\":\"あなたの製品をストリートグラフィティにしよう。\"},\"pt-BR\":{\"display_name\":\"A Estrela do Graffiti de Rua\",\"display_prompt\":\"Transforme seu produto em um graffiti de rua.\"},\"es-ES\":{\"display_name\":\"Estrella del Graffiti Callejero\",\"display_prompt\":\"Convierte tu producto en graffiti callejero.\"},\"fr-FR\":{\"display_name\":\"Star du Graffiti de Rue\",\"display_prompt\":\"Transformez votre produit en graffiti de rue.\"},\"de-DE\":{\"display_name\":\"Graffiti-Superstar\",\"display_prompt\":\"Verwandle dein Produkt in ein Street-Graffiti.\"},\"ru-RU\":{\"display_name\":\"Звезда Уличного Граффити\",\"display_prompt\":\"Преврати свой продукт в уличное граффити.\"},\"th-TH\":{\"display_name\":\"ดารากราฟฟิตี\",\"display_prompt\":\"เปลี่ยนผลิตภัณฑ์ของคุณให้เป็นกราฟฟิตีบนถนน\"},\"id-ID\":{\"display_name\":\"Bintang Graffiti\",\"display_prompt\":\"Ubah produkmu menjadi graffiti jalanan.\"},\"vi-VN\":{\"display_name\":\"Ngôi Sao Graffiti Đường Phố\",\"display_prompt\":\"Biến sản phẩm của bạn thành tranh graffiti đường phố.\"},\"tr-TR\":{\"display_name\":\"Sokak Graffitisi Yıldızı\",\"display_prompt\":\"Ürününüzü sokak graffitisine dönüştürün.\"},\"it-IT\":{\"display_name\":\"Star del Graffiti di Strada\",\"display_prompt\":\"Trasforma il tuo prodotto in un graffito da strada.\"}}"
     },
     {
-      "id": "add_your_car",
+      "id": "add_your_car2",
       "title": "Add Your Car",
       "image": "https://www.dreamse.app/api/styles/videos/pixverse_390439023605312.jpg",
       "video_url": "https://www.dreamse.app/api/styles/videos/pixverse_390439023605312.mp4",
@@ -23,7 +23,7 @@
       "i18n_json": "{\"zh-CN\":{\"display_name\":\"街头涂鸦巨星\",\"display_prompt\":\"你的产品，整条街最酷的涂鸦！\"},\"en-US\":{\"display_name\":\"Graffiti AD\",\"display_prompt\":\"Turn your product into street graffiti.\"},\"ko-KR\":{\"display_name\":\"그래피티 스타\",\"display_prompt\":\"당신의 제품을 거리의 그래피티로 바꿔보세요.\"},\"ja-JP\":{\"display_name\":\"ストリートグラフィティのスター\",\"display_prompt\":\"あなたの製品をストリートグラフィティにしよう。\"},\"pt-BR\":{\"display_name\":\"A Estrela do Graffiti de Rua\",\"display_prompt\":\"Transforme seu produto em um graffiti de rua.\"},\"es-ES\":{\"display_name\":\"Estrella del Graffiti Callejero\",\"display_prompt\":\"Convierte tu producto en graffiti callejero.\"},\"fr-FR\":{\"display_name\":\"Star du Graffiti de Rue\",\"display_prompt\":\"Transformez votre produit en graffiti de rue.\"},\"de-DE\":{\"display_name\":\"Graffiti-Superstar\",\"display_prompt\":\"Verwandle dein Produkt in ein Street-Graffiti.\"},\"ru-RU\":{\"display_name\":\"Звезда Уличного Граффити\",\"display_prompt\":\"Преврати свой продукт в уличное граффити.\"},\"th-TH\":{\"display_name\":\"ดารากราฟฟิตี\",\"display_prompt\":\"เปลี่ยนผลิตภัณฑ์ของคุณให้เป็นกราฟฟิตีบนถนน\"},\"id-ID\":{\"display_name\":\"Bintang Graffiti\",\"display_prompt\":\"Ubah produkmu menjadi graffiti jalanan.\"},\"vi-VN\":{\"display_name\":\"Ngôi Sao Graffiti Đường Phố\",\"display_prompt\":\"Biến sản phẩm của bạn thành tranh graffiti đường phố.\"},\"tr-TR\":{\"display_name\":\"Sokak Graffitisi Yıldızı\",\"display_prompt\":\"Ürününüzü sokak graffitisine dönüştürün.\"},\"it-IT\":{\"display_name\":\"Star del Graffiti di Strada\",\"display_prompt\":\"Trasforma il tuo prodotto in un graffito da strada.\"}}"
     },
     {
-      "id": "add_your_car",
+      "id": "add_your_car3",
       "title": "Add Your Car",
       "image": "https://www.dreamse.app/api/styles/videos/pixverse_390439023605312.jpg",
       "video_url": "https://www.dreamse.app/api/styles/videos/pixverse_390439023605312.mp4",
