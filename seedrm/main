@@ -353,6 +353,23 @@
         "costTokens": 170
       },
       {
+        "id": "pixverse-v5.6",
+        "name": "Pixverse V5.6",
+        "subtitle": "Create videos with enhanced character movement and visual effects.",
+        "etaSec": 180,
+        "imageRequirement": "optional",
+        "icon": "https://www.dreamse.app/api/models/videos/pixverse-v5.png?v=2",
+        "allowedRatioKeys": [
+          "16:9",
+          "9:16",
+          "3:4",
+          "4:3",
+          "1:1"
+        ],
+        "defaultRatioKey": "16:9",
+        "costTokens": 200
+      },
+      {
         "id": "kling-v2.5-turbo-pro",
         "name": "Kling 2.5 Turbo Pro",
         "subtitle": "Smooth motion, cinematic depth, and remarkable prompt adherence.",
