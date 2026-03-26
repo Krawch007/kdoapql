@@ -57,24 +57,6 @@
         "costTokens": 99
       },
       {
-        "id": "sora-2",
-        "name": "Sora 2",
-        "subtitle": "Highly realistic, physically accurate images.",
-        "etaSec": 90,
-        "imageRequirement": "optional",
-        "icon": "https://www.dreamse.app/api/models/images/sora2.png",
-        "allowedRatioKeys": [
-          "match_input_image",
-          "1:1",
-          "16:9",
-          "9:16",
-          "3:4",
-          "4:3"
-        ],
-        "defaultRatioKey": "match_input_image",
-        "costTokens": 70
-      },
-      {
         "id": "nano-banana",
         "name": "Nano Banana",
         "subtitle": "Ultra-high character consistency",
@@ -318,24 +300,7 @@
       }
     ],
     "videos": [
-      {
-        "id": "sora-2",
-        "name": "Sora 2",
-        "subtitle": "Highly realistic, physically accurate, and more controllable clips.",
-        "etaSec": 120,
-        "imageRequirement": "optional",
-        "icon": "https://www.dreamse.app/api/models/videos/sora2.png?v=2",
-        "allowedRatioKeys": [
-          "1:1",
-          "16:9",
-          "9:16",
-          "3:4",
-          "4:3"
-        ],
-        "defaultRatioKey": "16:9",
-        "costTokens": 750
-      },
-      {
+     {
         "id": "pixverse-v5",
         "name": "Pixverse V5",
         "subtitle": "Create videos with enhanced character movement and visual effects.",
