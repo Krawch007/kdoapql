@@ -351,8 +351,8 @@
         },
         {
           "id": "google-veo-3",
-          "name": "Google Veo 3",
-          "subtitle": "Veo 3 text to video model, with audio.",
+          "name": "Google Veo 3.1",
+          "subtitle": "Veo 3.1 text to video model, with audio.",
           "etaSec": 180,
           "imageRequirement": "optional",
           "icon": "https://www.dreamse.app/api/models/videos/google-veo-3.png?v=2",
