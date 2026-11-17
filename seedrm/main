@@ -93,8 +93,8 @@
         },
         {
           "id": "imagen-4",
-          "name": "Google Imagen 4",
-          "subtitle": "Google's Imagen 4 flagship model",
+          "name": "Nano Banana 2",
+          "subtitle": "Google's Nano Banana 2 image model",
           "etaSec": 30,
           "imageRequirement": "forbidden",
           "icon": "https://www.dreamse.app/api/models/images/imagen-4.png",
@@ -382,7 +382,7 @@
         },
         {
           "id": "ray-flash-2-720p",
-          "name": "Ray Flash 2",
+          "name": "Seedance 1 Lite",
           "subtitle": "Powerful solution for generating video content from text prompts.",
           "etaSec": 60,
           "imageRequirement": "optional",
